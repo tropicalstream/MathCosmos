@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- The tour's own palette: cold slate and chalk for the ground it is all built on, warm amber
+         for the piece being worked, teal for a piece that was ADDED and has to stay distinguishable
+         from the rest for the whole of a stop. On the X3 waveguides black is transparent, so every
+         colour here is bright enough to survive being drawn as light. -->
+    <color name="accent">#FFC76B</color>        <!-- the piece being worked -->
+    <color name="accent_dark">#B08240</color>   <!-- a piece already placed -->
+    <color name="hud">#FFCF8C</color>           <!-- warm amber telemetry text -->
+    <color name="hud_glow">#FF4D6D</color>
+    <color name="cell">#8CF2D9</color>          <!-- borrowed, and never allowed to blend in -->
+    <color name="nucleus">#8CA8FF</color>       <!-- the cold ground: axes, rulings, chalk -->
+    <color name="lamp">#FFC46B</color>          <!-- the Caliper's bow lamp -->
+    <color name="ink">#090C16</color>
+</resources>

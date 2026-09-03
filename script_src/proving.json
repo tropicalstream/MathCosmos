@@ -1,0 +1,31 @@
+{
+  "id": 1,
+  "clipPrefix": "m1_",
+  "title": "MathCosmos: The Proving Ground",
+  "transitMs": 14000,
+  "stops": [
+    {
+      "name": "APPROACH",
+      "lines": [
+        {"role": "NAVIGATION", "view": 1, "sfx": "drive_engage",
+         "text": "[warm] Helm to all stations. We are trimmed and running clean, and there is something ahead worth slowing down for."}
+      ]
+    },
+    {
+      "name": "THE PLANE",
+      "lines": [
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Two rulers, crossed at right angles. That is the whole invention. Every point out there now has exactly two numbers, and every rule you can write about those numbers becomes a shape you can look at."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] So the bead is not drawing the curve. The bead is obeying it."}
+      ]
+    },
+    {
+      "name": "DEPART",
+      "lines": [
+        {"role": "NAVIGATION", "view": 1, "text": "[reflective] Coming about. Log it and let us see what else is out here."}
+      ]
+    }
+  ],
+  "fillers": []
+}

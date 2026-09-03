@@ -1,0 +1,1327 @@
+{
+ "title": "MathCosmos VI: The Field and the Flow",
+ "durationMs": 2731421,
+ "keyframes": [
+  [
+   0,
+   0
+  ],
+  [
+   154472,
+   0
+  ],
+  [
+   178472,
+   1
+  ],
+  [
+   178472,
+   1
+  ],
+  [
+   346972,
+   1
+  ],
+  [
+   370972,
+   2
+  ],
+  [
+   370972,
+   2
+  ],
+  [
+   556203,
+   2
+  ],
+  [
+   580203,
+   3
+  ],
+  [
+   580203,
+   3
+  ],
+  [
+   778739,
+   3
+  ],
+  [
+   802739,
+   4
+  ],
+  [
+   802739,
+   4
+  ],
+  [
+   991945,
+   4
+  ],
+  [
+   1015945,
+   5
+  ],
+  [
+   1015945,
+   5
+  ],
+  [
+   1202941,
+   5
+  ],
+  [
+   1226941,
+   6
+  ],
+  [
+   1226941,
+   6
+  ],
+  [
+   1413193,
+   6
+  ],
+  [
+   1437193,
+   7
+  ],
+  [
+   1437193,
+   7
+  ],
+  [
+   1635476,
+   7
+  ],
+  [
+   1659476,
+   8
+  ],
+  [
+   1659476,
+   8
+  ],
+  [
+   1841919,
+   8
+  ],
+  [
+   1865919,
+   9
+  ],
+  [
+   1865919,
+   9
+  ],
+  [
+   2063040,
+   9
+  ],
+  [
+   2087040,
+   10
+  ],
+  [
+   2087040,
+   10
+  ],
+  [
+   2285044,
+   10
+  ],
+  [
+   2309044,
+   11
+  ],
+  [
+   2309044,
+   11
+  ],
+  [
+   2519090,
+   11
+  ],
+  [
+   2543090,
+   12
+  ],
+  [
+   2543090,
+   12
+  ],
+  [
+   2725421,
+   12
+  ]
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_helm_all_stations_last_9c42a5",
+   "text": "[warm] Helm to all stations. Last run of the six, and the walls stay ghosted throughout — that pale tube is a guide rail now, nothing more. Doc has the deck. One warning: today the ship gets pushed about, and it is not me doing it.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 16545,
+   "role": "SCIENCE",
+   "clip": "m6_sci_look_at_space_not_a2aafb",
+   "text": "[gentle] Look at the space, not down the corridor. There is a small arrow at every place out there — above us, below us, behind your shoulder. Not one arrow with a graph attached. One at every point, saying which way and how hard.",
+   "view": 0
+  },
+  {
+   "t": 34298,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_can_see_them_great_6bc2e5",
+   "text": "[dry] I can see them, and a great many of them. What I want to know is whether they are furniture. Somebody has drawn arrows in the air and we fly politely past them. Is there anything actually out there, Doc, or is this the diagram again?",
+   "view": 3
+  },
+  {
+   "t": 48475,
+   "role": "SCIENCE",
+   "clip": "m6_sci_fair_question_settle_with_a79ee5",
+   "text": "[gentle] Fair question, and we settle it with the ship rather than with me. Helm takes his hands off the trim in a moment. Before he does, commit to one of two things: this hull sits exactly where it is, or it gets carried. Watch the dust by the starboard window.",
+   "view": 0
+  },
+  {
+   "t": 71874,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_hands_in_my_lap_dbaa64",
+   "text": "[reflective] Hands in my lap, Doc, and I do not love the answer. Drift is two units to starboard with none of my thrust behind it, and every streak of dust out there is lying the same way the arrows lie. Whatever this is, the dust agrees with it.",
+   "view": 1
+  },
+  {
+   "t": 87073,
+   "role": "SCIENCE",
+   "clip": "m6_sci_there_hull_leaned_by_76be10",
+   "text": "[warm] There it is. The hull leaned by exactly as much as the arrows here said it should, and nobody flew it. That is a field. Wind is one. The pull of the earth is one. The push round a magnet is one — a rule that hands you an arrow the moment you say where you stand.",
+   "view": 3
+  },
+  {
+   "t": 106126,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_had_arrows_on_last_57022b",
+   "text": "[dry] We had arrows on the last run, Doc. Flat on the ground of that green country, pointing uphill, one at every place we stood, and you called it a compass. Was that one of these all along? It looked nothing like this.",
+   "view": 0
+  },
+  {
+   "t": 118956,
+   "role": "SCIENCE",
+   "clip": "m6_sci_exactly_right_hold_on_1d71fb",
+   "text": "[grave] Exactly right, and hold on to it, because this whole run turns on it. That one came out of a landscape — every arrow the uphill direction of a hill you could see. Some fields are like that. Most are not, and the difference costs money.",
+   "view": 3
+  },
+  {
+   "t": 135687,
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_sentence_carry_out_81a991",
+   "text": "[warm] One sentence to carry out of here, and only one: a field is an arrow handed to you at every single place you could stand, and it is not a drawing, because it has just moved this ship sideways. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 154472,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_under_way_am_keeping_37c5ea",
+   "text": "[warm] Under way, and I am keeping a hand near the trim. Doc has just told me that at the next stop I stop flying altogether, which is not a sentence any pilot enjoys hearing five minutes into a shift. Stand by for that.",
+   "view": 1
+  },
+  {
+   "t": 178472,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_helm_touches_anything_cd68a2",
+   "text": "[gentle] Before Helm touches anything here. A minute ago this ship moved sideways with nobody flying it. What did that settle about the arrows outside, and what exactly was the evidence for it? Answer that to yourself, in your own words, before we go on.",
+   "view": 0
+  },
+  {
+   "t": 199232,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_helm_all_stations_drive_d24a7a",
+   "text": "[warm] Helm to all stations. Drive is coming off — deliberate, and the quiet you are about to hear is meant to happen. Thrust to zero in three, two, one. — Off. And we are still moving. My hands are in my lap and we are still moving.",
+   "view": 0,
+   "sfx": "chime"
+  },
+  {
+   "t": 215963,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_have_cut_drive_in_71830c",
+   "text": "[dry] You have cut the drive. In a current. In twenty years of ships the one rule everybody agrees on, before food and before sleep, is that you do not cut your drive while something else is pushing you. And here we sit, coasting.",
+   "view": 3
+  },
+  {
+   "t": 229443,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_not_coasting_chief_coasting_1d263c",
+   "text": "[reflective] Not coasting, Chief. Coasting is what you do when nothing is steering. Something is steering. The heading is changing under me, smoothly, and I am not the one changing it. And there is a bright thread paying out behind us.",
+   "view": 1
+  },
+  {
+   "t": 244317,
+   "role": "SCIENCE",
+   "clip": "m6_sci_thread_one_small_question_3b1ca1",
+   "text": "[gentle] That thread is one small question asked over and over. Where you are now, which way does the arrow point — go that way, a little. Then ask again. Do that without ever stopping and you have a path. That is all a flow line is.",
+   "view": 0
+  },
+  {
+   "t": 261791,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_three_probes_away_port_f7b45f",
+   "text": "[reflective] Three probes away — port, starboard and one high. All three drawing threads of their own. They are running close together up ahead, Doc, a good deal closer than I would ever fly three craft, and none of them is slowing.",
+   "view": 1
+  },
+  {
+   "t": 276711,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_they_are_going_cross_f4bbdd",
+   "text": "[dry] They are going to cross. There is not the room in there and none of them is looking. So call it now, before they get there — do those threads touch, or do they miss? Keep your eye on the gap between the port probe and the high one and nothing else.",
+   "view": 0
+  },
+  {
+   "t": 296767,
+   "role": "SCIENCE",
+   "clip": "m6_sci_they_missed_they_had_803c0e",
+   "text": "[warm] They missed, and they had to. At any one place the field hands you one arrow, and one arrow points one way. Two threads crossing would need that place to have two directions at once, and it has not got two to give.",
+   "view": 3
+  },
+  {
+   "t": 312384,
+   "role": "SCIENCE",
+   "clip": "m6_sci_read_spacing_while_still_715972",
+   "text": "[gentle] And read the spacing while you still have them in front of you. Where the threads stretch apart and thin out, the flow is quick. Where they crowd together, it is slow. You are reading a speed off a picture with no numbers written on it anywhere.",
+   "view": 0
+  },
+  {
+   "t": 329069,
+   "role": "SCIENCE",
+   "clip": "m6_sci_here_sentence_let_go_cf1341",
+   "text": "[warm] Here is the sentence. Let go, obey the arrow under you, ask again, and the path draws itself — and no two of those paths can ever meet. Put that into your own words and we are finished here, and Helm can have his drive back.",
+   "view": 0
+  },
+  {
+   "t": 370972,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_arms_come_out_9bd3fd",
+   "text": "[gentle] Before the arms come out. You have just watched three threads run close together and pass without touching. What was the reason they could not touch? Put it into one sentence in your own head, and do not settle for because I said so.",
+   "view": 0
+  },
+  {
+   "t": 391453,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_belly_drum_opening_six_c5312b",
+   "text": "[warm] Belly drum is opening. Six arms out, one to each face of a wire box about half a unit on a side, and we are sitting in the middle of it. Every face has a cap that lights when something goes through that face.",
+   "view": 3,
+   "sfx": "grow"
+  },
+  {
+   "t": 405073,
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_question_here_never_080b72",
+   "text": "[gentle] One question here and it never changes: is more leaving this box than arriving in it? Blue cap where the flow comes in, red cap where it goes out, and the bar on the measuring deck sets those two totals against each other. The bar is the instrument.",
+   "view": 0
+  },
+  {
+   "t": 423662,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_then_want_figure_off_d97373",
+   "text": "[dry] Then I want a figure off it before Helm reads it out. We are in a fast stretch — the streaks are absolutely tearing past the window. Say now where that bar sits. Up hard, or nothing at all. Watch the bar itself, not the pretty caps.",
+   "view": 3
+  },
+  {
+   "t": 443857,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_steady_flow_through_here_157798",
+   "text": "[reflective] Steady flow through here. Forward face red, aft face blue, the four sides dark, and the bar sitting flat on zero. It has not twitched since the arms locked out. That box has nothing to say about what we are flying through.",
+   "view": 1
+  },
+  {
+   "t": 459009,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_cannot_be_right_will_b4181f",
+   "text": "[dry] That cannot be right, and I will say so before anybody corrects me. There is a great deal of flow going through that box. I can see it going through. And the instrument sits there telling me nothing whatever is happening. One of us is broken and it is not me.",
+   "view": 3
+  },
+  {
+   "t": 474022,
+   "role": "SCIENCE",
+   "clip": "m6_sci_telling_truth_are_right_fd539f",
+   "text": "[warm] It is telling you the truth, and you are right to be annoyed by it. It is not measuring how much goes past. It is measuring whether the box is filling up. A litre in at the front and a litre out at the back leaves it as it was.",
+   "view": 0
+  },
+  {
+   "t": 489824,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_bright_bead_ahead_dead_431c06",
+   "text": "[reflective] Bright bead ahead, dead centre, and we pass right over it. Caps changing — two red, four red, all six of them red now, and the bar has come off zero and it is climbing hard. It is still climbing, Doc.",
+   "view": 1
+  },
+  {
+   "t": 505116,
+   "role": "SCIENCE",
+   "clip": "m6_sci_six_out_nothing_in_09bca0",
+   "text": "[gentle] Six out and nothing in. That box is gaining, and the gain can only come from inside it. That is a source, and the height of the bar is what we mean by divergence there. There is another of these ahead and I am not naming it. Chief, it is yours.",
+   "view": 3
+  },
+  {
+   "t": 523380,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_all_six_caps_have_ff94e5",
+   "text": "[reflective] All six caps have gone blue. Nothing leaving that box on any face at all, and the bar has swung down below the line and parked itself there. So it is not making, it is eating. Same instrument, sign turned over. Your source run backwards.",
+   "view": 1
+  },
+  {
+   "t": 538579,
+   "role": "SCIENCE",
+   "clip": "m6_sci_stop_divergence_not_how_5f8051",
+   "text": "[warm] That is the stop. Divergence is not how fast the flow goes past — it is what a small box gains or loses, and a box with as much coming in as going out reads nothing at all. Put that one in your own words and we can stow the arms.",
+   "view": 0
+  },
+  {
+   "t": 556203,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_arms_in_box_stowed_ffc856",
+   "text": "[warm] Arms in and the box is stowed. Doc has asked for the paddle wheel next, which I am reliably told is the finest instrument on this ship and which in four years I have never once seen anybody use in anger.",
+   "view": 1
+  },
+  {
+   "t": 580203,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_wheel_goes_out_45d266",
+   "text": "[gentle] Before the wheel goes out. The box we have just stowed sat at dead zero in the fastest stretch of this corridor. Why did it? Answer that one to yourself now, because everything at this stop is going to try to trick you in exactly the same way.",
+   "view": 0
+  },
+  {
+   "t": 601335,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_wheel_out_six_blades_c782f3",
+   "text": "[warm] Wheel is out. Six blades on a rod, straight down out of the belly, hanging in the flow under us. One blade is marked white so you can keep track of it. And it is turning — it came up to speed the moment it cleared the hull.",
+   "view": 3
+  },
+  {
+   "t": 615976,
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_instrument_one_question_81a615",
+   "text": "[gentle] One instrument and one question for this whole stop: does it turn? If it turns, there is spin in the flow at this place. If it sits still, there is none. Helm, roll the rod over slowly and keep calling the rate as you go.",
+   "view": 0
+  },
+  {
+   "t": 634704,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_rolling_her_over_rate_114872",
+   "text": "[reflective] Rolling her over. The rate comes up as I go — and that is the maximum, right there, rod pointing up and a shade to port. Now square to that: nothing. Dead still. It has a direction it likes and it is very fussy about it.",
+   "view": 1
+  },
+  {
+   "t": 650831,
+   "role": "SCIENCE",
+   "clip": "m6_sci_then_have_measured_thing_53678f",
+   "text": "[warm] Then you have measured the thing itself. The axis you had to point the rod along, and how fast it went round once you did — those two together make one arrow, and that arrow is what is meant by the curl of the field here.",
+   "view": 0
+  },
+  {
+   "t": 665612,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_fine_have_got_so_66c54d",
+   "text": "[dry] Fine, I have got that. So curl is how bendy the arrows are, near enough. If the flow goes round in circles the wheel goes round with it, and if the arrows all run dead straight it sits there. That is what I would have put in the log.",
+   "view": 3
+  },
+  {
+   "t": 680253,
+   "role": "SCIENCE",
+   "clip": "m6_sci_then_let_us_test_0d3b13",
+   "text": "[grave] Then let us test it, and I want everyone in it with him. Helm, the ring field — the one where every arrow curls round the centre. Wheel straight into it. Before we arrive, commit: does that wheel spin, and which way? Keep your eye on the white blade. Only the white blade.",
+   "view": 0,
+   "sfx": "chime"
+  },
+  {
+   "t": 707299,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_in_arrows_are_absolutely_b0666c",
+   "text": "[reflective] In it. And the arrows are absolutely going round — we are carried round with them, I can see the whole corridor swinging past the window. The wheel is not turning. The white blade is pointing at the same star it started on.",
+   "view": 1
+  },
+  {
+   "t": 722126,
+   "role": "SCIENCE",
+   "clip": "m6_sci_two_things_are_fighting_17af24",
+   "text": "[gentle] Two things are fighting over that wheel. Being carried round the loop turns it one way. The inner blade sitting in faster flow than the outer turns it the other, and here the two are exactly equal. Now Helm gives you the shear — every arrow dead straight, all parallel, nothing curved anywhere. And it spins briskly. Chief, why?",
+   "view": 3
+  },
+  {
+   "t": 746148,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_because_top_blade_in_9d9852",
+   "text": "[reflective] Because the top blade is in quicker water than the bottom one. One side of my wheel is pushed harder than the other side, and that is the whole of it. Curved arrows can leave it dead and straight ones can spin it. It was never the shape of the arrows.",
+   "view": 0
+  },
+  {
+   "t": 760186,
+   "role": "SCIENCE",
+   "clip": "m6_sci_stop_thing_people_get_95d657",
+   "text": "[warm] And that is the stop, and it is the thing people get wrong for years. Spin is not curviness. It is one side of a small wheel being pushed harder than the other side. Try that sentence out loud, in your words not mine, and we can stow the wheel.",
+   "view": 0
+  },
+  {
+   "t": 778739,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_wheel_stowed_arm_in_09c927",
+   "text": "[warm] Wheel stowed and the arm is in. Doc has asked for the terrain to be brought back up for this next one — the green country from the last run, ghosted through. I did not expect to be looking at that hillside again.",
+   "view": 1
+  },
+  {
+   "t": 802739,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_ground_comes_up_adc22e",
+   "text": "[gentle] Before the ground comes up around us. A moment ago the wheel sat dead still while the arrows went round in circles, and it spun hard where they ran dead straight. So what was actually turning it? Say that back to yourself before we go on.",
+   "view": 0
+  },
+  {
+   "t": 822895,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_terrain_coming_up_around_d9ec08",
+   "text": "[warm] Terrain coming up around us. There is the valley we followed, there is the summit off to port, all of it faint now, like a chart laid over the dark. And the field arrows have come with it — every one lying flat on the ground.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 837536,
+   "role": "SCIENCE",
+   "clip": "m6_sci_these_are_compass_arrows_feff49",
+   "text": "[gentle] These are the compass arrows from the green country, and I want the same care we took last time: they lie in the flat plane underneath, not draped over the hillside. Each points the way that climbs fastest from where you stand.",
+   "view": 0
+  },
+  {
+   "t": 853153,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_then_before_he_flies_084b91",
+   "text": "[dry] Then before he flies anything I want everybody committed. Helm takes us round a loop and home. Then a longer loop, a different way about, and home again. Where does the work meter sit at the end of each? Same both times, or not? Watch the bar and nothing else.",
+   "view": 3
+  },
+  {
+   "t": 875345,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_both_loops_flown_up_30d913",
+   "text": "[reflective] Both loops flown. Up over the shoulder, round the back, home — the meter filled to three-quarters and came all the way down to nothing. Then the long way about, twice the distance, and I wandered in the middle on purpose. Zero again, Chief. Not close to zero. Zero.",
+   "view": 1
+  },
+  {
+   "t": 894770,
+   "role": "SCIENCE",
+   "clip": "m6_sci_because_meter_was_never_824db6",
+   "text": "[warm] Because that meter was never measuring your trip. It was measuring the difference in height between where you stopped and where you started, and nothing else about the journey survives into it. Come home, no difference, no bill.",
+   "view": 0
+  },
+  {
+   "t": 910247,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_then_rule_can_use_f58c1b",
+   "text": "[dry] Then that is a rule I can use. Any loop, any field, fly whatever route you like and pay nothing so long as you finish where you began. Tell me that is a rule, Doc, because it would save me a great deal of arithmetic.",
+   "view": 0
+  },
+  {
+   "t": 923542,
+   "role": "SCIENCE",
+   "clip": "m6_sci_not_rule_am_going_f4bd84",
+   "text": "[grave] It is not a rule, and I am going to show you rather than argue with you. Helm, the shear back on — the straight arrows that spun the wheel — and fly that same loop again. Watch the bar. And watch the ground while you do, because it is going to try something.",
+   "view": 3,
+   "sfx": "klaxon"
+  },
+  {
+   "t": 946663,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_home_bar_has_not_4de8f9",
+   "text": "[reflective] Home, and the bar has not come home with us. There is a surplus sitting in it and I was only travelling. And the ground under us is flickering, Doc — it comes up in patches and tears itself apart again. I have never seen the terrain do that.",
+   "view": 1
+  },
+  {
+   "t": 962512,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_ground_not_broken_trying_c4b004",
+   "text": "[reflective] The ground is not broken, is it. It is trying to draw me a hill that would produce these arrows, and there is no such hill. Not hidden somewhere. Not there at all. And that is what I have just been charged for on a loop that came home.",
+   "view": 0
+  },
+  {
+   "t": 976132,
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_sentence_then_round_0aaccc",
+   "text": "[warm] One sentence, then. A round trip is free only when the arrows were the uphill arrows of some real landscape, and most arrows in this universe are not. If you can put that into your own words, we can let the country go.",
+   "view": 0
+  },
+  {
+   "t": 991945,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_terrain_fading_back_out_b03f3d",
+   "text": "[warm] Terrain fading back out. Doc says the next three stops are the ones this whole expedition has been building toward, and that I am not to let anybody look away from the bar on the measuring deck. Consider yourselves told.",
+   "view": 1
+  },
+  {
+   "t": 1015945,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_patch_comes_up_a80c53",
+   "text": "[gentle] Before the patch comes up. A closed loop cost us nothing on the downhill field and then cost us a surplus on the shear, flown by the same pilot at the same speed. What was the difference between those two fields? Answer it in your own head first, in one sentence.",
+   "view": 0
+  },
+  {
+   "t": 1037634,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_flat_patch_across_corridor_4c2456",
+   "text": "[warm] Flat patch across the corridor ahead, held open by a loop of wire. It is tiled — eight by eight, sixty-four little paddle wheels sitting in it, every one turning at its own rate. Some of them fast, some barely at all.",
+   "view": 3
+  },
+  {
+   "t": 1052647,
+   "role": "SCIENCE",
+   "clip": "m6_sci_two_jobs_they_look_f4e59e",
+   "text": "[gentle] Two jobs, and they look nothing like each other. One: go round every wheel on that patch, read its spin, add up all sixty-four. Two: ignore the inside, fly the wire rim once, add up the push along it. Those two give the same number.",
+   "view": 0
+  },
+  {
+   "t": 1071329,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_why_would_they_one_cbaca5",
+   "text": "[dry] Why would they. One is sixty-four measurements spread over a surface and the other is a lap of the fence. There is no reason on earth for a fence to know what is going on in the middle of a field.",
+   "view": 3
+  },
+  {
+   "t": 1082627,
+   "role": "SCIENCE",
+   "clip": "m6_sci_look_at_where_two_6b8ace",
+   "text": "[warm] Look at where two neighbouring wheels touch. They share an edge, and on that edge one pushes up while the other pushes down. Helm is about to dim every shared edge in pairs. Say now what the interior total does while he dims them. Watch the last figure on it.",
+   "view": 0
+  },
+  {
+   "t": 1106676,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_dimming_swept_outward_from_92d589",
+   "text": "[reflective] Dimming. It swept outward from the middle — pairs going dark, two at a time, all the way across the patch. And the interior total on the deck did not move through any of it. Not a flicker in the last figure, Doc, and I was watching that figure.",
+   "view": 1,
+   "sfx": "spark"
+  },
+  {
+   "t": 1123268,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_now_hold_on_are_7dd106",
+   "text": "[dry] Now hold on. You are switching lights off and telling me the sum is unchanged. Of course it is. You have not switched anything off out there in the flow, you switched it off on my display. That is not a cancellation, it is a lighting cue.",
+   "view": 0
+  },
+  {
+   "t": 1137631,
+   "role": "SCIENCE",
+   "clip": "m6_sci_fair_hit_will_take_fe8968",
+   "text": "[reflective] That is a fair hit and I will take it. Nobody should believe sixty-four of anything they have not watched done once. Helm, leave me four wheels and blow them up until they fill the window. Chief, add these two arrows yourself.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 1154037,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_right_on_shared_edge_650263",
+   "text": "[reflective] Right. On this shared edge — one arrow that way, one the same size the other way. Put them together and there is nothing left of either. And that holds for every internal edge in the patch, because every one has two owners.",
+   "view": 3
+  },
+  {
+   "t": 1168214,
+   "role": "SCIENCE",
+   "clip": "m6_sci_every_one_them_only_a42cff",
+   "text": "[warm] Every one of them. And the only edges left standing, with nobody on the far side to cancel against, are the ones out on the rim. That is Green's theorem, and you did not take it from me. You did it with four wheels and your thumbs.",
+   "view": 0
+  },
+  {
+   "t": 1184620,
+   "role": "SCIENCE",
+   "clip": "m6_sci_so_sentence_all_spin_b933dc",
+   "text": "[gentle] So the sentence is this: all the spin inside a patch adds up to exactly the push around its edge, because everything in the middle has a neighbour pushing back at it. Say that one out loud, in your words and not mine, and this one is finished.",
+   "view": 0
+  },
+  {
+   "t": 1202941,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_patch_stowed_next_one_ba3356",
+   "text": "[warm] Patch is stowed. The next one is a closed bag with something making trouble inside it, and Doc has asked me to fly us out straight through the skin of the thing, which I am reliably assured is entirely fine.",
+   "view": 1
+  },
+  {
+   "t": 1226941,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_bag_closes_around_75b4e3",
+   "text": "[gentle] Before the bag closes around us. On that tiled patch you decided the middle did not matter, and you had a reason for it that was your reason and not mine. What was it? Say it to yourself now, because you are about to need it again in a different shape.",
+   "view": 0
+  },
+  {
+   "t": 1247701,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_closed_surface_all_around_716a68",
+   "text": "[warm] Closed surface all around us — a wire bag, and we are inside it. It is not a tube. There is no way out along the corridor, it shuts at both ends. And there is a bright bead near the middle of it, about thirty metres off the port bow.",
+   "view": 1
+  },
+  {
+   "t": 1264246,
+   "role": "SCIENCE",
+   "clip": "m6_sci_put_probe_box_back_780772",
+   "text": "[gentle] Put the probe box back out and take it to that bead. — Six red caps, exactly as before. Something is being made there. Now out to the quiet corners of the bag: nothing, all six faces dark. The making happens in one small place.",
+   "view": 0
+  },
+  {
+   "t": 1282138,
+   "role": "SCIENCE",
+   "clip": "m6_sci_two_bars_are_about_3d0527",
+   "text": "[gentle] Two bars are about to come up on the measuring deck. The left one is everything the boxes say is being made inside this bag. The right one is everything the streaks carry out through the skin. Decide now whether they match. Watch the two bars, not the bead.",
+   "view": 0
+  },
+  {
+   "t": 1306095,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_both_bars_up_measured_bad3e7",
+   "text": "[reflective] Both bars up, and I measured them off the deck twice because I did not believe the first reading. They are the same length. Not close. The same, to the last mark on the scale, and they are staying that way as we drift.",
+   "view": 3
+  },
+  {
+   "t": 1320736,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_well_yes_has_go_4256d2",
+   "text": "[dry] Well, yes. It has to go somewhere. If the stuff is made in there, and the bag does not swell up, and it does not pile in a corner, then every last bit has to come out through the skin. I would have signed that off unaided.",
+   "view": 0
+  },
+  {
+   "t": 1334124,
+   "role": "SCIENCE",
+   "clip": "m6_sci_would_would_be_right_a0d9b1",
+   "text": "[warm] You would, and you would be right, and I will not pretend it is a surprise. It is bookkeeping, true for exactly the reason you gave. What is worth having here is which of those two bars is the cheap one to read.",
+   "view": 3
+  },
+  {
+   "t": 1349044,
+   "role": "SCIENCE",
+   "clip": "m6_sci_cannot_fill_volume_with_421520",
+   "text": "[gentle] You cannot fill a volume with probe boxes and count them all. You would be at it for a week and still be guessing. But the skin is a surface, and a surface you can survey. Everything that happens in a region, settled by a walk around its boundary.",
+   "view": 0
+  },
+  {
+   "t": 1366518,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_going_out_through_now_b01338",
+   "text": "[reflective] Going out through it now. — Through. And looking back, the whole skin is lit in patches where the flow is crossing it, brightest on the side away from the bead. The bag is glowing like a lamp with something inside it.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 1381345,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_twice_patch_was_settled_066190",
+   "text": "[reflective] That is twice. The patch was settled by its rim and the bag is settled by its skin. And now I think about it, three times — the whole sweep behind us on the accumulation run came down to two readings taken at two gates.",
+   "view": 1
+  },
+  {
+   "t": 1394547,
+   "role": "SCIENCE",
+   "clip": "m6_sci_three_times_found_third_222ce0",
+   "text": "[grave] Three times, and you found the third one yourself. So: everything made inside a closed region has to cross its skin to get out, which means the skin is the only thing you ever have to measure. If that sentence is yours now and not just mine, we are done here.",
+   "view": 3
+  },
+  {
+   "t": 1413193,
+   "role": "SCIENCE",
+   "clip": "m6_sci_hold_thought_exactly_as_364255",
+   "text": "[grave] Hold that thought exactly as it is, Chief, all the way to the rim. The next stop is the fourth time of asking, and after that you will start seeing it everywhere you look, in places nobody ever told you it was hiding.",
+   "view": 1
+  },
+  {
+   "t": 1437193,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_anybody_stretches_anything_6f4e12",
+   "text": "[gentle] Before anybody stretches anything. In the bag you had two measurements available to you and you threw one of them away. Which one went, which one stayed, and what made that choice legitimate? Answer it to yourself, in your own words, before Helm speaks.",
+   "view": 0
+  },
+  {
+   "t": 1457721,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_through_rim_holding_station_968d32",
+   "text": "[warm] Through the rim and holding station. That wire loop does not move — whatever else happens, it is fixed and nobody is touching it. Chief, take the film out into a dome, slowly. Everyone else, watch the total bar. Not the surface. The bar.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 1474870,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_he_pulls_commit_c26d02",
+   "text": "[gentle] And before he pulls, commit to something. He is about to triple the area of that skin and put hundreds of new wheels onto it, every one of them turning. Does the total bar climb, fall, or sit exactly where it is? Watch the last digit on the bar. Only that.",
+   "view": 0
+  },
+  {
+   "t": 1501173,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_stretching_dome_past_two_4244fb",
+   "text": "[dry] Stretching. The dome is past two units and still climbing. I have got — call it four hundred paddle wheels turning on that skin, all at different rates, half of them did not exist ten seconds ago. That bar should be jumping all over.",
+   "view": 0
+  },
+  {
+   "t": 1516465,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_has_not_moved_not_ba05cf",
+   "text": "[dry] And it has not moved. Not a hair. Doc, that is wrong. I have tripled the area of that surface, I have put three hundred new wheels onto it, every one of them is turning, and the number has not changed in its last figure.",
+   "view": 3
+  },
+  {
+   "t": 1530317,
+   "role": "SCIENCE",
+   "clip": "m6_sci_not_wrong_best_thing_1d8e6e",
+   "text": "[warm] It is not wrong. It is the best thing in this whole passage, and I am not going to say another word about it yet. Keep pulling. Flatten it right down to a disc. — Good. Now bag it out the other way into a long sock, right down past the ship, as far as it will go.",
+   "view": 0
+  },
+  {
+   "t": 1552645,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_disc_dome_sock_area_3c0ebc",
+   "text": "[reflective] Disc, dome, sock. The area of that surface has been up by three and down by five and the wheels on it have changed every second of it. The bar has not moved a pixel. I have been watching the last digit the whole time, Doc. It has not moved.",
+   "view": 1
+  },
+  {
+   "t": 1570026,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_then_inside_does_not_8fa502",
+   "text": "[dry] Then the inside does not matter at all. Every wheel I have counted on that skin for the last two minutes was a waste of my time and of yours, and you might have said so before I started counting them.",
+   "view": 0
+  },
+  {
+   "t": 1581835,
+   "role": "SCIENCE",
+   "clip": "m6_sci_inside_matters_enormously_simply_71cc3e",
+   "text": "[gentle] The inside matters enormously. It is simply that all of it cancels — and you know how, because you did it yourself with four wheels and your thumbs. Two neighbours share a blade and push it opposite ways. That happens everywhere under that skin, whatever shape you bend it into.",
+   "view": 3
+  },
+  {
+   "t": 1600656,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_so_have_two_ways_86dbe2",
+   "text": "[reflective] So I have two ways of getting that number. Survey the whole skin, wheel by wheel, for an hour, in whatever shape it happens to be in that day. Or fly the wire loop once, read the push off the hull as I go, and be home for lunch.",
+   "view": 3
+  },
+  {
+   "t": 1616644,
+   "role": "SCIENCE",
+   "clip": "m6_sci_fly_rim_stokes_theorem_bb5ba0",
+   "text": "[grave] Fly the rim. That is Stokes' theorem, and it is the sentence you have already heard three times today in smaller clothes: what happens inside a region is settled by what crosses its edge. Say that one back in your own words and you have the best thing in this series.",
+   "view": 3
+  },
+  {
+   "t": 1635476,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_am_going_be_thinking_e6b292",
+   "text": "[reflective] I am going to be thinking about that bar for some while yet. Six runs of this, and the thing I never once saw coming was that the middle of a thing might turn out not to matter at all. Not one bit of it.",
+   "view": 1
+  },
+  {
+   "t": 1659476,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_sticks_come_up_0919ab",
+   "text": "[gentle] Before the sticks come up around us. You had two ways of getting the number on that bar: survey the whole skin, or fly the rim once. What made the second one legitimate rather than merely lazy? Put that reason into one sentence in your own head.",
+   "view": 0
+  },
+  {
+   "t": 1679818,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_field_changing_around_us_7dc732",
+   "text": "[warm] The field is changing around us. The arrows have gone, and the corridor is full of short sticks instead, thousands of them, each set at its own tilt. And the drive note has dropped away underneath. That is not a fault. That is the new job.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 1695945,
+   "role": "SCIENCE",
+   "clip": "m6_sci_every_stick_instruction_same_b5bbc9",
+   "text": "[gentle] Every stick is an instruction, and it is the same instruction everywhere: if you find yourself here, this is the direction you must be travelling. Not where to go. How steeply to be going, at this exact place, at this exact moment.",
+   "view": 0
+  },
+  {
+   "t": 1712630,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_differential_equation_because_equation_f0e3c5",
+   "text": "[dry] And that is a differential equation, is it. Because an equation, in my experience, is a line of symbols with an equals sign in the middle of it and a headache on either side of that. This here is a hedge.",
+   "view": 3
+  },
+  {
+   "t": 1724392,
+   "role": "SCIENCE",
+   "clip": "m6_sci_symbols_are_rule_decides_f9c885",
+   "text": "[warm] The symbols are the rule that decides the angle of each stick. Feed a place in, get a tilt out, set the stick. The hedge is what the equation means, laid out where you can walk through it. The symbols were the instructions for building this.",
+   "view": 0
+  },
+  {
+   "t": 1740798,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_there_curve_growing_out_d2b5e2",
+   "text": "[reflective] There is a curve growing out in front of the bow, picking its way from stick to stick and lying flat along each one as it arrives. It has not once cut across one at an angle. It is obeying every last one of them.",
+   "view": 1
+  },
+  {
+   "t": 1755532,
+   "role": "SCIENCE",
+   "clip": "m6_sci_solution_not_solution_solution_331a7d",
+   "text": "[gentle] That is a solution. Not the solution — a solution. It is the curve that starts where we happened to start and obeys the sticks all the way along. Move the starting height and you get another curve obeying exactly the same sticks.",
+   "view": 3
+  },
+  {
+   "t": 1772588,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_then_send_four_probes_e3ee90",
+   "text": "[dry] Then send four probes out at four different heights and let me commit before they draw anything. Do those four curves cross each other somewhere down there, or do they miss? And if you have a reason for your answer, have it ready. Watch the gaps between them.",
+   "view": 3
+  },
+  {
+   "t": 1792690,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_four_curves_grown_all_2c6d9d",
+   "text": "[reflective] Four curves grown. All four threading the same hedge, all four running roughly parallel down the corridor, and not one of them has touched another. They come close over by the port wall and then they part again.",
+   "view": 1
+  },
+  {
+   "t": 1807842,
+   "role": "SCIENCE",
+   "clip": "m6_sci_they_never_touch_had_298836",
+   "text": "[warm] They never touch, and you had the reason an hour ago with the drive off and three threads closing. Each place has one stick on it. One stick is one direction. Two solutions crossing would need that place to hold two, and it has not got two.",
+   "view": 0
+  },
+  {
+   "t": 1825781,
+   "role": "SCIENCE",
+   "clip": "m6_sci_sentence_for_stop_equation_3381c4",
+   "text": "[gentle] The sentence for this stop: an equation of this kind is a field of little tilts, and a solution is any curve that obeys every tilt it passes through. Put it in your own words and we can move on down the corridor.",
+   "view": 0
+  },
+  {
+   "t": 1865919,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_go_near_either_3b59b5",
+   "text": "[gentle] Before we go near either of the lines ahead. You watched four curves grow through the same hedge and not one of them crossed another. What made that impossible? Answer that to yourself and hold on to it, because it decides what happens to this ship next.",
+   "view": 0
+  },
+  {
+   "t": 1886168,
+   "role": "SCIENCE",
+   "clip": "m6_sci_there_are_two_heights_59f3d4",
+   "text": "[gentle] There are two heights in this hedge where every stick is dead level. Sit exactly on one and nothing happens to you, ever — the instruction there is to carry straight on, forever. Both are answers. They are not the same kind of answer.",
+   "view": 0
+  },
+  {
+   "t": 1903178,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_taking_us_onto_lower_43cc09",
+   "text": "[warm] Taking us onto the lower one. Level, steady, nothing happening, exactly as advertised. And now, on Doc's word, I am going to shove us off it. Hold on to something — this is a real nudge and not a picture of one.",
+   "view": 1,
+   "sfx": "spark"
+  },
+  {
+   "t": 1919445,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_before_he_shoves_three_f2fcfd",
+   "text": "[dry] Before he shoves. Three ways this can go and you pick one now. After the nudge, this ship comes home to that line, or sits wherever it is put, or runs away from it altogether. Choose. And watch the line, not the wall — the wall will only frighten you.",
+   "view": 0
+  },
+  {
+   "t": 1940987,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_off_long_way_off_cdbc2c",
+   "text": "[reflective] Off it, and a long way off it. And we are coming back. Nothing on the trim, nobody flying this, and we are drifting home to that line entirely on our own. Slowing. Settling. And settled, right back on it.",
+   "view": 1
+  },
+  {
+   "t": 1957950,
+   "role": "SCIENCE",
+   "clip": "m6_sci_look_at_sticks_around_9ef6ac",
+   "text": "[warm] Look at the sticks around that line rather than at us. Above it they tilt down toward it. Below it they tilt up toward it. Wherever you are put down near that height, the instruction is come back. That is a stable answer, and you felt it in your inner ear.",
+   "view": 3
+  },
+  {
+   "t": 1975656,
+   "role": "SCIENCE",
+   "clip": "m6_sci_upper_line_now_am_4e8e79",
+   "text": "[gentle] Upper line now, and I am not going to tell you this one. Same nudge, same instrument, same pilot. Look at the sticks just above that line and just below it, and say out loud what is about to happen to us. Helm, on my word. Everybody hold on.",
+   "view": 0
+  },
+  {
+   "t": 1998798,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_nudged_has_gone_other_c20eee",
+   "text": "[grave] Nudged, and that has gone the other way immediately. We are being thrown, Doc, that is the wall coming up fast and it is coming faster than it was a second ago. Taking the drive back and powering us off it. Off. We are clear.",
+   "view": 1,
+   "sfx": "klaxon"
+  },
+  {
+   "t": 2014229,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_felt_one_in_my_ff259c",
+   "text": "[dry] I felt that one in my back teeth. Same size of nudge, same instrument, opposite result entirely. And nobody solved a thing to know it was coming — you just looked at which way the sticks were leaning. That is worth knowing.",
+   "view": 0
+  },
+  {
+   "t": 2027617,
+   "role": "SCIENCE",
+   "clip": "m6_sci_whole_trick_why_engineers_81337c",
+   "text": "[gentle] That is the whole trick, and it is why engineers care about this more than mathematicians do. You very often cannot solve the equation at all. You can nearly always read the sticks near a level line and say whether the thing comes home.",
+   "view": 0
+  },
+  {
+   "t": 2043837,
+   "role": "SCIENCE",
+   "clip": "m6_sci_so_level_answer_holds_595a4a",
+   "text": "[warm] So: a level answer holds you when the sticks all around it lean back toward it, and throws you when they lean away, and that is readable before any solving happens at all. If you can say that one back without any help from me, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 2063040,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_back_on_rail_my_f904e0",
+   "text": "[warm] Back on the rail and my heart rate is coming down with it. Doc tells me the next one is an old friend, and that we have already flown past it twice in this expedition without either of us knowing what we were looking at.",
+   "view": 1
+  },
+  {
+   "t": 2087040,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_look_at_any_452257",
+   "text": "[gentle] Before you look at any of this. A moment ago the ship was pulled home to one level line and thrown clean off another, and you could tell which was coming before it happened. What exactly were you reading in order to know it? Answer that in your own words first.",
+   "view": 0
+  },
+  {
+   "t": 2107243,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_mass_on_spring_running_08e4d7",
+   "text": "[warm] Mass on a spring running along the port wall — up, down, up, down, and it does not look like stopping. And there is a single bead out in the middle of the corridor doing something else entirely, and I cannot make sense of it.",
+   "view": 1
+  },
+  {
+   "t": 2122256,
+   "role": "SCIENCE",
+   "clip": "m6_sci_bead_not_picture_spring_d1077a",
+   "text": "[gentle] The bead is not a picture of the spring. It is a plot of two numbers at once. Across the corridor is where the mass is. Up the corridor is how fast the mass is moving. One bead, two readings, and it goes where they go.",
+   "view": 0
+  },
+  {
+   "t": 2138430,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_then_going_round_closed_1dc213",
+   "text": "[reflective] Then it is going round a closed loop, round and round the same track. And because we are moving down the corridor as well, it is drawing a coil behind it — a proper coil, all the way back to the last ring.",
+   "view": 1
+  },
+  {
+   "t": 2151910,
+   "role": "SCIENCE",
+   "clip": "m6_sci_because_along_corridor_time_10854f",
+   "text": "[warm] Because along the corridor is time on this run, and every ring you pass is another second of the swing. Helm is about to put us on the forward view, looking straight down the middle of that coil. Say now what shape it is going to be end-on. Commit before he turns.",
+   "view": 0
+  },
+  {
+   "t": 2176099,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_circle_helix_from_run_abf56a",
+   "text": "[dry] It is a circle. And that is the helix from the run about the infinite, the one whose two shadows were the waves. Same coil, same light, same everything. Either you are recycling scenery or somebody owes me an explanation.",
+   "view": 0
+  },
+  {
+   "t": 2189672,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_reading_two_instruments_together_b1e33d",
+   "text": "[reflective] Reading the two instruments together, Doc. When the mass is right out at the far end of its travel, the speed gauge sits on zero. When it goes through the middle, the gauge is at its maximum. They are never up at the same time.",
+   "view": 3
+  },
+  {
+   "t": 2204221,
+   "role": "SCIENCE",
+   "clip": "m6_sci_there_your_explanation_helm_bf5c52",
+   "text": "[grave] There is your explanation, and Helm read it off a dial rather than taking it from me. Position at its peak, speed at nothing. Speed at its peak, position at nothing. Two quantities a quarter turn apart, each driving the other round — and a thing like that has no choice but to travel a circle.",
+   "view": 3
+  },
+  {
+   "t": 2225085,
+   "role": "SCIENCE",
+   "clip": "m6_sci_helm_add_damping_now_ebe4cc",
+   "text": "[gentle] Helm, add the damping now. And Chief, I am not explaining this one — same coil, same forward view, one thing changed. Look at it end-on and tell me what has happened to the shape, and then tell me what the spring on that wall must be doing to make it happen.",
+   "view": 0
+  },
+  {
+   "t": 2248367,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_circle_has_gone_spiral_32a765",
+   "text": "[reflective] The circle has gone. It is a spiral now, winding in toward the middle, every turn a little tighter than the one before it. Which means every lap the mass goes a little less far out and moves a little less quickly. That is a swing dying away.",
+   "view": 3
+  },
+  {
+   "t": 2263844,
+   "role": "SCIENCE",
+   "clip": "m6_sci_exactly_door_stops_slamming_2c1b01",
+   "text": "[warm] Exactly that, and a door that stops slamming and a bridge that stops ringing are both that spiral seen end-on. The sentence: take a swing's position and its speed together and the pair of them travels a circle. Try putting that into your own words before the next stop and we are done.",
+   "view": 0
+  },
+  {
+   "t": 2285044,
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_more_piece_mathematics_8d9f04",
+   "text": "[gentle] One more piece of mathematics after this one, and then we take the walls down for the last time. This next rule is not about a place on its own. It is about a place and the places immediately beside it, and nothing else.",
+   "view": 1
+  },
+  {
+   "t": 2309044,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_country_comes_back_24a0a0",
+   "text": "[gentle] Before the country comes back around us. That bead in the middle of the corridor ran a closed circle, and it needed two readings to do it. What were the two, and why could they never both be at their peak at the same moment? Answer that to yourself now.",
+   "view": 0
+  },
+  {
+   "t": 2329015,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_country_back_has_changed_fa5916",
+   "text": "[warm] The country is back, and it has changed colour — lit as heat now, hot along the ridges and cold down in the hollows. And Doc has done something to the clock: every ring we pass is a step forward in time, not in distance. The ridges are sinking as we go.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 2346721,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_doc_have_say_something_65d94c",
+   "text": "[dry] Doc, I have to say something. Hot things cool down and lumpy things smooth out. I knew that at six years old from a bowl of soup. A very handsome melting landscape is not teaching me one thing I did not already have.",
+   "view": 3
+  },
+  {
+   "t": 2360759,
+   "role": "SCIENCE",
+   "clip": "m6_sci_no_fair_complaint_have_093101",
+   "text": "[reflective] No. That is a fair complaint and I have been dreading it, because you are right — a simulation can look exactly like an explanation and not be one. Helm, stop the clock. Give me one point and the four beside it, and nothing else at all.",
+   "view": 3
+  },
+  {
+   "t": 2377955,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_clock_stopped_country_frozen_00e36b",
+   "text": "[reflective] Clock is stopped and the country is frozen. Five beads out on struts in front of the window — one in the middle and its four neighbours, north, south, east and west of it. The arm is on the middle bead, Doc. Say when.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 2393154,
+   "role": "SCIENCE",
+   "clip": "m6_sci_here_whole_rule_applied_954b2a",
+   "text": "[gentle] Here is the whole rule, applied once, by hand. Take the average height of those four neighbours. The middle bead is sitting above that average. Say now which way the arm is going to move it — up, down, or nowhere at all. Watch the middle bead and nothing else.",
+   "view": 0
+  },
+  {
+   "t": 2417343,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_down_arm_has_brought_640759",
+   "text": "[reflective] Down. The arm has brought it down and it has stopped level with the four of them. Releasing the country now and restarting the clock — and the whole surface has picked up again exactly where it left off, every point of it moving.",
+   "view": 3
+  },
+  {
+   "t": 2431381,
+   "role": "SCIENCE",
+   "clip": "m6_sci_toward_average_its_neighbours_09668d",
+   "text": "[gentle] Toward the average of its neighbours. Had it been sitting below them it would have gone up instead. That is the entire equation and there is nothing else in it — and every point on that surface is now doing what your bead did, everywhere, over and over, at once.",
+   "view": 0
+  },
+  {
+   "t": 2449552,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_why_melts_not_thing_a106fe",
+   "text": "[reflective] And that is why it melts. It is not a thing the landscape wants to do. It is one dull little rule about neighbours, run everywhere at once, and the melting is only what that rule looks like from far enough back.",
+   "view": 0
+  },
+  {
+   "t": 2462614,
+   "role": "SCIENCE",
+   "clip": "m6_sci_now_change_one_word_2289fa",
+   "text": "[warm] Now change one word and watch one thing. Not pulled toward the average of its neighbours — accelerated toward it. Same beads, same four neighbours, one word different. Keep your eye on the single bump directly ahead of us and say what it is going to do.",
+   "view": 0,
+   "sfx": "spark"
+  },
+  {
+   "t": 2485617,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_has_not_sunk_doc_dbc1dd",
+   "text": "[reflective] It has not sunk, Doc. It has come apart into two, and the two are running away from each other down the corridor — and there, the near one has reached the end of the run and turned round and it is coming back at us.",
+   "view": 1
+  },
+  {
+   "t": 2498819,
+   "role": "SCIENCE",
+   "clip": "m6_sci_same_neighbours_one_word_8bcf64",
+   "text": "[warm] Same neighbours, one word changed. So the sentence for this stop: one dull rule about a point and the ones beside it, run everywhere at once, is why heat spreads out and why waves travel. Say that one back in your own words and we are finished with the mathematics.",
+   "view": 0
+  },
+  {
+   "t": 2519090,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_last_transit_last_run_8c20cf",
+   "text": "[hushed] Last transit of the last run. Everybody, this is the point where I would normally tell you what is coming up next, and there is not one. Doc, whenever you are ready — I will take the walls down at the far end.",
+   "view": 1
+  },
+  {
+   "t": 2543090,
+   "role": "SCIENCE",
+   "clip": "m6_sci_before_helm_takes_walls_b85280",
+   "text": "[hushed] Before Helm takes the walls down. Three hours, six runs, and one sentence has been quietly true at almost every stop of all of it. What is that sentence? Take your time and answer it to yourself, and then we will see whether we agree.",
+   "view": 3
+  },
+  {
+   "t": 2564489,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_all_stations_are_coming_a11389",
+   "text": "[hushed] All stations, we are coming to the end of the run. The end of six of them. I am taking the walls down now for the last time, and this time I am not putting them back up afterwards. Stand by, everybody.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 2578248,
+   "role": "SCIENCE",
+   "clip": "m6_sci_look_at_all_at_6ca14d",
+   "text": "[hushed] Look at all of it at once. The wire loop, with the disc and the dome and the long sock hanging inside one another like a set of ghosts. The four solution curves threading away into the dark. The country, still cooling. And the coil, running through the middle of everything.",
+   "view": 3
+  },
+  {
+   "t": 2597069,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_little_map_in_corner_d9de19",
+   "text": "[reflective] And the little map in the corner of my eye. It has been the same drawing as whatever was out of the window, six times running, and it took me until about the fourth run to stop being surprised by that.",
+   "view": 1
+  },
+  {
+   "t": 2608552,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_one_more_instrument_before_2bb6da",
+   "text": "[reflective] One more instrument before anybody says anything, Doc. The ladder. It reads one. It has not read one since the very first run — it fell off it somewhere in the second and it has been down among the small numbers ever since. It has come home to one.",
+   "view": 3
+  },
+  {
+   "t": 2625097,
+   "role": "SCIENCE",
+   "clip": "m6_sci_number_was_always_same_f840f0",
+   "text": "[grave] That number was always the same question: how finely are we willing to cut. On the first run we never cut at all, and it sat on one. Then we cut until the cut stopped mattering. We cut and re-added and found two instruments reading the same number. We cut infinitely often. And today we cut a volume into boxes and a sheet into wheels.",
+   "view": 3
+  },
+  {
+   "t": 2649079,
+   "role": "ENGINEERING",
+   "clip": "m6_eng_every_time_thing_survived_cb63ec",
+   "text": "[reflective] And every time, the thing that survived the cutting was the edge. Two readings at two gates on the sweep. The rim of the patch. The skin of the bag. A loop of wire that did not care what you hung on it. That is not six results, is it. That is one result, told six times.",
+   "view": 1
+  },
+  {
+   "t": 2666367,
+   "role": "NAVIGATION",
+   "clip": "m6_nav_doc_arms_are_coming_a65774",
+   "text": "[hushed] Doc — the arms are coming out. The jaws are closing on something out there and I did not put it in the log. It is a rod. One rod, one unit long, lit up and hanging in the black. That is the first thing we ever showed anybody.",
+   "view": 3,
+   "sfx": "spark"
+  },
+  {
+   "t": 2687444,
+   "role": "SCIENCE",
+   "clip": "m6_sci_three_hours_ago_has_92fad4",
+   "text": "[hushed] Three hours ago, and it has not changed. Every length, every area, every slab, every box and every spin we measured in six runs was made out of that one rod, laid down again and again and cut finer and finer. Say that back in your own words and the whole series is finished.",
+   "view": 3
+  },
+  {
+   "t": 2708494,
+   "role": "SCIENCE",
+   "clip": "m6_sci_none_was_new_thousands_1fc62a",
+   "text": "[gentle] None of this was new. It is thousands of years old, and most of it was on a page in front of you once, in a shorthand nobody ever showed you the shape of. You have seen the shapes now, and they are yours to keep. Thank you for flying with us.",
+   "view": 3
+  }
+ ],
+ "fillers": [
+  {
+   "role": "ENGINEERING",
+   "clip": "m6_eng_quiet_stretch_will_say_7fd9b3",
+   "text": "[dry] Quiet stretch. I will say this much for the last run of six: I have stopped bracing every time the hull leans over. Whatever is out there is pushing us about and it is not personal, and after twenty years that is a hard thing to teach a man."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m6_nav_steady_between_stops_if_115f22",
+   "text": "[warm] Steady between stops. If you want to look around, go ahead, and turn your head as far as you like. The arrows out there are not painted on a wall — they carry on behind you as well, and the only way to find that out is to look."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m6_sci_one_thing_worth_carrying_39a3ff",
+   "text": "[gentle] One thing worth carrying between stops. Everything today has the same shape to it: a great many small measurements taken inside a region, one much easier measurement taken around its edge, and the two of them coming to the same number."
+  },
+  {
+   "role": "ENGINEERING",
+   "clip": "m6_eng_for_record_came_into_ac86b9",
+   "text": "[dry] For the record, I came into this expedition believing mathematics was a language somebody invented specifically to keep me out of a job I was already doing. I withdraw that entirely. I still say the handwriting is atrocious."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m6_nav_long_transit_doc_six_cb626d",
+   "text": "[reflective] Long transit. Doc, six runs and I have never asked you — do you ever get to the end of one of these and wish you could take it again from the start, knowing what you know by the finish? I am asking for a friend at the helm."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m6_sci_every_single_time_good_861977",
+   "text": "[warm] Every single time. And the good news, which almost nobody believes when I say it, is that you can. None of it goes anywhere. The shapes stay exactly where you left them, and they are just as true on the second look, only easier."
+  }
+ ],
+ "segments": [
+  {
+   "label": "1.  THE ARROW AT EVERY POINT",
+   "startMs": 0,
+   "node": 0
+  },
+  {
+   "label": "2.  THE STREAMLINE",
+   "startMs": 176972,
+   "node": 1
+  },
+  {
+   "label": "3.  THE PROBES OUT",
+   "startMs": 369472,
+   "node": 2
+  },
+  {
+   "label": "4.  THE PADDLE WHEEL",
+   "startMs": 578703,
+   "node": 3
+  },
+  {
+   "label": "5.  THE DOWNHILL FIELD",
+   "startMs": 801239,
+   "node": 4
+  },
+  {
+   "label": "6.  THE LOOP AND THE SHEET",
+   "startMs": 1014445,
+   "node": 5
+  },
+  {
+   "label": "7.  THE BAG AND ITS SKIN",
+   "startMs": 1225441,
+   "node": 6
+  },
+  {
+   "label": "8.  THE RIM",
+   "startMs": 1435693,
+   "node": 7
+  },
+  {
+   "label": "9.  THE SLOPE FIELD",
+   "startMs": 1657976,
+   "node": 8
+  },
+  {
+   "label": "10.  THE PULL HOME",
+   "startMs": 1864419,
+   "node": 9
+  },
+  {
+   "label": "11.  THE SPRING AND THE CIRCLE",
+   "startMs": 2085540,
+   "node": 10
+  },
+  {
+   "label": "12.  THE SPREADING",
+   "startMs": 2307544,
+   "node": 11
+  },
+  {
+   "label": "13.  THE VIEW FROM OUTSIDE",
+   "startMs": 2541590,
+   "node": 12
+  }
+ ]
+}
