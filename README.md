@@ -8,6 +8,10 @@ The sister project of **InnerCosmos** (a tour of the human body) and **SpaceX3To
 Pluto). Same hardware, same engine, same crew idea, same Fish Audio voices. InnerCosmos went
 inward into the body; this one goes into the abstraction.
 
+No vendor SDK is required or included. The stereo is the app's own: the renderer draws two eye
+viewports into one wide buffer and every 2D overlay is mirrored into both halves. The only thing
+the platform is told is a `com.rayneo.mercury.app` flag in the manifest.
+
 > ⚠️ **ALPHA.** All six tours are complete: 76 stops, 76 landmark scenes, 843 spoken lines, flown
 > and verified on the glasses at 30 fps and 28 °C.
 
@@ -149,8 +153,17 @@ now shows captions for a line it cannot say, so the ride is watchable before any
 
 ### Build and run
 
+The 879 voice clips are stored with Git LFS. Without it a clone gets 131-byte pointer files, the
+build succeeds, and the app is silently mute — so install LFS once before cloning:
+
 ```bash
-cd ~/Projects/MathCosmos && ./gradlew :app:assembleDebug
+git lfs install && git clone https://github.com/tropicalstream/MathCosmos.git
+```
+
+If you already cloned without it, `git lfs pull` fetches the audio in place.
+
+```bash
+cd MathCosmos && ./gradlew :app:assembleDebug
 ```
 
 ```bash
