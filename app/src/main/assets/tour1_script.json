@@ -1,0 +1,1235 @@
+{
+ "title": "MathCosmos I: The Solid Ground",
+ "durationMs": 2477339,
+ "keyframes": [
+  [
+   0,
+   0
+  ],
+  [
+   148203,
+   0
+  ],
+  [
+   172203,
+   1
+  ],
+  [
+   172203,
+   1
+  ],
+  [
+   307240,
+   1
+  ],
+  [
+   331240,
+   2
+  ],
+  [
+   331240,
+   2
+  ],
+  [
+   508881,
+   2
+  ],
+  [
+   532881,
+   3
+  ],
+  [
+   532881,
+   3
+  ],
+  [
+   681584,
+   3
+  ],
+  [
+   705584,
+   4
+  ],
+  [
+   705584,
+   4
+  ],
+  [
+   869464,
+   4
+  ],
+  [
+   893464,
+   5
+  ],
+  [
+   893464,
+   5
+  ],
+  [
+   1057296,
+   5
+  ],
+  [
+   1081296,
+   6
+  ],
+  [
+   1081296,
+   6
+  ],
+  [
+   1259770,
+   6
+  ],
+  [
+   1283770,
+   7
+  ],
+  [
+   1283770,
+   7
+  ],
+  [
+   1437767,
+   7
+  ],
+  [
+   1461767,
+   8
+  ],
+  [
+   1461767,
+   8
+  ],
+  [
+   1644329,
+   8
+  ],
+  [
+   1684329,
+   9
+  ],
+  [
+   1684329,
+   9
+  ],
+  [
+   1868889,
+   9
+  ],
+  [
+   1892889,
+   10
+  ],
+  [
+   1892889,
+   10
+  ],
+  [
+   2057232,
+   10
+  ],
+  [
+   2081232,
+   11
+  ],
+  [
+   2081232,
+   11
+  ],
+  [
+   2259940,
+   11
+  ],
+  [
+   2283940,
+   12
+  ],
+  [
+   2283940,
+   12
+  ],
+  [
+   2471339,
+   12
+  ]
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_helm_all_stations_drive_cbd8e7",
+   "text": "[warm] Helm to all stations. Drive is quiet, we are trimmed, and the corridor ahead is ruled in rings. Count the rings if you want to know how far along we are. Doc has the deck; the Chief asks the questions. Look wherever you like — the corridor holds its shape whichever way you turn.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 18357,
+   "role": "SCIENCE",
+   "clip": "m1_sci_there_one_rod_held_4ec01d",
+   "text": "[gentle] There it is. One rod, held out in front of us in the jaws. It is not a symbol and it is not a definition — it is a length, the distance between two ends, and you could reach out and take hold of it. That is what a number is, before anything else happens to it.",
+   "view": 0
+  },
+  {
+   "t": 37224,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_rod_doc_have_been_4748f1",
+   "text": "[dry] A rod. Doc, I have been laying pipe by eye for twenty years and I have never once needed a philosophy of the rod. It is a stick. What is it for, and what am I meant to do with it that I was not already doing perfectly well without you?",
+   "view": 3
+  },
+  {
+   "t": 51540,
+   "role": "SCIENCE",
+   "clip": "m1_sci_watch_floor_not_rod_e480f1",
+   "text": "[warm] Watch the floor, not the rod. Helm is about to lay ten copies of it end to end down the corridor. Before she does, commit to something: where does the tenth one land, relative to the wall rings? Pick your answer now and hold on to it.",
+   "view": 0
+  },
+  {
+   "t": 75172,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_ten_them_down_floor_c8e362",
+   "text": "[reflective] Ten of them down the floor, end to end, and every one has landed on a ring. Not one short, not one overrunning. The ruler behind us stays lit as we pass it. Ahead of us the floor is still bare, Doc, and unmarked.",
+   "view": 1
+  },
+  {
+   "t": 90742,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_then_rings_were_always_268213",
+   "text": "[dry] Then the rings were always going to line up, because you cut the rod to match them in the first place. That is not a discovery, Doc, that is a jig. You set the fence, you made the cut, and then you stood back and admired it.",
+   "view": 3
+  },
+  {
+   "t": 103433,
+   "role": "SCIENCE",
+   "clip": "m1_sci_are_right_one_honest_232bd8",
+   "text": "[grave] You are right, and it is the one honest thing nobody says out loud. The unit is a choice. Pick a different rod and every number in the log changes. What does not change is how many of them fit — and that ratio is the real measurement.",
+   "view": 0
+  },
+  {
+   "t": 120675,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_so_numbers_are_ours_6e9c88",
+   "text": "[dry] So the numbers are ours and the ratios are the world's. Fine. I can work with that, and it is more than most people give you before breakfast. Usually I get a definition and an instruction to stop asking.",
+   "view": 0
+  },
+  {
+   "t": 132994,
+   "role": "SCIENCE",
+   "clip": "m1_sci_then_take_one_sentence_1cbe5a",
+   "text": "[gentle] Then take one sentence out of here with you: a number is a length you can pick up and carry, and the length you picked was up to you. If you can say that back in your own words, this stop is finished and we can move.",
+   "view": 0
+  },
+  {
+   "t": 148203,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_coming_up_on_next_4c8f6b",
+   "text": "[warm] Coming up on the next stop, twenty rings out. Doc says we are about to multiply, which apparently means we are going to build something rather than work anything out. I am told to keep the jaws clear.",
+   "view": 1
+  },
+  {
+   "t": 172203,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_one_think_back_3d9511",
+   "text": "[gentle] Before this one: think back to the rod lying on the floor. We ended with two things, and one of them was a choice we had made while the other was not ours at all. Which was which? Answer it in your own head first. I will wait.",
+   "view": 0
+  },
+  {
+   "t": 191477,
+   "role": "SCIENCE",
+   "clip": "m1_sci_what_multiplying_two_lengths_8f9bdd",
+   "text": "[warm] This is what multiplying is. Two lengths, at right angles, and the piece of area they enclose. Two by five. Count the tiles if you like — there are ten, and there will always be ten, because that is what the shape is made of.",
+   "view": 0
+  },
+  {
+   "t": 207697,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_was_taught_as_times_55ccd1",
+   "text": "[dry] I was taught it as a times table. Two fives are ten, chanted at a wall in a room with a bad radiator. Nobody ever showed me a shape, Doc. Nobody said the answer was sitting there as an amount of floor you could go and count.",
+   "view": 3
+  },
+  {
+   "t": 221270,
+   "role": "SCIENCE",
+   "clip": "m1_sci_table_answers_written_down_a83dd3",
+   "text": "[warm] The table is the answers written down; this is the reason. Helm is going to cut the plate once, straight down the line we are flying along. Keep your eye on the tile count, not on the cut. Before she does: how many tiles afterwards? Commit to a number.",
+   "view": 0
+  },
+  {
+   "t": 245412,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_cut_clean_pieces_are_29e69e",
+   "text": "[reflective] Cut is clean. The pieces are drawing apart and we are going through the gap between them. Six tiles to port, four to starboard. Nothing fell out of the cut, Doc, and nothing was added to either side of it.",
+   "view": 1
+  },
+  {
+   "t": 258800,
+   "role": "SCIENCE",
+   "clip": "m1_sci_six_four_ten_as_b11764",
+   "text": "[gentle] Six and four. Ten, as it was before the cut and as it will be for ever after. Two lots of five, split into two lots of three and two lots of two. That is the whole distributive law, and you have just flown through the middle of it. It is not a rule to obey. It is a cut.",
+   "view": 3
+  },
+  {
+   "t": 279711,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_so_every_time_have_677135",
+   "text": "[dry] So every time I have expanded a bracket, I have been cutting a rectangle in half without knowing it. All those lines of working out. It was one straight cut and a count that came out the same on both sides of it.",
+   "view": 0
+  },
+  {
+   "t": 291845,
+   "role": "SCIENCE",
+   "clip": "m1_sci_every_single_time_so_a54c61",
+   "text": "[warm] Every single time. So here is the sentence: multiplying is making a rectangle, and splitting the rectangle is what a bracket is. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 331240,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_big_one_back_7556d3",
+   "text": "[gentle] Before the big one. Back at the plate we just left, we did one thing to it and something else stayed exactly the same while we did it. What was the act, and what was the thing that did not move? Both answers, in your own head, before I go on.",
+   "view": 0
+  },
+  {
+   "t": 351536,
+   "role": "SCIENCE",
+   "clip": "m1_sci_slow_us_down_here_ea1d9b",
+   "text": "[grave] Slow us down here. This is the stop I would keep if I could keep only one. In front of you is a square, with a strip stuck along one edge. That is a quadratic. Not a picture of a quadratic — that is what a quadratic is.",
+   "view": 0,
+   "sfx": "chime"
+  },
+  {
+   "t": 367292,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_square_with_bit_stuck_ef4a04",
+   "text": "[dry] It is a square with a bit stuck on the side. It is an awkward shape, Doc. If a fitter handed me that as a bulkhead plate I would send it straight back and ask him what he imagined it was going to sit against.",
+   "view": 3
+  },
+  {
+   "t": 378915,
+   "role": "SCIENCE",
+   "clip": "m1_sci_good_hold_on_awkward_a7212c",
+   "text": "[warm] Good. Hold on to awkward, because awkward is the problem. You cannot easily say how wide an awkward shape is. You can always say how wide a square is. So: cut the strip down the middle, and swing the lower half round onto the top.",
+   "view": 0
+  },
+  {
+   "t": 395321,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_cutting_swinging_coming_over_f1965b",
+   "text": "[reflective] Cutting. And swinging — it is coming over on the corner and settling along the upper edge. It has stopped. Both jaws are on the long side, Doc, and I am reading it as very nearly a square. Very nearly, and not quite.",
+   "view": 1
+  },
+  {
+   "t": 411077,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_so_are_short_corner_cd5c0a",
+   "text": "[dry] So we are short a corner. That is what is wrong with it. It is nearly a square and there is a hole in it the size of my fist. Where am I supposed to get a corner from? You cannot invent material and call the sum unchanged.",
+   "view": 3
+  },
+  {
+   "t": 424790,
+   "role": "SCIENCE",
+   "clip": "m1_sci_can_if_are_honest_e930d4",
+   "text": "[warm] You can, if you are honest about the debt. Before I fill it — everybody look at the hole and decide how wide it is, measured against the strip we cut in half. Commit to an answer. Keep your eye on the corner, not on the ship.",
+   "view": 0
+  },
+  {
+   "t": 447332,
+   "role": "SCIENCE",
+   "clip": "m1_sci_there_seated_its_side_4df0d9",
+   "text": "[gentle] There. It is seated. Its side is half the strip's width, the same half we swung round a moment ago, and it is a different colour so that nobody forgets it was borrowed. The shape is now a perfect square — and a perfect square has an obvious side length.",
+   "view": 0,
+   "sfx": "spark"
+  },
+  {
+   "t": 465410,
+   "role": "SCIENCE",
+   "clip": "m1_sci_now_take_borrowed_corner_73c646",
+   "text": "[grave] Now take the borrowed corner back out of the total, and you have it. Every quadratic formula you were ever made to memorise is the written record of this piece of carpentry, and that strange four underneath is this corner.",
+   "view": 3
+  },
+  {
+   "t": 480702,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_twenty_years_formula_nobody_ce7ce1",
+   "text": "[reflective] Twenty years of that formula, and nobody once said it was a corner. I have written it out on a hundred sheets of paper. Not one person ever put a piece of wood in my hand and told me it was the same thing.",
+   "view": 0
+  },
+  {
+   "t": 492975,
+   "role": "SCIENCE",
+   "clip": "m1_sci_then_carry_out_with_4b7690",
+   "text": "[gentle] Then carry this out with you and leave the rest: every quadratic is a square with a corner missing, and the formula is the bill for putting the corner back. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 508881,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_under_way_corner_square_839e4b",
+   "text": "[warm] Under way, and the corner square is still lit behind us in its own colour. For what it is worth, Chief, nobody told me either. I flew for six years thinking that formula was something you were simply expected to have.",
+   "view": 1
+  },
+  {
+   "t": 532881,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_start_corner_borrowed_719ff7",
+   "text": "[gentle] Before we start: the corner we borrowed. Where exactly did it come from, and what did we have to do at the end because we had taken it? Two answers again, in your own head, before I say another word about anything.",
+   "view": 0
+  },
+  {
+   "t": 550576,
+   "role": "SCIENCE",
+   "clip": "m1_sci_same_workshop_different_job_0b86c3",
+   "text": "[warm] Same workshop, different job. A square, four by four, with a one by one square lifted bodily out of the corner. Sixteen, take away one. Fifteen tiles left on the plate, and you can count them from where you are sitting.",
+   "view": 0
+  },
+  {
+   "t": 567772,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_little_square_has_come_2912b4",
+   "text": "[reflective] The little square has come free and it is hanging above us, still lit, keeping station about a length off the plate. It has not gone anywhere, Doc. It is simply not in the plate any more, and I can still see it.",
+   "view": 1
+  },
+  {
+   "t": 582135,
+   "role": "SCIENCE",
+   "clip": "m1_sci_stays_where_can_see_06f5f6",
+   "text": "[warm] It stays where you can see it on purpose. A subtraction that vanishes off screen is a subtraction you have to take on trust. What is left is an L, and an L is still awkward — so we cut it once and turn the short limb a quarter circle.",
+   "view": 3
+  },
+  {
+   "t": 599284,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_hold_on_same_move_667ec3",
+   "text": "[dry] Hold on. That is the same move we made on the quadratic — one cut and a quarter turn. So do not tell me, Doc. Everybody else: name the shape it becomes, and both of its sides, before he opens his mouth. I am going to do the same.",
+   "view": 0
+  },
+  {
+   "t": 618782,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_rectangle_three_by_five_19a163",
+   "text": "[dry] It is a rectangle. Three by five. The jaws are on it now — five along the bottom, three up the side, and still fifteen tiles inside it, the same fifteen we counted before anybody cut anything at all.",
+   "view": 3
+  },
+  {
+   "t": 631705,
+   "role": "SCIENCE",
+   "clip": "m1_sci_three_by_five_which_d9cdab",
+   "text": "[gentle] Three by five, which is fifteen. Now look at where the three and the five came from, because that is the whole stop. Three is four minus one. Five is four plus one. The two numbers subtracted, and the two numbers added, lying on the floor in front of you.",
+   "view": 0
+  },
+  {
+   "t": 651037,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_have_used_identity_factorise_b80330",
+   "text": "[reflective] I have used that identity to factorise things a thousand times. I could not have told you why it was true. I could only have told you that it worked and that the marks came back with a tick beside them.",
+   "view": 3
+  },
+  {
+   "t": 662660,
+   "role": "SCIENCE",
+   "clip": "m1_sci_most_people_cannot_not_4a4236",
+   "text": "[warm] Most people cannot, and it is not their fault — they were shown the answer and never the frame. So: a square with a square taken out of it is a frame, and a frame unrolls into a strip. If you can say that back, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 705584,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_grain_l_unrolled_6a6273",
+   "text": "[gentle] Before the grain. The L we unrolled a moment ago came out as a plain rectangle. What were its two sides, and where did each of them come from? Work it out in your own head now, before you look at anything ahead of us.",
+   "view": 0
+  },
+  {
+   "t": 724161,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_holding_at_right_angle_c99b54",
+   "text": "[warm] Holding at the right angle. Three squares standing on the three sides of a triangle, and the two small ones are full of grain. One grain to a tile, Doc — I can see them packed in from here, and I can count the rows.",
+   "view": 1
+  },
+  {
+   "t": 738431,
+   "role": "SCIENCE",
+   "clip": "m1_sci_everyone_recognises_picture_almost_4c3416",
+   "text": "[gentle] Everyone recognises this picture and almost nobody has watched it work. Nine grains in the square on the short side, sixteen in the square on the next. One grain per tile, so nothing here is a matter of opinion. Count them if you want to.",
+   "view": 0
+  },
+  {
+   "t": 755627,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_nine_sixteen_twenty_five_8705ae",
+   "text": "[dry] Nine and sixteen. Twenty-five, if the big one takes them all — and I want everybody committed before Doc pours a single grain. Does it fill exactly, does it spill, or is there a gap left at the end? Pick one. Watch the far corner, not the middle.",
+   "view": 3
+  },
+  {
+   "t": 777704,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_streams_are_crossing_over_05e4ea",
+   "text": "[reflective] Streams are crossing over into the big square. It is packing from the bottom up. Still packing. Last grain has gone in, Doc, and the far corner is full. No spillage on the deck. No gaps anywhere in the square.",
+   "view": 1,
+   "sfx": "squelch"
+  },
+  {
+   "t": 793321,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_fits_exactly_unnerving_actually_065178",
+   "text": "[reflective] It fits exactly. That is unnerving, actually. Why should it fit exactly? There is nothing in that shape that says twenty-five to me, and yet not one single grain of it has ended up on the floor of this deck.",
+   "view": 0
+  },
+  {
+   "t": 806151,
+   "role": "SCIENCE",
+   "clip": "m1_sci_because_right_angle_only_422fbd",
+   "text": "[grave] Because of the right angle, and only because of the right angle. Tip that corner by one degree and the grain no longer fits. This is not a fact about triangles in general — it is the price the right angle charges, and the whole of trigonometry grows out of it.",
+   "view": 3
+  },
+  {
+   "t": 823114,
+   "role": "SCIENCE",
+   "clip": "m1_sci_helm_send_grain_back_ab3d63",
+   "text": "[warm] Helm, send the grain back and run it again. Chief, this one is yours — I am not going to say anything. You call the second pour for them, and you tell them why it is allowed to come out the same way twice.",
+   "view": 0
+  },
+  {
+   "t": 838173,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_pouring_same_two_streams_72970d",
+   "text": "[dry] Pouring. Same two streams, same big square, and it is flush again at the top. It is allowed because nothing about the triangle changed between the pours. The angle is still square. The count is still nine and sixteen.",
+   "view": 3
+  },
+  {
+   "t": 851886,
+   "role": "SCIENCE",
+   "clip": "m1_sci_notice_never_touched_symbol_317854",
+   "text": "[gentle] And notice we never touched a symbol; we moved stuff and the stuff was conserved. So: the square on the long side is exactly the other two poured in, and only a right angle makes it fit. Say that back and this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 869464,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_am_going_be_thinking_481d4e",
+   "text": "[dry] I am going to be thinking about that grain for some time. Not the theorem — I have known the theorem since I was twelve. The bit where it went in flush and there was nothing left over on the deck.",
+   "view": 1
+  },
+  {
+   "t": 893464,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_grain_went_in_6a166f",
+   "text": "[gentle] Before this: the grain went in and it fitted flush. What was the one thing that had to be true about that triangle for it to fit, and what happens to the fit if you tip the corner? Answer both in your own head first.",
+   "view": 0
+  },
+  {
+   "t": 911623,
+   "role": "SCIENCE",
+   "clip": "m1_sci_three_same_object_ahead_d3428c",
+   "text": "[warm] Three of the same object ahead of us, at one, two and three times the size. Same shape exactly, nothing stretched or squashed. And beside each one, its skin counted out in tiles and its bulk counted out in cubes as we pass.",
+   "view": 0,
+   "sfx": "grow"
+  },
+  {
+   "t": 929515,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_hold_there_before_second_faa785",
+   "text": "[dry] Hold it there, before the second one builds itself. Twice the size. Everybody put two numbers on it: how many times the skin, and how many times the bulk? I will go first and say double and double, and I am not hedging it.",
+   "view": 3
+  },
+  {
+   "t": 949967,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_one_tile_one_cube_84b281",
+   "text": "[reflective] One tile and one cube on the first. Second one is building — four tiles on the wall, and the cubes have gone to eight. Third: nine tiles, twenty-seven cubes, stacking three deep. You can only see that depth from in here.",
+   "view": 1
+  },
+  {
+   "t": 965630,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_four_eight_said_two_bfbf36",
+   "text": "[dry] Four and eight. I said two and two. I was not close, and I was not even wrong in the right direction — the bulk ran away from me by a factor of four. Twenty years of eyeballing tanks did not prepare me for that.",
+   "view": 0
+  },
+  {
+   "t": 978367,
+   "role": "SCIENCE",
+   "clip": "m1_sci_nobody_guesses_most_useful_0f24c2",
+   "text": "[gentle] Nobody guesses it, and it is the most useful fact in this tour. Double a thing and its skin goes up by the square, its bulk by the cube. Bulk always outruns skin, and that single sentence decides the shape of every animal alive.",
+   "view": 0
+  },
+  {
+   "t": 996259,
+   "role": "SCIENCE",
+   "clip": "m1_sci_elephant_cannot_have_legs_6520b2",
+   "text": "[warm] An elephant cannot have the legs of a gazelle scaled up. Its weight has grown by the cube; the strength of its bones only by the area of their cross-section, which is the square. So the legs get thicker, out of proportion, or it cannot stand.",
+   "view": 3
+  },
+  {
+   "t": 1013965,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_small_thing_loses_heat_105c57",
+   "text": "[reflective] And a small thing loses heat fast because it is nearly all skin. That is why a mouse eats all day and an elephant does not. I have been working round that in lagging and pipework my whole career without a name for it.",
+   "view": 0
+  },
+  {
+   "t": 1027213,
+   "role": "SCIENCE",
+   "clip": "m1_sci_have_remember_stop_too_bd448e",
+   "text": "[warm] You have. Remember this stop, too, because later in the series we shrink this ship on purpose, and the only reason that changes anything whatsoever is the thing standing in front of you right now in twenty-seven cubes.",
+   "view": 0
+  },
+  {
+   "t": 1042365,
+   "role": "SCIENCE",
+   "clip": "m1_sci_so_sentence_double_thing_903e10",
+   "text": "[grave] So the sentence is this: double a thing and you quadruple its skin and multiply its bulk eightfold. If you can say that back in your own words, this stop is finished and the rest is decoration.",
+   "view": 3
+  },
+  {
+   "t": 1081296,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_cone_three_twins_91cfee",
+   "text": "[gentle] Before the cone: the three twins standing in a row. One of those two counts grew faster than the other when you doubled the size. Which one, and by how much? Get it clear in your head. You will want it later in the series.",
+   "view": 0
+  },
+  {
+   "t": 1100941,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_big_object_across_corridor_f14889",
+   "text": "[warm] Big object across the corridor. Two cones made of light, point to point, and a flat plane turning slowly through the pair of them. Doc, this is the one you have been looking forward to since before we boarded.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 1115164,
+   "role": "SCIENCE",
+   "clip": "m1_sci_keep_your_eye_on_07f542",
+   "text": "[gentle] It is. Keep your eye on the bright edge where the plane cuts the cone — that edge is the entire stop, not the cone and not the plane. Right now it is a circle, because the plane is square to the axis. Now let it tilt.",
+   "view": 0
+  },
+  {
+   "t": 1132081,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_has_gone_oval_squashed_6e7f3d",
+   "text": "[dry] It has gone oval. Squashed along one side. That is the same curve stretched, surely — the plane is still cutting the one cone, it is only cutting it on the slant, so the ring comes out long instead of round.",
+   "view": 3
+  },
+  {
+   "t": 1145329,
+   "role": "SCIENCE",
+   "clip": "m1_sci_ellipse_which_shape_every_e944ab",
+   "text": "[warm] An ellipse. Which is the shape of every planet's orbit, and the reason this stop is here rather than in a geometry lesson. Keep tilting it. It is stretching now, one end of it running away down the cone.",
+   "view": 0
+  },
+  {
+   "t": 1160249,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_then_answer_me_before_59a9be",
+   "text": "[dry] Then answer me before it gets there, and everybody else answer it too. If the tilt keeps going, does that oval just get longer and longer for ever, or does something happen to it? Commit. Watch the far end of the curve, not the near end.",
+   "view": 3
+  },
+  {
+   "t": 1180887,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_has_stopped_closing_far_297dea",
+   "text": "[reflective] It has stopped closing. The far end is not coming back round any more, Doc — it is open, and we are going straight through the cut. And there is a second curve behind us now, up on the other cone.",
+   "view": 1
+  },
+  {
+   "t": 1194228,
+   "role": "SCIENCE",
+   "clip": "m1_sci_open_one_parabola_happens_feaa3f",
+   "text": "[grave] The open one is the parabola, and it happens at exactly one angle: when the plane lies parallel to the cone's own slope. One angle, out of all of them. That is why a parabola feels like a special shape — it is the knife edge between closing and never closing.",
+   "view": 3
+  },
+  {
+   "t": 1213281,
+   "role": "SCIENCE",
+   "clip": "m1_sci_past_plane_starts_catching_d215cb",
+   "text": "[gentle] And past that, the plane starts catching the second cone as well, and the curve arrives in two separate pieces. The hyperbola. Circle, ellipse, parabola, hyperbola — four names, one cone, four angles of the same knife.",
+   "view": 0
+  },
+  {
+   "t": 1230987,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_they_were_four_different_70da38",
+   "text": "[reflective] They were four different chapters when I was at school. Four sets of formulas, four different weeks, and nobody ever put them in the same room together, let alone on the same piece of cone.",
+   "view": 0
+  },
+  {
+   "t": 1242053,
+   "role": "SCIENCE",
+   "clip": "m1_sci_they_were_one_object_457817",
+   "text": "[warm] They were one object seen four ways, and the chapters were the tragedy. So: circle, ellipse, parabola and hyperbola are one cone, cut at four angles. Say that back in your own words and this stop is finished.",
+   "view": 3
+  },
+  {
+   "t": 1259770,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_clear_cone_plane_still_ca92f0",
+   "text": "[warm] Clear of the cone and the plane is still turning behind us. Doc wants a much closer look at just one of those four curves, and he tells me we can manage it with two objects, a dot and a rail, and no cone at all.",
+   "view": 1
+  },
+  {
+   "t": 1283770,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_one_four_curves_9d69ed",
+   "text": "[gentle] Before this one: four curves and a single cone. What was the one thing that changed to turn each of those curves into the next? One word will do it, and I would like you to find that word yourself rather than take it from me.",
+   "view": 0
+  },
+  {
+   "t": 1303369,
+   "role": "SCIENCE",
+   "clip": "m1_sci_one_bright_point_off_eaacd8",
+   "text": "[gentle] One bright point off to starboard, and one straight rail of light along the lower wall. That is all this stop contains. The point is called the focus and the rail is called the directrix, and between them they decide a curve completely.",
+   "view": 0
+  },
+  {
+   "t": 1320332,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_decide_how_dot_rail_75ac8f",
+   "text": "[dry] Decide it how? That is a dot and a rail, Doc. They are not touching each other and they are not touching the curve. Two things sitting apart in the dark do not add up to a shape, in my experience of things sitting apart in the dark.",
+   "view": 3
+  },
+  {
+   "t": 1334695,
+   "role": "SCIENCE",
+   "clip": "m1_sci_here_rule_stand_anywhere_5e0288",
+   "text": "[warm] Here is the rule. Stand anywhere. Measure your distance to the point, and your distance to the rail. If the two are equal, you are on the curve. If they are not, you are not. That is the whole definition, and it does not mention squares or coefficients at all.",
+   "view": 0
+  },
+  {
+   "t": 1352819,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_twelve_beads_sitting_on_6961db",
+   "text": "[reflective] Twelve beads sitting on it, each with two struts out — one up to the point, one dropping square to the rail. And every pair matches its own partner exactly. Same length, same colour, twelve times over.",
+   "view": 1
+  },
+  {
+   "t": 1367275,
+   "role": "SCIENCE",
+   "clip": "m1_sci_helm_going_take_thirteenth_47ab72",
+   "text": "[gentle] Helm is going to take a thirteenth bead, drag it along the curve, and then pull it off. Before she does: while it rides the curve, do the two struts stay equal, cross over, or drift apart — and what changes the instant it leaves? Decide.",
+   "view": 3
+  },
+  {
+   "t": 1390628,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_on_curve_they_stretched_cdce1f",
+   "text": "[dry] On the curve they stretched together and never once came apart, the whole way round the bend. Off it they have gone unequal, and red, which I take to be Doc being dramatic about a fitter's error.",
+   "view": 0
+  },
+  {
+   "t": 1402483,
+   "role": "SCIENCE",
+   "clip": "m1_sci_doc_being_clear_rule_de655b",
+   "text": "[warm] Doc being clear. A rule with no counterexample is only a decoration; you have to be able to watch it fail. And that is the shape of a headlamp reflector and a satellite dish for exactly this reason: everything aimed in comes back to that one point.",
+   "view": 0
+  },
+  {
+   "t": 1420189,
+   "role": "SCIENCE",
+   "clip": "m1_sci_so_here_sentence_short_0c1792",
+   "text": "[gentle] So here is the sentence, and it is a short one: every point on a parabola is the same distance from one point and one line. Nothing else, and no equation anywhere. If you can say that back in your own words, this stop is finished.",
+   "view": 3
+  },
+  {
+   "t": 1461767,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_wheel_dot_rail_b7066d",
+   "text": "[gentle] Before the wheel: the dot and the rail we have just left. What was the test for whether a bead belonged on that curve? It was one sentence and it had two measurements in it. Find both of them before you look ahead.",
+   "view": 0
+  },
+  {
+   "t": 1480344,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_ring_light_across_corridor_45aa1b",
+   "text": "[warm] Ring of light across the corridor with one bead running round it. And the corridor rings have re-spaced themselves, Doc — they are closer together than they were, and they are not marking distance any more. My along-axis readout has changed units on me.",
+   "view": 1
+  },
+  {
+   "t": 1496797,
+   "role": "SCIENCE",
+   "clip": "m1_sci_they_are_marking_angle_ba50aa",
+   "text": "[gentle] They are marking angle now. Every ring is another sixth of a half turn. Watch the bead, and watch the two struts that drop from it: one straight down, one across to the upright. The down one is the sine. The across one is the cosine. That is the entire definition.",
+   "view": 0
+  },
+  {
+   "t": 1516779,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_sine_shadow_sat_two_5917fa",
+   "text": "[dry] That is it? Sine is a shadow? I sat two years of night classes on that word and at no point did anybody say it was the height of a bead on a wheel. They gave me a table, and then they gave me a button on a calculator.",
+   "view": 3
+  },
+  {
+   "t": 1530074,
+   "role": "SCIENCE",
+   "clip": "m1_sci_sine_shadow_height_point_bd7423",
+   "text": "[warm] Sine is a shadow. It is the height of a point going round a circle, and nothing else whatsoever. Everything you were ever asked to memorise about it is bookkeeping laid on top of that one picture.",
+   "view": 0
+  },
+  {
+   "t": 1544344,
+   "role": "SCIENCE",
+   "clip": "m1_sci_now_advance_height_gets_cb491d",
+   "text": "[gentle] Now we advance, and the height gets left behind on the wall as a trail. Before it draws itself: picture the shape that trail is going to be. Draw it in the air with your finger if you like. Keep your eye on the wall behind us, not on the bead.",
+   "view": 3
+  },
+  {
+   "t": 1568232,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_unrolling_behind_us_up_fce909",
+   "text": "[reflective] It is unrolling behind us. Up, over the top, down through the middle, under, and back up again — a wave running the whole length of the corridor we have flown. It comes round every twelve rings, near enough.",
+   "view": 1
+  },
+  {
+   "t": 1582409,
+   "role": "SCIENCE",
+   "clip": "m1_sci_graph_now_can_see_e52d4a",
+   "text": "[gentle] That is the graph, and now you can see what a graph of sine actually is: a circle, unrolled along an axis of angle. It is not a wiggly line somebody drew from memory. It is the record of a wheel turning.",
+   "view": 0
+  },
+  {
+   "t": 1598304,
+   "role": "SCIENCE",
+   "clip": "m1_sci_cosine_coming_out_beside_7a77ec",
+   "text": "[warm] The cosine is coming out beside it in its own colour, and I am not going to explain that one. Chief — same bead, the other strut. You tell them what that second wave is and why it sits exactly where it sits.",
+   "view": 3
+  },
+  {
+   "t": 1614014,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_same_wave_shoved_along_32c1e8",
+   "text": "[dry] It is the same wave, shoved along by a quarter turn. It has to be. The across-strut is at full stretch when the down-strut is flat on the floor, so it starts a quarter of the way round from where the other one starts. One bead, two shadows.",
+   "view": 0
+  },
+  {
+   "t": 1629027,
+   "role": "SCIENCE",
+   "clip": "m1_sci_exactly_nothing_here_coincidence_07d238",
+   "text": "[gentle] That is it exactly, and nothing here is a coincidence. So: sine and cosine are the shadows of one point going round a circle. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1644329,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_everything_oscillates_then_tides_802f36",
+   "text": "[reflective] Everything that oscillates, then. Tides, alternating current, a plucked wire, the swell under a hull. All of it is the same wheel turning somewhere out of sight, and all anybody ever showed me was the wave.",
+   "view": 1
+  },
+  {
+   "t": 1657252,
+   "role": "SCIENCE",
+   "clip": "m1_sci_all_will_come_back_109471",
+   "text": "[gentle] All of it, and we will come back for the reason in a later chapter. For now, hold the picture and let the wave be what it is: a bead on a ring, seen edge-on, and written down on the wall as it goes past.",
+   "view": 1
+  },
+  {
+   "t": 1684329,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_wave_left_on_4e0403",
+   "text": "[gentle] Before this: the wave we left on the wall behind us. What was actually making it? Not what it was called — what physical thing was moving, and which part of that thing were we writing down? In your own head, now.",
+   "view": 0
+  },
+  {
+   "t": 1702860,
+   "role": "SCIENCE",
+   "clip": "m1_sci_short_stop_one_idea_ff8bb9",
+   "text": "[gentle] Short stop, one idea, and it is the strangest thing in this tour. There is an arrow lying along the floor line, pointing at one, out from a bright bead at the origin. Chief, put your arm out and tap the head of it.",
+   "view": 0
+  },
+  {
+   "t": 1718012,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_tapped_has_turned_right_f84b59",
+   "text": "[dry] Tapped. It has turned a right angle — it was lying along the floor and now it is pointing at the roof. Same length, Doc. Nothing about it got longer or shorter. It simply came round on the bead and stopped.",
+   "view": 3,
+   "sfx": "spark"
+  },
+  {
+   "t": 1730749,
+   "role": "SCIENCE",
+   "clip": "m1_sci_multiplying_by_not_mysterious_aa9e9b",
+   "text": "[warm] That is multiplying by i. Not a mysterious quantity, not an impossible number — a quarter turn. Now, before the Chief taps it again: where is that arrow after four taps altogether? Say it out loud if you like. Then watch.",
+   "view": 0
+  },
+  {
+   "t": 1754427,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_home_back_where_started_fc06fa",
+   "text": "[dry] Home. Back where it started, pointing at one. And two taps in, it was pointing at minus one — so i times i is minus one because two quarter turns make a half turn. Doc, is that genuinely all that ever meant?",
+   "view": 0
+  },
+  {
+   "t": 1768650,
+   "role": "SCIENCE",
+   "clip": "m1_sci_genuinely_all_ever_meant_c85b53",
+   "text": "[gentle] That is genuinely all it ever meant. Somebody once told you that minus one has no square root, and then somebody else told you it secretly does, and neither of them mentioned that the answer was a rotation you could do with your wrist.",
+   "view": 3
+  },
+  {
+   "t": 1783477,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_second_arrow_coming_out_d589cd",
+   "text": "[reflective] Second arrow coming out of the origin now, shorter than the first, sitting at about thirty degrees off the floor. And the two of them are drifting together. Two ghost arcs have lit up behind them, Doc.",
+   "view": 1
+  },
+  {
+   "t": 1796586,
+   "role": "SCIENCE",
+   "clip": "m1_sci_two_quantities_watch_they_08125b",
+   "text": "[warm] Two quantities to watch, and they live on different parts of the picture: the angles, and the lengths. Before those arrows fuse — do the angles add or multiply, and do the lengths add or multiply? Pick one for each. Watch the arcs.",
+   "view": 0
+  },
+  {
+   "t": 1820357,
+   "role": "SCIENCE",
+   "clip": "m1_sci_arcs_went_end_end_739eae",
+   "text": "[gentle] The arcs went end to end: the angles added. The arrow that came out is longer than either of its parents: the lengths multiplied. That is what multiplying two complex numbers does, always. Turn by the sum, stretch by the product. It is one action, not two rules.",
+   "view": 3
+  },
+  {
+   "t": 1840432,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_have_been_afraid_these_f838e4",
+   "text": "[reflective] I have been afraid of these for a long time, Doc. Twenty years of stepping round anything with an i in it, and quietly pretending that the page had a crease across it just at that point and there was nothing underneath worth reading.",
+   "view": 0
+  },
+  {
+   "t": 1853123,
+   "role": "SCIENCE",
+   "clip": "m1_sci_most_people_have_chief_6dba91",
+   "text": "[gentle] Most people have, Chief, and it is a hard thing to stay afraid of a turn. So: multiplying by i is a quarter turn, and nothing else at all. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1892889,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_two_arrows_fused_a14a80",
+   "text": "[gentle] Before this: the two arrows that fused. Two separate things happened at the same moment, one to the angles and one to the lengths. Which was which? Say them both in your own head, before the corridor changes shape on you.",
+   "view": 0
+  },
+  {
+   "t": 1911652,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_something_happening_corridor_rings_5a7016",
+   "text": "[warm] Something is happening to the corridor. The rings are moving — they are bunching up ahead of us and spreading out behind. And my distance readout is climbing a great deal faster than my speed says it has any right to.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 1925504,
+   "role": "SCIENCE",
+   "clip": "m1_sci_they_are_being_re_89087f",
+   "text": "[gentle] They are being re-ruled — the same trick we used at the wheel, for the same reason: the wall is measuring something new. Until now, every ring was one more unit along. From here, every ring is ten times the last. One, ten, a hundred, a thousand.",
+   "view": 0
+  },
+  {
+   "t": 1944789,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_lie_about_distance_if_9f0364",
+   "text": "[dry] That is a lie about distance. If I laid the rod from the first stop along this floor now, the marks would not line up with anything at all. You have kept the rings where they are and changed what they mean underneath them.",
+   "view": 3
+  },
+  {
+   "t": 1957712,
+   "role": "SCIENCE",
+   "clip": "m1_sci_honest_statement_about_different_ba9678",
+   "text": "[warm] It is an honest statement about a different quantity. The wall is no longer measuring how far. It is measuring how many times you have multiplied. And that is what a logarithm is — the number of times, rather than the amount.",
+   "view": 0
+  },
+  {
+   "t": 1973607,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_two_rod_rulers_have_0518d3",
+   "text": "[reflective] Two rod-rulers have come alongside, both marked the way the wall is marked. Numbers crowded together at the top end of each one, wide apart at the bottom. Jaws are free, Doc — I can slide one of them against the other.",
+   "view": 1
+  },
+  {
+   "t": 1987412,
+   "role": "SCIENCE",
+   "clip": "m1_sci_slide_top_one_until_e64298",
+   "text": "[gentle] Slide the top one until its one sits over the two on the bottom. Now, before Helm reads anything off: look above the three on the bottom ruler and tell me what number is going to be sitting there. Commit to it. Then watch that bead light.",
+   "view": 3
+  },
+  {
+   "t": 2010557,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_six_bead_above_three_8f6137",
+   "text": "[reflective] Six. The bead above the three has lit, and it is reading six. Doc, I did not add anything and I did not work anything out. I slid one stick along another stick and the thing multiplied for me.",
+   "view": 1
+  },
+  {
+   "t": 2024827,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_because_sliding_adds_lengths_50b457",
+   "text": "[dry] Because sliding adds lengths. That is all sliding can do. So if a length on that stick is not a number but a count of how many times you have multiplied, then adding the lengths has to multiply the numbers. It cannot do anything else.",
+   "view": 0
+  },
+  {
+   "t": 2039097,
+   "role": "SCIENCE",
+   "clip": "m1_sci_slide_rule_why_every_6a0fb4",
+   "text": "[warm] That is a slide rule, and that is why every engineer carried one for three centuries. So: a log scale turns multiplying into sliding, because it turns lengths into exponents. Say that back in your own words and this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 2057232,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_rings_still_stretched_am_7ad36e",
+   "text": "[warm] Rings still stretched, and I am leaving them that way — Doc says we need them. Last stop of the tour proper coming up on the wall ahead, and I am told it is a race between two beads. My money is already down.",
+   "view": 1
+  },
+  {
+   "t": 2081232,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_race_those_two_879375",
+   "text": "[gentle] Before the race: those two sliding sticks. What was a length on them actually counting? It was not distance. Say the answer to yourself, because the rings are still ruled that way and you are about to need it badly.",
+   "view": 0
+  },
+  {
+   "t": 2100320,
+   "role": "SCIENCE",
+   "clip": "m1_sci_two_beads_on_start_0fed75",
+   "text": "[gentle] Two beads on the start line. The blue one climbs by one, every ring. The amber one doubles, every ring. Helm, start them — and everybody, watch down near the floor for the first few rings rather than up at the roof.",
+   "view": 0
+  },
+  {
+   "t": 2117469,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_away_blue_ahead_blue_98f7dc",
+   "text": "[reflective] Away. And blue is ahead. Blue is comfortably ahead, actually — three rings in, and the amber one is still down near the deck where it started. It has barely come off the floor at all, Doc, and I have it at less than a length above the plating.",
+   "view": 1
+  },
+  {
+   "t": 2133411,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_so_much_for_doubling_45b461",
+   "text": "[dry] So much for doubling. I would back the blue one, and I would put money on it in front of witnesses. Three rings gone and the amber has done nothing. If that is the famous curve, it is having a very quiet afternoon.",
+   "view": 3
+  },
+  {
+   "t": 2146195,
+   "role": "SCIENCE",
+   "clip": "m1_sci_everyone_does_trap_now_7fbb9b",
+   "text": "[warm] Everyone does, and that is the trap. Now put a ring number on it, and be specific about it: which ring do the two of them cross? Ring four? Ring eight? Never? Hold your number. Watch the amber bead, and I will say nothing at all.",
+   "view": 0
+  },
+  {
+   "t": 2170037,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_amber_has_gone_past_bb2adc",
+   "text": "[grave] Amber has gone past it. Amber has gone past it hard — I am rescaling to keep it in frame. Rescaling again. The wall is reading a hundred, and the blue bead is a speck down on the floor a long way behind us.",
+   "view": 1,
+   "sfx": "klaxon"
+  },
+  {
+   "t": 2184818,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_doc_picture_cheating_keep_ba21ff",
+   "text": "[dry] Doc, is the picture cheating? You keep zooming out. Shrink the world far enough and anything at all looks like it is winning. I want to know whether that is the mathematics or whether that is the display flattering it.",
+   "view": 0
+  },
+  {
+   "t": 2197602,
+   "role": "SCIENCE",
+   "clip": "m1_sci_picture_telling_truth_by_ef12c1",
+   "text": "[grave] The picture is telling you the truth by zooming out, and I would far rather you saw the zoom than not. There is no scale at which both racers are comfortable, and that is the lesson. Nothing that grows by adding ever beats anything that grows by doubling. Not ever.",
+   "view": 3
+  },
+  {
+   "t": 2215308,
+   "role": "SCIENCE",
+   "clip": "m1_sci_compound_interest_epidemics_rumour_1de4eb",
+   "text": "[gentle] Compound interest. Epidemics. A rumour. Anything whose growth is proportional to its own size lives on the amber curve, and the habit of reading the first four rings and drawing a straight line through them is how people get caught by all three.",
+   "view": 0
+  },
+  {
+   "t": 2232782,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_ring_five_was_still_1e6abe",
+   "text": "[reflective] Ring five, and I was still backing blue. I would have gone on backing it, too, because everything in front of me said that I was right. That is the part of this that will keep me up tonight.",
+   "view": 0
+  },
+  {
+   "t": 2243430,
+   "role": "SCIENCE",
+   "clip": "m1_sci_exactly_part_worth_keeping_cd6aed",
+   "text": "[warm] That is exactly the part worth keeping. So: anything that grows in proportion to itself beats anything that grows by adding, always, eventually. Say that back in your own words and this stop is finished.",
+   "view": 3
+  },
+  {
+   "t": 2283940,
+   "role": "SCIENCE",
+   "clip": "m1_sci_before_helm_takes_walls_1740ac",
+   "text": "[hushed] Before Helm takes the walls down, one last piece of work. Name me three of the stops behind us, from memory, by what they looked like rather than by what they were called. Take your time over it. There is nothing to see for a moment.",
+   "view": 3
+  },
+  {
+   "t": 2303250,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_all_stations_end_run_ea530d",
+   "text": "[hushed] All stations, this is the end of the run. Wall alpha coming off over three seconds, and the corridor is about to stop being a corridor. Nothing is wrong. Stand by, and keep your eyes forward until I tell you to turn.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 2323538,
+   "role": "SCIENCE",
+   "clip": "m1_sci_now_look_behind_us_454814",
+   "text": "[hushed] Now look behind us. That is the corridor we have been inside for the last half hour. From out here it is one thin bright thread with thirteen beads on it, hanging in the dark, and every landmark of the run is on it at once.",
+   "view": 3
+  },
+  {
+   "t": 2339665,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_looked_like_place_has_13ba2c",
+   "text": "[reflective] It looked like a place. It has been a line the whole time. There is the square with the corner in it, and the cone, and the wheel, all small enough to hold in one hand, and I have been flying down the inside of a drawing.",
+   "view": 1
+  },
+  {
+   "t": 2353842,
+   "role": "SCIENCE",
+   "clip": "m1_sci_has_been_line_whole_25e811",
+   "text": "[gentle] It has been a line the whole time. And look at the little map in the corner of your eye — the one that has been sitting there since we boarded. It is the same drawing. You have been inside the diagram, the whole way along it.",
+   "view": 3
+  },
+  {
+   "t": 2368251,
+   "role": "SCIENCE",
+   "clip": "m1_sci_worth_saying_plainly_because_6a1941",
+   "text": "[warm] And that is worth saying plainly, because it is what the whole expedition is for. None of what we did today was new mathematics. It is all several thousand years old and most of it was on a page in front of you at school.",
+   "view": 0
+  },
+  {
+   "t": 2383078,
+   "role": "SCIENCE",
+   "clip": "m1_sci_what_was_missing_was_bf3e95",
+   "text": "[grave] What was missing was that it had a body. A quadratic is a square with a corner missing. Sine is a shadow. Multiplying by i is a quarter turn. Those are not analogies for the real thing — the shapes came first, and the notation was invented afterwards to write them down quickly.",
+   "view": 3
+  },
+  {
+   "t": 2403664,
+   "role": "ENGINEERING",
+   "clip": "m1_eng_so_when_could_not_b31483",
+   "text": "[reflective] So when I could not follow it, I was being handed the shorthand for something I had never once been shown. Not a failure of attention on my part. A missing piece of wood, and it was twenty years long.",
+   "view": 1
+  },
+  {
+   "t": 2415751,
+   "role": "SCIENCE",
+   "clip": "m1_sci_happens_almost_everybody_not_f52f09",
+   "text": "[warm] That happens to almost everybody, and it is not a statement about you. The shorthand is genuinely brilliant, and it is also genuinely unreadable to anybody who was never once shown the thing that it is short for. Both of those are true at the same time.",
+   "view": 3
+  },
+  {
+   "t": 2432714,
+   "role": "NAVIGATION",
+   "clip": "m1_nav_thirteen_beads_on_thread_17ee22",
+   "text": "[hushed] Thirteen beads on the thread. And the ruler on your display has not moved off one since we boarded — not once, the whole run, which I am told is worth mentioning. Helm logging the run complete, and the deck is yours, Doc.",
+   "view": 3
+  },
+  {
+   "t": 2447913,
+   "role": "SCIENCE",
+   "clip": "m1_sci_never_moved_because_nothing_e26a21",
+   "text": "[gentle] It never moved because nothing today was ever cut smaller than one. So: all of that was one flat picture, and you were inside it. Say that back in your own words and the tour is finished. Next chapter the ruler starts to fall, and it does not stop until it is smaller than anything you can name. Thank you for flying.",
+   "view": 3
+  }
+ ],
+ "fillers": [
+  {
+   "role": "ENGINEERING",
+   "clip": "m1_eng_quiet_stretch_doc_permission_4c01df",
+   "text": "[dry] Quiet stretch. Doc, permission to say that I have understood more in the last twenty minutes than in two years of night classes, and I paid for the night classes out of my own pocket, on a Tuesday, in the rain."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m1_nav_rings_going_by_steady_bc4c58",
+   "text": "[warm] Rings going by steady. If you want to look around, go ahead — the corridor holds its shape whichever way you turn your head, and nothing out there needs watching from you. I have the flying, and I will call anything worth turning round for."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m1_sci_one_thing_worth_carrying_30089b",
+   "text": "[gentle] One thing worth carrying between stops: nothing we have done today is a trick. Every single step has been moving a piece of area from one place to another and refusing to lose any of it on the way."
+  },
+  {
+   "role": "ENGINEERING",
+   "clip": "m1_eng_for_record_still_think_276316",
+   "text": "[dry] For the record, I still think the notation is badly designed and I am not withdrawing that. But I do withdraw the accusation that it was designed on purpose to keep people like me out of the room."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m1_nav_long_transit_ahead_doc_2eb7b2",
+   "text": "[reflective] Long transit ahead. Doc, do you ever get tired of showing people the same thirteen things? You must have flown this corridor a hundred times, and you say it all as if it had just occurred to you."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m1_sci_never_there_particular_moment_59a91c",
+   "text": "[warm] Never. There is a particular moment on the third stop, when the corner goes in and seats, and you can hear the whole deck stop breathing at the same time. That is the job. I would not trade it for a chair."
+  }
+ ],
+ "segments": [
+  {
+   "label": "1.  THE UNIT",
+   "startMs": 0,
+   "node": 0
+  },
+  {
+   "label": "2.  THE RECTANGLE",
+   "startMs": 170703,
+   "node": 1
+  },
+  {
+   "label": "3.  THE COMPLETED SQUARE",
+   "startMs": 329740,
+   "node": 2
+  },
+  {
+   "label": "4.  THE DIFFERENCE OF SQUARES",
+   "startMs": 531381,
+   "node": 3
+  },
+  {
+   "label": "5.  THE RIGHT ANGLE",
+   "startMs": 704084,
+   "node": 4
+  },
+  {
+   "label": "6.  THE TWINS",
+   "startMs": 891964,
+   "node": 5
+  },
+  {
+   "label": "7.  THE SLICED CONE",
+   "startMs": 1079796,
+   "node": 6
+  },
+  {
+   "label": "8.  THE FOCUS",
+   "startMs": 1282270,
+   "node": 7
+  },
+  {
+   "label": "9.  THE WHEEL",
+   "startMs": 1460267,
+   "node": 8
+  },
+  {
+   "label": "10.  THE TURN",
+   "startMs": 1682829,
+   "node": 9
+  },
+  {
+   "label": "11.  THE STRETCHED RULER",
+   "startMs": 1891389,
+   "node": 10
+  },
+  {
+   "label": "12.  THE DOUBLING",
+   "startMs": 2079732,
+   "node": 11
+  },
+  {
+   "label": "13.  THE VIEW FROM OUTSIDE",
+   "startMs": 2282440,
+   "node": 12
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": 3,
+  "clipPrefix": "m3_",
+  "title": "MathCosmos III: The Accumulation",
+  "transitMs": 24000,
+  "stops": [
+    {
+      "name": "THE WAKE",
+      "lines": [
+        {"role": "NAVIGATION", "view": 1, "sfx": "drive_engage",
+         "text": "[warm] Helm to all stations, we are under way and the corridor is gold this run. There is a new fitting on the stern — an emitter. Doc wants it open the moment we clear the gate, and everybody looking backwards instead of forwards."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] Open it. — There. That sheet unrolling behind us runs from the floor rail up to the curve on the roof, and it fills the corridor we have already flown. Behind us, swept. Ahead of us, empty. That is this tour in one picture."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] It is pretty, I will grant you. But we have been flying two minutes and all it has done is get bigger. What is that second gauge counting? It is not distance — I can see the ring count beside it and the two do not agree."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] It counts how much sheet is back there. Not how far we have come and not how fast — how much room there is between floor and roof, added up over everything we have passed. Keep your eye on that gauge now, not on the sheet."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Roof is climbing here and the sheet has gone deep with it, three good units from deck to trace. Gauge has picked up speed to match. Now the roof is coming down and the gauge is slowing — but it is not going backwards."},
+        {"role": "ENGINEERING", "view": 0, "gapMs": 7000,
+         "text": "[dry] Helm, take the speed off for me — right down to a crawl. And before she does it, settle on what you think that gauge does while we are barely moving. Stops dead? Slides back? Keeps on climbing? Pick one of the three and hold it."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Speed is off. We are down to a crawl and the corridor is barely coming at us at all. The sheet is still unrolling back there, thin and slow. And that gauge has not stopped and it has not slipped back. It is still going up."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[dry] So whatever it counts, it is not something we earn by going fast. Crawl along and you simply take longer to sweep the same stretch of corridor. I had that thing down as a speedometer with extra steps. It is nothing of the kind."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Nothing of the kind. One honest note before we go on. That sheet has thickness only so you can see it. What the gauge measures is the flat region between deck and roof, and thickness would only ever get in the way of it."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] So, one sentence for this stop. That gauge is not distance and it is not speed — it is the room we have swept up behind us, the area under the curve, made as you watch. If you can say that back in your own words, this stop is finished."}
+      ],
+      "transitLines": [
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Emitter stays open the whole run, so it will only get deeper back there. Next stop, Doc says we stop admiring the sheet and start putting a number on it, which as far as I can tell means cutting the thing into pieces."}
+      ]
+    },
+    {
+      "name": "THE SLABS",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before we slow down for this one: that gauge has been running the whole way here. Say to yourself what it counts, and — just as important — say what it does not. I will wait. Neither the corridor nor the answer is going anywhere."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Slowing for the aisle. Eight slabs standing under the trace, four to port and four to starboard, with a gap down the middle just wide enough for us. Each one touches the roof at its leading edge and then ignores it."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] That is the first honest attempt anybody made at this. You cannot add up a curved region directly, so you replace it with eight rectangles you can measure — a width and a height, the shape we built on the first run."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] It is the wrong answer, though. Look up as we pass. There is a red sliver on top of every one of those slabs, where the roof climbed away and the slab did not follow. We are not flying past the error. We are flying through it."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] You are, and that is why I put you in the aisle rather than outside it. The red is not the method failing, it is the method reporting its own size. An answer wrong by an amount you can measure beats one you must trust."},
+        {"role": "ENGINEERING", "view": 3, "gapMs": 7000,
+         "text": "[dry] Doc is about to have Helm move every slab across to touch the roof at its trailing edge instead of its leading one. Before she does — settle on where that red ends up, and which way the total goes. I have a guess and I am sitting on it."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Slabs are on their trailing edges. They have all grown. The red has gone from above and turned up underneath, and every one is standing proud of the roof. Two bars on the deck now, Doc, and a gap between them."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[dry] Only because the roof climbs the whole way along this leg. Put a dip in it and the leading edge would be the high one for a stretch, and your two bars would cross over. That gap shuts because the ground goes one way."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] Fairly caught, Chief — over a rising stretch, and only over a rising stretch. On a general roof you take the highest and lowest point inside each slab instead, and the truth is still caught between two bars. The shortcut was mine."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] One sentence out of this stop: cut the region into rectangles and the answer comes out wrong by an amount you can see, and cutting them the other way catches the truth between two bars. Say that back in your own words and we are done."}
+      ],
+      "transitLines": [
+        {"role": "ENGINEERING", "view": 1,
+         "text": "[dry] Eight slabs, and a gap between those two bars I could park this ship in sideways. If that gap is meant to be the guarantee, it is not worth much yet. I take it somebody is about to tell me how we make it smaller."}
+      ]
+    },
+    {
+      "name": "THE THINNING",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before we change anything: two bars were left standing on the deck when we pulled out of that aisle. What was sitting between them, and what would have to happen to the pair of them before we could call it exactly? Take a moment."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] The same eight slabs, and the only thing we change about them is how wide they are. Keep your eye on two things and two only — the red slivers on top, and the pair of bars down on the deck. Everything else is being held still."},
+        {"role": "ENGINEERING", "view": 3, "gapMs": 7000,
+         "text": "[dry] Then before Helm cuts them, put a number on it. Halving a slab halves how wide it is. Say what that does to the red sitting on top of it — the same height as before, half of it, or better than half. Decide now, because I have."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Halved. Sixteen of them under the trace, and I am inflating the world to match, so they look the same width to you as they did a moment ago. The rung on the ladder is your honest witness there, and it has dropped."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] Half, Chief, and not by luck. Every sliver is half the height it was, because each slab has half as far to fall behind before the next one picks the roof up again. The error is tied to the width, and the width is ours."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Hold on. You shrink the slabs and blow the world up by the same amount, so the picture in front of me never changes. How am I meant to see progress in a picture that stays exactly the same? Give me something that moves."},
+        {"role": "SCIENCE", "view": 0, "gapMs": 5000,
+         "text": "[warm] Two things move, and they are the two that matter — the red, thinner and dimmer at every halving, and the two bars closing on one another. Helm, halve them twice more. And this time you tell me what happens, before she reads it out."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[grave] Third halving, and a fourth. Red is nearly black. Bars are a hair apart, and I am running out of display to tell them apart with. And this ship is down to a quarter of the length she was at the gate."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[dry] So the ship is the slab. That is what the shrinking has been about — we are not getting smaller for the drama of it, we are getting smaller because we are the width of the cut, and the cut is the only thing changing."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[grave] You are the width of the cut. And I will not dress this up: the red never actually reaches nothing. It only gets smaller than any size you care to name. What those two bars are closing on is called the integral."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] And here is the one sentence to leave with. The integral is not the sum of the slabs — it is the place those sums are going as the slabs get thin. If you can say that back in your own words, this stop is finished."}
+      ],
+      "transitLines": [
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Rung is at the bottom of its range and the two bars have merged into one line. Doc, you have been building up to this next one since before we boarded. The deck is yours whenever you want it. I am holding us steady."}
+      ]
+    },
+    {
+      "name": "THE SWEEP AND THE HEIGHT",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before Helm brings us up to cruise: those two bars closed on one place at the last stop, and I gave that place a name. Recall the name, and recall what I told you it was not. Both halves, in your own head, before we open up."},
+        {"role": "NAVIGATION", "view": 3, "sfx": "chime",
+         "text": "[warm] Holding at cruise, emitter full open. Everything behind us is filled, floor to trace, all the way back to the gate. And there is a second ribbon down on the deck now that started climbing about eleven rings ago. Doc, I would like to know what it thinks it is doing."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] That ribbon is the running total, drawn as a shape instead of printed as a number. Its height at any ring is exactly how much sheet is behind us at that ring — no more and no less. The gauge and the ribbon are one quantity. You read one and you look at the other."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Then let me put my objection on the table before we start, because otherwise it will nag at me the whole way. The tilt of the floor and the height of the ceiling are two different measurements, in two different places, in two different units. Why would they be related?"},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] That is the right objection and I want it on the record. Here is all I will give you. Go one sliver of rail forward. The sheet gains one slab, as tall as the roof and as thin as the sliver. Gain over run is a tilt. That is a reason to look. It is not a result."},
+        {"role": "SCIENCE", "view": 0, "gapMs": 8000,
+         "text": "[warm] Now the thing I will not do is tell you the answer. Left jaw holds a rod cut to the roof height, right jaw a needle set to the ribbon's tilt — the same pair we had out on the run where we cornered that growth curve. Rod longer, needle longer, or neither? Commit to one, then watch the jaws."},
+        {"role": "NAVIGATION", "view": 3,
+         "text": "[reflective] Arms out. Rod and needle, ring one — same length. Ring two, same. Ring three, same. Four. Five, and we are climbing hard now. Six, and they are still level with each other. I am reading these off as I take them and adjusting nothing."},
+        {"role": "NAVIGATION", "view": 3,
+         "text": "[reflective] Seven, over the top of the peak — rod is at its longest and the needle has come up to meet it. Eight, both dropping. Nine, down in the trough, rod short and needle short. Ten, the floor ribbon has gone flat and the rod has gone to nothing. Eleven. Still matched."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[grave] Eleven. I have watched eleven of them, through a peak and a trough and a flat spot, and they have not been out by so much as a hand's width. Doc, that is not two measurements that happen to agree. That is one measurement being taken twice in two different places."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[grave] That is the Fundamental Theorem of Calculus, and you have watched it happen rather than been handed it. Nobody asserted it to you. Eleven rings, a peak, a trough and a flat spot, and the rod and the needle never once parted company."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[grave] One sentence, and the rest of this run is a consequence of it. The speed at which your total grows is the height of the curve above you — adding a thing up and finding how steep it is are one act, run in opposite directions. Say it back in your own words."}
+      ],
+      "transitLines": [
+        {"role": "SCIENCE", "view": 1,
+         "text": "[warm] Take a moment with that one before we move off. Everything left in this run is a consequence of it, and the very next stop is somebody being clever about how to use what you just watched without doing any sweeping of their own."}
+      ]
+    },
+    {
+      "name": "THE TWO CLOCKS",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the gates: two instruments were out on the last leg, one in each jaw of this ship. Say what each of them was measuring, and then say what the pair of them did for eleven rings running. Answer both before Helm calls the gates."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Two gates across the corridor, one ahead of us and one behind. At each gate a rod stands on the rail, as tall as the floor ribbon was when we crossed it. Near rod short, far rod tall. Both are only readings off an instrument."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Two readings from the same instrument, taken in two places. The tall one is how much we had swept by the far gate, the short one how much by the near. The stretch we care about is sitting in the difference between them."},
+        {"role": "ENGINEERING", "view": 3, "gapMs": 7000,
+         "text": "[dry] Then I am going to take the short rod out of the tall one and see what is left standing. Before I do — decide what that leftover piece will match. The wake between the gates? The whole wake back to the start? Nothing at all? Pick one, and watch the corridor, not me."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] The overlap has gone dark and a lit piece is left standing on top. And the wake between the gates has squashed itself into a bar exactly as long as that piece. Not roughly as long. Exactly. All right, Doc. That is neat."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] Better than neat. Look at what we did not do. We laid no slabs. We halved nothing. We took two readings and subtracted, and out came a sweep that would have cost us eight slabs and a great deal of patience by hand."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[dry] So where did all the adding go? It happened somewhere, Doc. You do not get a swept area for nothing by reading a dial twice, and I would like to know who paid for it, because it was not the three of us just now."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] Somebody else did the sweeping, once, and left the answer behind as a ribbon. If you already have that ribbon, every stretch of corridor anyone asks about is two readings and a subtraction. That is what the last stop bought us."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] And the piece both rods share goes dark and never gets counted at all. So it cannot matter where whoever built that ribbon started counting from — both readings carry that much and the subtraction eats it. I could start anywhere."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] You could. One sentence for this stop: if the total-so-far has already been built, then any stretch anyone asks you about is two readings and a subtraction, and no slabs at all. Say that back in your own words and we are done here."}
+      ],
+      "transitLines": [
+        {"role": "ENGINEERING", "view": 1,
+         "text": "[dry] Two readings and a subtraction. I have spent a fair part of my life being told this subject was hard, and the punchline is that the hard part is building somebody's ribbon once so everyone after them can read it twice."}
+      ]
+    },
+    {
+      "name": "THE SIGNED WAKE",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the trace comes down to meet us: we got a whole swept stretch out of two rod readings and one subtraction. What had to exist already for that to work at all, and who had to build it? Answer that before Helm reports."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Trace is coming down to meet us. — And it has gone under. The roof has passed below the deck and we are flying over the top of the curve instead of underneath it. And the sheet behind us has gone cold blue, Doc."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] It has, and the gauge has started walking backwards. Watch that rather than me. While the curve was above us every ring added room to the total. Now it is below us, and every ring takes some away. The sweep is paying out."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Why would it? There is very obviously something back there. That blue sheet is as thick as the gold one was, and it has not stopped existing because it turned up on the wrong side of the rail. You cannot un-sweep a corridor."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] You are right that there is something back there and I will not pretend otherwise. But the gauge was never counting stuff. It counts the room between deck and roof, and it counts it with a sign, because the roof is below us."},
+        {"role": "ENGINEERING", "view": 0, "gapMs": 8000,
+         "text": "[dry] Helm is about to fly one whole turn of the wheel — the wave that unrolled down the wall behind us when the bead went round the ring. Up over the hump, down through the dip. Say now where that gauge lands at the end of it. Above where it started, below it, or somewhere exact."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[grave] One full turn, and it has landed on zero. Dead zero. It climbed the whole way over the hump and it gave every bit of that back through the dip. There is gold behind me and there is blue behind me, and as much of the one as the other."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] So how much we swept over that wave is nothing at all, and how much sheet is lying back there is a very great deal. Those are two different questions, and I have spent the last minute asking the wrong one."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] Two different questions, both perfectly legitimate. Ask for the sweep and you get zero. Ask how much material is back there regardless of which side it fell on, and you get another number. The instrument answers what you asked."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] One sentence to leave with: the sweep counts room with a sign, so under the rail it pays back what it took in above, and a curve that spends as long below as above sweeps up nothing at all. Say that back in your own words."}
+      ],
+      "transitLines": [
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Trace is back above the deck and the sheet has gone gold again. Doc wants the corridor cleared for something large — we are going to spin the roof around the rail and fly down the inside of whatever comes out of it."}
+      ]
+    },
+    {
+      "name": "THE LATHE",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before Helm spins anything: the gauge came back to dead zero over that full turn, with a great deal of sheet still lying behind us. What were the two different questions we found ourselves asking? Name both of them to yourself now."},
+        {"role": "NAVIGATION", "view": 1, "sfx": "grow",
+         "text": "[warm] Spinning it. The trace is going round the rail like rope on a lathe, sweeping out a surface as it turns. — That is a shape. That is a vase, Doc, and we are about to be inside it. Entering on the axis now, dead centre."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Look around you, and then look through the wall of it. What we swept up as a flat sheet a minute ago is a solid now, and the solid is stacked out of discs. Every disc the same thickness, every radius the roof height."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Then it is the slabs all over again. Those discs have flat faces and hard edges and the real surface is smooth, so we are back to a wrong answer with a red bit on it. I assume the fix is the same fix as before."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] The same fix exactly, and I would far rather you saw it coming than heard it from me twice. Thinner discs, more of them, error on its way to nothing. Nothing new is asked of you except that the pieces are solid now."},
+        {"role": "ENGINEERING", "view": 0, "gapMs": 8000,
+         "text": "[dry] Here is what is new, then, and I will go first so I can be wrong in public. We are coming out of the thin end into the belly, where the roof height doubles. I say the gauge climbs twice as hard through there. Pick your own answer before we arrive."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] The gauge has changed units on me, Doc. It read an area a minute ago and it reads a volume now. And through the belly it is climbing far harder than twice. Nothing like twice. Chief, I would put it nearer four times over."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] Four times, Chief, and not twice. Think of the three twins standing in a row with their tiles and cubes. Double the roof height and the disc's face does not double — it goes up fourfold, because a face is an area."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] Which is why a barrel is fat in the middle. And why the thin ends of this thing contribute almost nothing to the gauge, even though we spend as much corridor flying through them as we do through the belly."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] One sentence for this stop: spin a curve about the rail and the region under it becomes a solid you can stack out of thin discs, each one as wide across as the roof was high. Say that back in your own words and we are done."}
+      ],
+      "transitLines": [
+        {"role": "SCIENCE", "view": 1,
+         "text": "[grave] One honest limit before we leave it. That came out clean because we spun the curve about the very line we are flying along. Move the axis off to one side and every disc arrives with a hole through it, and it gets harder."}
+      ]
+    },
+    {
+      "name": "THE STRING",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the cord goes down: every disc in that vase had a flat face against a smooth wall, so every one of them was wrong. Say to yourself why that did not ruin the answer. It is the same reason twice over now, and I want it from you."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Cord is laid along the trace, Doc, and it is not a curve — it is a run of straight chords, end to end, bending at the joints. And there is a rod growing on the deck below it. Every chord adds its length to that rod."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Because a length is a thing you add up too, and this is the only honest way to start. You cannot lay a straight ruler along a bend, so you replace the bend with straight bits you can measure and lay them end to end."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Every one of those chords cuts the corner, though. The cord is inside the curve the whole way along. So the rod is short. Not roughly short, Doc — always short, every time, and a number that is always short is an underbid."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] You are right, and I am not going to soften it. It is always short and it can never be anything else, because the straight run between two points is the shortest way between them. A chord cannot be longer than its arc."},
+        {"role": "SCIENCE", "view": 3, "gapMs": 8000,
+         "text": "[gentle] Helm will halve the chords three times over. You have watched an error shrink twice already today, so this one is yours to call. Does the shortfall halve each time, do better than halve, or worse? Decide, then keep your eye on the rod."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Halved. Rod has grown by a solid handspan. Halved again — grown again, but nothing like as much; call it a quarter of what the first cut bought me. Third halving now, and I can barely see the rod move at all."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] About a quarter, and that is the number to hold on to. The shortfall is not merely shrinking, it is shrinking fourfold every time we halve, so it is losing the race badly. The rod climbs from below to a definite place."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] So it is always wrong, wrong in a direction I know about, and wrong by an amount I can put a bound on. I will take that. It is far better than a number I am asked to trust because somebody confident handed it to me."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] One sentence: a curve's length is straight pieces laid end to end, always a little short of the truth, and the shortfall dies away faster than the pieces do. If you can say that back in your own words, this stop is finished."}
+      ],
+      "transitLines": [
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Rod is logged. Doc wants the wall profile changed for the next stop, and I am asked to warn you that the corridor is going to start narrowing and it will not stop. Nothing is wrong with the ship. That is the stop."}
+      ]
+    },
+    {
+      "name": "THE HORN",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the walls start closing: that rod on the deck came up short of the true length every single time. Was that the method failing, or a plain fact about straight lines? And how did we know how far to trust it? Answer both, then look up."},
+        {"role": "NAVIGATION", "view": 3, "sfx": "chime",
+         "text": "[warm] Profile is in. The corridor is narrowing, and it is not narrowing to a throat and opening out again the way it did on the last run — it just keeps closing. I have counted forty rings and the far end is no nearer."},
+        {"role": "SCIENCE", "view": 0, "gapMs": 8000,
+         "text": "[gentle] It will not get nearer. This corridor has no far end. Its width is set by how far along we have come, and it goes on being set that way forever — narrower, and never quite shut. Now, before you look at the gauge: there is room in every ring and the rings never stop. Say what it must be doing."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] The gauge has stopped. Not slowed, Doc — flatly stopped. It is sitting under a ceiling and creeping at it. That cannot be right. There is corridor going past me, and if there is corridor then there is room inside it."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] There is room in it, and in every ring still to come, and there will always be more of them coming. And the total of all of it, all the way out, is a finite number the gauge is a hair below. Endlessly long, holds only so much."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[dry] Then somebody has capped the display. I am sorry, but that is by a long way the simpler explanation, and I would say the same about any gauge of mine that pinned itself against a round number and then sat there."},
+        {"role": "SCIENCE", "view": 3, "gapMs": 7000,
+         "text": "[gentle] Fair enough. Let the corridor do the arguing. Helm, change the profile — keep it narrowing forever, exactly as now, but narrow it more slowly. Same ride, same rings, only the rate is different. And this time you tell me what the gauge does."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] Profile swapped. And it looks the same from in here, Doc — I could not tell you which of the two we are flying. — Gauge is climbing again. Steadily, no ceiling under it, already past where it stalled before."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[grave] Same-looking corridor, opposite answer, and I could not see the difference with my own eyes. So it was never about whether the thing goes on forever. It is about how fast it closes while it does, and I cannot see that."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] You cannot, and here is the sentence to carry out of it. Going on forever is not what decides whether a total is finite — how fast the thing closes up while it goes on is what decides it. Say that back in your own words."}
+      ],
+      "transitLines": [
+        {"role": "SCIENCE", "view": 1,
+         "text": "[gentle] For the record, since you will meet the names: the first corridor narrowed as one over the square of how far we had come, the second only as one over its root. Some people call the first a horn and it has bothered them for centuries."}
+      ]
+    },
+    {
+      "name": "THE RE-RULING",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the rings move: two corridors that looked the same to the eye gave opposite answers about how much they held. What was the difference between them that you could not see from inside? One sentence to yourself, then watch the wall."},
+        {"role": "NAVIGATION", "view": 1, "sfx": "grow",
+         "text": "[warm] Something is happening to the rings again. They are moving on the wall — bunching up ahead of us and spreading out behind. Doc, we have watched them do this before, on the run where the wall counted multiplications."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] The same machinery, a different job. We are renaming the axis. The corridor is unchanged and the sheet behind us is unchanged. We are only choosing to measure along it with a different ruler, and the wall is showing it."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] The roof has changed shape as the rings moved. It was an awkward-looking curve when we came into this stop and it has come out very nearly flat. That is a much easier roof to fly under, and I touched nothing."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Then it is not the same corridor. If the rings are further apart, the slabs between them are wider, and wider slabs hold more. You have changed the size of every slab in the place and you call the total untouched."},
+        {"role": "SCIENCE", "view": 0, "gapMs": 8000,
+         "text": "[warm] I am telling you nothing at all. There is a bar hanging in the middle of the corridor and that bar is the total. Decide now, before Helm moves a thing: does it grow, does it shrink, or does it hold? Then do not take your eyes off it. Helm, run the re-ruling again."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[grave] Bar has not moved. The rings have gone from one spacing to another and back, the roof has changed shape twice in front of us, and that bar has not moved by a pixel. It has not so much as flickered, Doc."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] There is your answer, and it was a fair objection. The slabs did get wider; the roof came down to pay for it by exactly the factor the rings stretched. Nothing appeared and nothing vanished in front of you."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] So the roof was pushed down by as much as the rings were pulled apart. That is a trade and not a gift, and I withdraw the objection. Different-looking corridor, different-looking roof, the same amount of stuff in it."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] One sentence for this stop: choosing a different ruler cannot change how much is there, only how hard the adding looks — provided you pay the stretch back. Say that back in your own words and this stop is finished."}
+      ],
+      "transitLines": [
+        {"role": "SCIENCE", "view": 1,
+         "text": "[gentle] That trade has a name — substitution — and it is the most-used move in the subject. It makes nothing appear and nothing vanish. It lets you pick a ruler that turns a hard-looking sum into an easy-looking one."}
+      ]
+    },
+    {
+      "name": "THE PARTS",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before the rectangle: a bar hung in the middle of the corridor through that whole transformation and never moved a pixel. What did its stillness actually prove, and what was free to change around it? Answer both before Helm calls it."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[warm] Big rectangle standing across the corridor, and I have seen this one before — the plate that was growing on two sides at once on the last run, with the little red crumb at the far corner. It is standing still now, full size."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[gentle] Full size, and cut. A staircase runs across its inside, following the curve, and it divides the rectangle into two shelves. Neither shelf is a rectangle. Each one is a sweep — what we have spent this run learning to measure."},
+        {"role": "ENGINEERING", "view": 3, "gapMs": 7000,
+         "text": "[dry] Helm is going to lift those two shelves apart and set them back again. Before she does, commit to something: do they fill that rectangle exactly, is there a gap left over, or do the two of them overlap? Watch the corner where the staircase meets the edge."},
+        {"role": "NAVIGATION", "view": 1,
+         "text": "[reflective] They came away clean with nothing left between them. And going back they fill the corner rectangle exactly, no overlap and no gap anywhere. Jaws confirm it. Those two shelves are the whole rectangle and nothing else is."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] Three quantities, then, locked together: the rectangle, and the two sweeps that make it up. Know any two of the three and the third has nowhere left to hide. That is the whole content of this stop, and it is worth having."},
+        {"role": "ENGINEERING", "view": 3,
+         "text": "[dry] Show me why I would care, though. They are both sweeps. If I can do the one I can probably do the other, and if I can do neither of them, then knowing they add up to a rectangle has not got me anywhere at all."},
+        {"role": "SCIENCE", "view": 3, "sfx": "spark",
+         "text": "[gentle] Watch what happens when one of them is out of reach. — There. The shelf we actually want has gone dark, because that is a sweep nobody can do by hand. The other is still lit. And the rectangle is a width times a height."},
+        {"role": "ENGINEERING", "view": 0,
+         "text": "[reflective] So take the lit shelf out of the rectangle and the dark one drops out of the difference. We trade the job we cannot do for the job we can, and the rectangle pays the gap. That is the growing plate, read backwards."},
+        {"role": "SCIENCE", "view": 0,
+         "text": "[warm] That is it exactly. One sentence to leave with: a sweep you cannot do and a sweep you can are the two halves of one plain rectangle, so do the half you can and let the corner pay the difference. Say that back in your own words."}
+      ],
+      "transitLines": [
+        {"role": "SCIENCE", "view": 1,
+         "text": "[gentle] Read backwards is exactly it, and it has a plain name: integration by parts. One honest warning with it — sometimes you make the trade and the shelf you are handed is worse than the one you gave away. Then you go again."}
+      ]
+    },
+    {
+      "name": "THE VIEW FROM OUTSIDE",
+      "lines": [
+        {"role": "SCIENCE", "view": 0, "gapMs": 4500,
+         "text": "[gentle] Before Helm takes the walls down: the last thing we did was hand back a sweep nobody could do and take an easier one in its place. What made that trade legal? Answer it to yourself. It is the last thing I will ask of you today."},
+        {"role": "NAVIGATION", "view": 3, "sfx": "chime", "gapMs": 7000,
+         "text": "[hushed] All stations, that is the run. I am taking the walls down. Stand by — and when they go, do not look forward. Look back along the way we have come, because there is a great deal of it and all of it is still lit."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[hushed] There. That gold slab hanging in the dark is everything we swept, whole, from the first gate to this one. It is not a trail we happened to leave. It is the region under one curve, and we have been inside it all along."},
+        {"role": "ENGINEERING", "view": 1,
+         "text": "[reflective] It is one shape. I thought we were visiting twelve different problems this afternoon, and we have been flying up and down the inside of a single object the whole time, measuring bits of it from within."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] And the little map in the corner of your eye has been drawing it all along. The shading on that map was the wake, and the edge of the shading was us. What you see now and what you have been glancing at are one picture."},
+        {"role": "NAVIGATION", "view": 3,
+         "text": "[reflective] The running ribbon is still there underneath, going the whole length. And the arms are still out, Doc. Rod in the left jaw, needle in the right — and from out here you can see they are still the same length."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[grave] Keep those two in your hand as you go. Everything else today was technique — slabs, discs, chords, a better ruler, a trade. Those two are not technique. That pair is the theorem, and it never once stopped being true."},
+        {"role": "ENGINEERING", "view": 1,
+         "text": "[reflective] I came aboard thinking an integral was a symbol with a long back, written down to make a page look serious. It is a sweep. It is the thing behind the ship, and I have been sitting in front of it the whole afternoon."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[gentle] It is the thing behind the ship, and it always was. Next chapter the pieces stop stopping. Today we cut a finite number of times and took the limit; next run every ring on that wall is one more term in a tower."},
+        {"role": "SCIENCE", "view": 3,
+         "text": "[grave] One sentence out of the whole run, and let the rest be technique. The speed at which your total grows is the height of the curve above you. If you can say that back in your own words, this run is finished. Thank you for flying."}
+      ]
+    }
+  ],
+  "fillers": [
+    {"role": "NAVIGATION",
+     "text": "[warm] Long quiet stretch. The emitter is still open and the corridor behind us is filling up nicely, so if you want to turn your head and look back down the way we came, now is a good moment. It holds its shape either way."},
+    {"role": "ENGINEERING",
+     "text": "[dry] A question for the record while it is quiet, Doc. Twenty years of watching gauges and I have never had one that counted what I had already been through rather than what was still coming. It is an odd way round."},
+    {"role": "SCIENCE",
+     "text": "[gentle] Something worth carrying between stops: every stop today is the same move wearing a different coat. Cut it into pieces you can actually measure, add them up, and watch what the answer does as the pieces shrink."},
+    {"role": "NAVIGATION",
+     "text": "[reflective] The rung on the ladder is still falling. It has not gone back up once since we boarded and I do not believe it is going to. Doc tells me that is the shape of the whole expedition, not just of this run."},
+    {"role": "ENGINEERING",
+     "text": "[dry] I will admit something while it is quiet. I came aboard carrying the idea that this subject was invented to be difficult on purpose. What I have watched today is people being careful not to lose any of the stuff."},
+    {"role": "SCIENCE",
+     "text": "[warm] It is care, mostly. The reputation for difficulty comes from the shorthand, and the shorthand exists because writing all of this out in full every single time would take a working lifetime. Not a wall, a shortcut."}
+  ]
+}

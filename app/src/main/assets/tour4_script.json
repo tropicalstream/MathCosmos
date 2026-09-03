@@ -1,0 +1,1155 @@
+{
+ "title": "MathCosmos IV: The Infinite",
+ "durationMs": 2452790,
+ "keyframes": [
+  [
+   0,
+   0
+  ],
+  [
+   170741,
+   0
+  ],
+  [
+   194741,
+   1
+  ],
+  [
+   194741,
+   1
+  ],
+  [
+   375013,
+   1
+  ],
+  [
+   399013,
+   2
+  ],
+  [
+   399013,
+   2
+  ],
+  [
+   590049,
+   2
+  ],
+  [
+   614049,
+   3
+  ],
+  [
+   614049,
+   3
+  ],
+  [
+   771507,
+   3
+  ],
+  [
+   795507,
+   4
+  ],
+  [
+   795507,
+   4
+  ],
+  [
+   981248,
+   4
+  ],
+  [
+   1005248,
+   5
+  ],
+  [
+   1005248,
+   5
+  ],
+  [
+   1197004,
+   5
+  ],
+  [
+   1221004,
+   6
+  ],
+  [
+   1221004,
+   6
+  ],
+  [
+   1401358,
+   6
+  ],
+  [
+   1425358,
+   7
+  ],
+  [
+   1425358,
+   7
+  ],
+  [
+   1591394,
+   7
+  ],
+  [
+   1615394,
+   8
+  ],
+  [
+   1615394,
+   8
+  ],
+  [
+   1806314,
+   8
+  ],
+  [
+   1830314,
+   9
+  ],
+  [
+   1830314,
+   9
+  ],
+  [
+   2022628,
+   9
+  ],
+  [
+   2046628,
+   10
+  ],
+  [
+   2046628,
+   10
+  ],
+  [
+   2248044,
+   10
+  ],
+  [
+   2272044,
+   11
+  ],
+  [
+   2272044,
+   11
+  ],
+  [
+   2446790,
+   11
+  ]
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_helm_all_stations_drive_cde1ea",
+   "text": "[warm] Helm to all stations. Drive is trimmed and the corridor has gone violet on us. Watch the wall rings — they are not evenly spaced any more. On this run each ring is one term of a list, so counting rings is counting terms. Doc has the deck.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 17242,
+   "role": "SCIENCE",
+   "clip": "m4_sci_line_beads_ahead_one_223bef",
+   "text": "[gentle] A line of beads ahead, one at every ring, each at its own height. That is a sequence — a list of numbers with a first, a second, a third, running on as long as you like. Nothing infinite is in front of you yet. Just a queue with no end announced.",
+   "view": 0
+  },
+  {
+   "t": 35784,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_they_are_settling_toward_55e869",
+   "text": "[dry] They are settling toward some height, near enough. But near enough is the phrase that gets equipment condemned, Doc. Near enough for what? I could not sign off a bearing tolerance with near enough written on it and keep my post.",
+   "view": 3
+  },
+  {
+   "t": 49172,
+   "role": "SCIENCE",
+   "clip": "m4_sci_right_complaint_answer_make_b8f193",
+   "text": "[warm] That is the right complaint, and the answer is to make you name the tolerance before anybody promises you anything. Name one. Helm, two light planes that far apart, one above the settling height and one below. And keep your eye on the collar, not on the beads.",
+   "view": 0
+  },
+  {
+   "t": 68504,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_band_set_first_three_679444",
+   "text": "[reflective] Band is set. The first three beads are outside it and wandering. Ring nine is inside, and so is ten, and every bead after it as far as the lamp reaches. Dropping a bright collar on ring nine — that is where this list gets inside the band and stays there.",
+   "view": 1
+  },
+  {
+   "t": 85514,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_before_helm_touches_anything_f45244",
+   "text": "[dry] Before Helm touches anything, back a horse. He is about to halve that band — squeeze it to half the width and leave it there. Does the collar hold on ring nine, does it slide off down the corridor, or does it stop existing altogether? Pick one and hold it.",
+   "view": 3
+  },
+  {
+   "t": 105988,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_band_halved_collar_has_bc13c3",
+   "text": "[reflective] Band halved. The collar has come off ring nine and gone a long way out — it has settled on ring forty and it is still there. Halving again and it moves again, further down. I have not yet been given a width narrow enough to leave me without one.",
+   "view": 1
+  },
+  {
+   "t": 122441,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_so_promise_not_gets_0a71f0",
+   "text": "[dry] So the promise is not that it gets close. It gets close and then stays close, for ever, and I get to pick how close before you start. Those are two different jobs, and I have had contractors deliver only the first one.",
+   "view": 0
+  },
+  {
+   "t": 135875,
+   "role": "SCIENCE",
+   "clip": "m4_sci_now_second_queue_watch_d4894f",
+   "text": "[grave] Now the second queue, and watch the same band close on it. These beads keep leaping out of it, ring after ring, flashing red as they go. There is no ring past which they stay inside, so there is no collar to drop, and there never will be one.",
+   "view": 3
+  },
+  {
+   "t": 153163,
+   "role": "SCIENCE",
+   "clip": "m4_sci_so_here_one_sentence_a11eb0",
+   "text": "[warm] So here is the one sentence for this stop. A list settles if you can name any band, however thin, and there is some ring past which the list never leaves it. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 170741,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_under_way_beads_are_d475aa",
+   "text": "[warm] Under way, and the beads are sliding past the port window in order. Doc says that at the next stop we stop looking at them one at a time and start adding them up, which is apparently where the trouble begins.",
+   "view": 1
+  },
+  {
+   "t": 194741,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_look_at_what_f96ca7",
+   "text": "[gentle] Before you look at what is ahead of us — back at the beads, Helm dropped a bright collar on one ring. What was that collar marking, and what did he have to do to it to make the collar move? Answer that to yourself before I say another word.",
+   "view": 0
+  },
+  {
+   "t": 213736,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_two_towers_coming_up_3de0d4",
+   "text": "[warm] Two towers coming up, one either side of the rail, building themselves as we advance — one brick per ring, per side. Port bricks are getting thin very fast. Starboard is thinning as well, but slower. Both still going up.",
+   "view": 1
+  },
+  {
+   "t": 229724,
+   "role": "SCIENCE",
+   "clip": "m4_sci_beads_were_terms_these_80cd8d",
+   "text": "[gentle] The beads were the terms. These bricks are the running total — each new brick is the next term stacked on everything already there. That is a series: a sequence you have decided to add up. And there is one question worth asking about a tower. Has it got a top?",
+   "view": 0
+  },
+  {
+   "t": 247941,
+   "role": "SCIENCE",
+   "clip": "m4_sci_halve_then_halve_again_326e4b",
+   "text": "[warm] Halve, then halve again — that is the port tower. There is a ceiling plane above it and the gap is closing, but not like something arriving. It is being eaten. A gap eaten rather than crossed is exactly what having a limit looks like from inside.",
+   "view": 0
+  },
+  {
+   "t": 265647,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_right_then_starboard_same_2900b5",
+   "text": "[dry] Right, then starboard is the same story. Its bricks are shrinking too — one, then a half, then a third, then a quarter, I can read them off from here. They are heading to nothing just like the others. So that one stops too, right?",
+   "view": 3
+  },
+  {
+   "t": 279638,
+   "role": "SCIENCE",
+   "clip": "m4_sci_what_almost_everybody_says_b740ab",
+   "text": "[gentle] That is what almost everybody says and I am not going to talk you out of it. So back him, or do not. Twenty-four rings of tower still to lay — does starboard top out under that ceiling plane, or go through it? Watch the plane, not the bricks. Helm, do not move it to be kind to anybody.",
+   "view": 0
+  },
+  {
+   "t": 307056,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_ring_sixteen_starboard_level_94908c",
+   "text": "[reflective] Ring sixteen and starboard is level with the ceiling plane. Ring twenty, above it. Ring twenty-four and still going, and I am lifting the ship to keep both tops in the same window. The port tower is a stub down there now.",
+   "view": 1
+  },
+  {
+   "t": 322626,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_not_possible_every_brick_2a08c6",
+   "text": "[dry] That is not possible. Every brick in that tower is smaller than the one under it and all of them are heading for nothing. How does a stack of shrinking bricks not stop? Something in that is wrong and I do not think it is my eyes.",
+   "view": 0
+  },
+  {
+   "t": 336385,
+   "role": "SCIENCE",
+   "clip": "m4_sci_no_were_wrong_nearly_33e7c4",
+   "text": "[grave] No. You were wrong, and nearly everybody is wrong here, which is why it is worth being wrong out loud. Shrinking to nothing does not stop a tower. It is required, and it is nowhere near enough on its own. What settles it is how fast, and I will hand you that proof two stops from now.",
+   "view": 3
+  },
+  {
+   "t": 357342,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_carry_out_c15420",
+   "text": "[warm] One sentence to carry out of this stop, and it is the one that cost the Chief his bet. A tower whose bricks all shrink to nothing can still climb for ever, so shrinking is not the test. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 399013,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_doc_before_open_door_9c70a9",
+   "text": "[dry] Doc, before you open that door — the two towers. One topped out under its ceiling and one did not, and both were built of bricks shrinking to nothing. What was the difference between them? Put it in your own words first, because mine were wrong.",
+   "view": 3
+  },
+  {
+   "t": 416801,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_holding_at_mouth_room_53305a",
+   "text": "[warm] Holding at the mouth of a room. Doc has had me measure it: exactly one unit end to end, far wall lit so you can see what we are aiming at. Orders are to fly half of whatever is left, stop, then half of that. First run away now.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 433207,
+   "role": "SCIENCE",
+   "clip": "m4_sci_watch_floor_behind_us_f4c9c7",
+   "text": "[gentle] Watch the floor behind us rather than the wall ahead. The stretch we crossed has filled in as a slab, half the room. The next lays a quarter, hard against it. No overlap, no gap — and each one a fixed half of the last, which is what makes this a geometric series.",
+   "view": 0
+  },
+  {
+   "t": 452400,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_third_slab_down_eighth_fc25bd",
+   "text": "[reflective] Third slab down, an eighth. Fourth, a sixteenth. Doc, the wall rings are piling up ahead of us — I can count fifty inside the last hand's breadth of corridor and more are arriving. They are stacking against that far wall.",
+   "view": 1
+  },
+  {
+   "t": 468342,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_let_me_get_c60535",
+   "text": "[dry] Then let me get in front of it for once. That floor is filling behind us and the far wall is one unit off. When every slab that is coming has gone down, does the lit floor stop short of the wall, land exactly on it, or run past it? Choose now, before Doc says.",
+   "view": 0
+  },
+  {
+   "t": 490069,
+   "role": "SCIENCE",
+   "clip": "m4_sci_crowd_rings_against_wall_9ab489",
+   "text": "[warm] That crowd of rings against the wall is the best picture of a settling series anybody has — infinitely many terms, every one of them real, all fitting inside a finite stretch of floor. And the floor has filled to exactly the room. Not a hair past the wall, not a hair short.",
+   "view": 3
+  },
+  {
+   "t": 509215,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_doc_will_say_thing_cbc3d3",
+   "text": "[dry] Doc, I will say the thing everybody in the back is thinking. If we only ever fly half of what is left, we never arrive. I have heard this one before, usually with a tortoise in it somewhere, and it has bothered me since I was about nine.",
+   "view": 0
+  },
+  {
+   "t": 522742,
+   "role": "SCIENCE",
+   "clip": "m4_sci_good_because_there_are_12d8fb",
+   "text": "[grave] Good, because there are two statements here and they get welded into a paradox that does not exist. One: the ship arrives. We never slowed down, the wall is one unit away, and we cross it in a perfectly ordinary amount of time. Watch us do it.",
+   "view": 0
+  },
+  {
+   "t": 540959,
+   "role": "SCIENCE",
+   "clip": "m4_sci_two_sum_slabs_finite_149bd7",
+   "text": "[gentle] Two: the sum of the slabs is finite. That is a statement about how we chose to chop the floor up, and we chose endlessly many pieces. Cutting a finite thing into infinitely many parts does not make the thing infinite. It only makes the list of parts long.",
+   "view": 0
+  },
+  {
+   "t": 559548,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_so_trouble_was_never_47aef1",
+   "text": "[reflective] So the trouble was never in the travelling at all. It was in the counting. We invented the endless list ourselves by deciding to halve rather than simply fly, and then we frightened ourselves with the list we had invented.",
+   "view": 3
+  },
+  {
+   "t": 572425,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_for_room_b629f8",
+   "text": "[warm] One sentence for the room. Cutting a finite distance into endlessly many pieces makes the list of pieces endless and leaves the distance exactly what it always was. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 590049,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_clear_room_floor_behind_62451d",
+   "text": "[hushed] Clear of the room. The floor behind us is lit end to end, every slab in place, and the last several thousand are too thin to see from here. It is the tidiest thing I have flown through in a long while, and the Chief has gone quiet.",
+   "view": 1
+  },
+  {
+   "t": 614049,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_brackets_go_on_9b3ae4",
+   "text": "[gentle] Before the brackets go on — the room we have just flown through. Endlessly many slabs went down on that floor and the floor did not overflow by a hair. Say to yourself why that did not break anything. I am not going to fill the silence for you.",
+   "view": 0
+  },
+  {
+   "t": 634623,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_back_alongside_starboard_tower_c11266",
+   "text": "[warm] Back alongside the starboard tower, the one that would not stop. Doc has had me put brackets on it — real brackets, each spanning a group of bricks — and beside every bracket a slab standing on the deck at a fixed half-height.",
+   "view": 1
+  },
+  {
+   "t": 649589,
+   "role": "SCIENCE",
+   "clip": "m4_sci_take_third_brick_fourth_667385",
+   "text": "[gentle] Take the third brick and the fourth together. The third is a third of a unit and the fourth is a quarter, so both are at least a quarter thick. Two bricks, each at least a quarter, is at least a half. And there is the half-slab beside them, overtopped.",
+   "view": 0
+  },
+  {
+   "t": 667713,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_fine_but_one_bracket_d6a5ba",
+   "text": "[dry] Fine, but that is one bracket and you picked it yourself. Do it again and you will need more bricks to make your half, and thinner ones, and sooner or later you run out of thickness to work with. That is how these things come apart.",
+   "view": 3
+  },
+  {
+   "t": 680590,
+   "role": "SCIENCE",
+   "clip": "m4_sci_then_do_next_one_09202b",
+   "text": "[warm] Then you do the next one and I will keep quiet. The four bricks after those: the thinnest of the four is an eighth of a unit. Work out what those four together must beat, watch the slab Helm drops beside them, and then tell me whether the group after that can fail.",
+   "view": 0
+  },
+  {
+   "t": 705547,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_brackets_are_stretching_along_132297",
+   "text": "[reflective] Brackets are stretching along the corridor — two rings, then four, then eight, then sixteen, each twice the last, each dropping another half-slab on the pile. Roof raised twice. The tower has gone up out of the lamp's reach and I have lost the top of it.",
+   "view": 1
+  },
+  {
+   "t": 723579,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_every_bracket_buys_another_3ec99a",
+   "text": "[reflective] Every bracket buys another half. And there is always a next bracket, because you can always go twice as far down the corridor as you just went. It never stops because you can always afford the next half. I was wrong earlier.",
+   "view": 0
+  },
+  {
+   "t": 737338,
+   "role": "SCIENCE",
+   "clip": "m4_sci_were_wrong_for_best_cdea63",
+   "text": "[grave] You were wrong for the best reason there is, and this time you are right and you got there without me. Name any height at all and I will buy it in halves. It costs twice as many bricks every time, and bricks are the one thing this corridor never runs out of.",
+   "view": 3
+  },
+  {
+   "t": 754394,
+   "role": "SCIENCE",
+   "clip": "m4_sci_so_one_sentence_terms_45107d",
+   "text": "[warm] So the one sentence. Terms that shrink to nothing can still add up to everything, because you can always afford the next half if you are willing to go twice as far for it. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 795507,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_before_take_on_something_6f725d",
+   "text": "[dry] Before we take on something new — the brackets on that tower. How much did each one buy, and what did it cost in bricks every time you wanted another? If you can answer that you are further along than I was an hour ago. I will wait.",
+   "view": 3
+  },
+  {
+   "t": 812041,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_new_tower_ahead_nobody_80d85f",
+   "text": "[warm] New tower ahead and nobody has measured this one — Doc has not told me whether it stops and says he does not intend to. There is a translucent wedge coming down over it from above, settling onto the bricks like a lid being closed.",
+   "view": 1
+  },
+  {
+   "t": 827843,
+   "role": "SCIENCE",
+   "clip": "m4_sci_wedge_halving_tower_from_2e157a",
+   "text": "[gentle] The wedge is the halving tower from the room we flew through, drawn as an envelope. We know that one settles, because we watched the floor fill. So if every brick of this unknown tower sits under the wedge, its total cannot beat a total we already know has a ceiling.",
+   "view": 0
+  },
+  {
+   "t": 846060,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_hold_on_are_not_9761a6",
+   "text": "[dry] Hold on. You are not measuring this tower at all. You are measuring the other one and hiding behind it. That has the flavour of being told my hull is sound because somebody else's hull is sound and mine is a bit smaller.",
+   "view": 3
+  },
+  {
+   "t": 858797,
+   "role": "SCIENCE",
+   "clip": "m4_sci_exactly_what_said_chief_d4f0c3",
+   "text": "[warm] It is exactly what you said, Chief, and it is legitimate for one reason you can see from where you sit: every brick is positive, so nothing in this tower ever takes anything away. Watch the leg light up as Helm reads it, and watch the collar behind us.",
+   "view": 0
+  },
+  {
+   "t": 876039,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_green_whole_way_down_f9bd59",
+   "text": "[reflective] Green the whole way down the leg, every brick under the lid. The safe collar is closing on us and the passage is tightening in, which on this run means the amount still unaccounted for is getting small. Comfortable ride, actually.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 891098,
+   "role": "SCIENCE",
+   "clip": "m4_sci_second_tower_now_same_e27738",
+   "text": "[gentle] Second tower now, same wedge. Keep your eye on ring nine — the bricks there are going to come up through the lid and the collar will refuse to close. Before that happens, decide one thing: does a brick poking out through the wedge prove this tower climbs for ever? Yes or no.",
+   "view": 3
+  },
+  {
+   "t": 916634,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_one_climbs_for_0911f2",
+   "text": "[dry] Then that one climbs for ever and we are finished here. It has broken the lid, the collar will not close, and the passage has flared open on us. I do not see what else a brick standing above the line could possibly be telling me.",
+   "view": 0
+  },
+  {
+   "t": 929789,
+   "role": "SCIENCE",
+   "clip": "m4_sci_nothing_at_all_worth_d29110",
+   "text": "[warm] Nothing at all, and that is worth saying slowly. The envelope failed. The tower is not convicted. All you have learned is that this particular lid was the wrong lid, and a different one might still close over every brick in the stack.",
+   "view": 0
+  },
+  {
+   "t": 946474,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_there_small_gauge_on_d9e065",
+   "text": "[reflective] There is a small gauge on every brick now, Doc, reading its thickness against the one below it, with a red line at one. On the first tower every needle sits well under the line. On this one they are pressed up against it and not coming down.",
+   "view": 1
+  },
+  {
+   "t": 961766,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_has_two_b74cdc",
+   "text": "[grave] One sentence, and it has two ends. A tower that hides entirely under a tower you already trust cannot climb higher than that one; a tower that pokes out has told you nothing at all. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 981248,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_under_way_passage_easy_0fd9ac",
+   "text": "[warm] Under way and the passage is easy again, which after that flare is a relief. Doc has asked me to take the helm off automatic for the next stop, which in eleven runs he has never once done. I would keep an eye on the window.",
+   "view": 1
+  },
+  {
+   "t": 1005248,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_helm_takes_controls_104bec",
+   "text": "[gentle] Before Helm takes the controls — the wedge we laid over those two towers. One tower stayed under it and one broke through. Which of those two verdicts was worth something, and which was worth nothing at all? Settle that in your head before we move.",
+   "view": 0
+  },
+  {
+   "t": 1025451,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_helm_taking_her_manually_e5a942",
+   "text": "[warm] Helm taking her manually for this one. Forward one unit. Back half a unit. Forward a third. Back a quarter. Every leg is being left behind as a lit strut, so mind the concertina building up in the mirror. It is getting crowded back there.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 1041393,
+   "role": "SCIENCE",
+   "clip": "m4_sci_these_are_same_terms_f95467",
+   "text": "[gentle] These are the same terms as the starboard tower, the one that climbed out of sight — one, a half, a third, a quarter, on and on. Nothing about their sizes has changed. All we have done is agree to subtract every second one instead of adding it.",
+   "view": 0
+  },
+  {
+   "t": 1059378,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_want_know_how_8daa9e",
+   "text": "[dry] Then I want to know how that can possibly matter. Those numbers went up for ever half an hour ago. You have not made any of them smaller and you have not thrown any away. They should still go up, only in a more confusing pattern.",
+   "view": 3
+  },
+  {
+   "t": 1072626,
+   "role": "SCIENCE",
+   "clip": "m4_sci_do_not_let_me_472828",
+   "text": "[warm] Do not let me answer that yet. Watch the concertina building in the mirror rather than the bow, because that is where this gets decided. Commit to one of two things now: this ship runs off down the corridor for ever, or it closes on one place. Hold your answer while we walk.",
+   "view": 0
+  },
+  {
+   "t": 1097861,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_swings_are_getting_shorter_d50402",
+   "text": "[reflective] Swings are getting shorter every leg and I have stopped covering ground — I am undoing most of what I have just done. The struts in the mirror are nested one inside the last, the whole concertina, and the far end has gone too fine to read.",
+   "view": 1
+  },
+  {
+   "t": 1113663,
+   "role": "SCIENCE",
+   "clip": "m4_sci_order_doing_work_can_24eb48",
+   "text": "[warm] The order is doing the work and you can watch it doing the work. Every step this ship takes is shorter than the step it is undoing, so each swing lands inside the swing before it. We are not marching anywhere. We are being squeezed between our own footprints.",
+   "view": 0
+  },
+  {
+   "t": 1132066,
+   "role": "SCIENCE",
+   "clip": "m4_sci_now_look_at_tube_4cbe2f",
+   "text": "[gentle] Now look at the tube around you, because it is doing something honest. Its radius right now is exactly the size of the step we are about to take. Wherever the true answer sits, it is inside this tube with us, and it cannot be anywhere else.",
+   "view": 3
+  },
+  {
+   "t": 1148704,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_first_error_bar_anybody_924f6b",
+   "text": "[reflective] That is the first error bar anybody has handed me that I did not have to take on faith. Stop walking, read the width of the corridor, and that is the worst it can be. I could use a thing like that on a Tuesday.",
+   "view": 0
+  },
+  {
+   "t": 1161116,
+   "role": "SCIENCE",
+   "clip": "m4_sci_then_carry_one_warning_6bb5c7",
+   "text": "[grave] Then carry one warning with it. The order of these steps is not a detail. Take exactly these terms in a different order and you can land anywhere on this rail at all. That is why this kind of settling is called conditional — it belongs to the walk, not just to the steps.",
+   "view": 0
+  },
+  {
+   "t": 1179705,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_for_walk_d3313d",
+   "text": "[warm] One sentence for the walk. When the steps alternate and shrink, the answer is trapped between any two of them you like, and the next step you have not taken yet is the worst you can still be out by. If you can say that back, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1221004,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_before_ribbons_start_tube_961038",
+   "text": "[dry] Before the ribbons start — that tube that closed around us on the walk. What was setting its width at any given moment? Get that clear in your own head, because we are about to spend two stops being wrong by an amount somebody has to be able to name.",
+   "view": 3
+  },
+  {
+   "t": 1238235,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_holding_under_one_bead_cf2844",
+   "text": "[warm] Holding under one bead on the roof trace. That bead is the anchor and Doc says it is the only place any of this is guaranteed. Ribbons are queuing to come out of it — six of them, in six colours, one every couple of seconds. First is away.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 1255291,
+   "role": "SCIENCE",
+   "clip": "m4_sci_nothing_but_flat_line_855509",
+   "text": "[gentle] And it is nothing but a flat line at the bead's height. It agrees with the curve at the anchor and it is wrong a hand's breadth either side. Call that order zero — it matches one thing, the height. Now order one, and you have met it before: the tangent, the line the closing jaws settled onto two tours ago.",
+   "view": 0
+  },
+  {
+   "t": 1276422,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_where_are_getting_these_144741",
+   "text": "[dry] Where are you getting these from? You keep producing another curve and every one fits better than the last, and that has the flavour of a man pulling the right card out of his sleeve four times running. What is the rule?",
+   "view": 3
+  },
+  {
+   "t": 1288509,
+   "role": "SCIENCE",
+   "clip": "m4_sci_no_sleeve_each_new_09691c",
+   "text": "[gentle] No sleeve. Each new ribbon is built to match one more thing at the anchor, and that is the only instruction it is given. Height. Then direction. Then how hard it is bending. Then how fast the bending is changing. Nothing about anywhere else on this corridor is ever consulted.",
+   "view": 0
+  },
+  {
+   "t": 1308677,
+   "role": "SCIENCE",
+   "clip": "m4_sci_four_more_are_queued_e6db98",
+   "text": "[warm] Four more are queued behind it. Keep your eye on the place where each ribbon lets go of the roof and peels away — not on the anchor, everything agrees at the anchor. Decide now whether that letting-go point marches outward, holds where it is, or comes in closer. Then watch.",
+   "view": 0
+  },
+  {
+   "t": 1334237,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_order_two_out_order_8ec1f2",
+   "text": "[reflective] Order two out, order three, order four, order six. They are nested inside one another and the places where each one lets go of the roof are marching away from us in both directions. Six ribbons out of one bead. Quite a thing to sit under.",
+   "view": 1
+  },
+  {
+   "t": 1351618,
+   "role": "SCIENCE",
+   "clip": "m4_sci_every_one_made_powers_8f18da",
+   "text": "[warm] And every one is made of powers — the plainest material there is, adding and multiplying and nothing else. A thing built that way is called a polynomial, and this is how a machine draws a curve it does not understand. Your calculator has no idea what a wave is. It has powers.",
+   "view": 3
+  },
+  {
+   "t": 1371507,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_all_agreement_was_960409",
+   "text": "[reflective] Then all that agreement was bought at one point. It is a local promise. The ribbon is never told anything about the far end of the corridor, so it has no business being right down there, and sooner or later it will not be.",
+   "view": 0
+  },
+  {
+   "t": 1384523,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_for_ribbons_607dea",
+   "text": "[grave] One sentence for the ribbons. A curve like that is only ever told about one point, and everything it gets right further down the corridor is a consequence of what it was told there. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1425358,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_fly_into_sheet_e87060",
+   "text": "[gentle] Before we fly into that sheet — the six ribbons at the anchor. Each was built to match one more thing at a single bead. Name the first three things, in order, and then name the one thing not one of them was ever told. Then look up at the roof.",
+   "view": 0
+  },
+  {
+   "t": 1445932,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_gap_between_ribbon_roof_c848f0",
+   "text": "[warm] The gap between the ribbon and the roof has filled in with a coloured sheet and we are flying into the thick end of it. Back at the anchor it was nothing at all. Right here it is about a metre through, and it is worse further along.",
+   "view": 1
+  },
+  {
+   "t": 1460434,
+   "role": "SCIENCE",
+   "clip": "m4_sci_sheet_error_drawn_as_7368f9",
+   "text": "[gentle] That sheet is the error, drawn as a thickness so you can put your hand through it. It is not a worry and it is not a disclaimer at the foot of a page. It is a quantity, it has a size at every ring, and that size is the difference between what we drew and what is true.",
+   "view": 0
+  },
+  {
+   "t": 1478883,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_have_been_handed_error_c3dcd7",
+   "text": "[dry] I have been handed error figures before and most were somebody's hopes with a decimal point in them. Is this thickness measured, or is it the number that made the report look tidy on the day? Those are not the same object.",
+   "view": 3
+  },
+  {
+   "t": 1491202,
+   "role": "SCIENCE",
+   "clip": "m4_sci_look_above_sheet_there_8ca62f",
+   "text": "[warm] Look above the sheet. There is a plane hanging up there and the sheet never touches it, not anywhere along this leg. That plane is a bound — not the error, but a promise the error stays underneath. A promise you can prove is worth more than a measurement taken once.",
+   "view": 0
+  },
+  {
+   "t": 1509651,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_before_he_touches_af558a",
+   "text": "[dry] Then before he touches anything, everybody back a horse. Helm is about to raise the order. Watch two places at once if you can — the thickness right here at your hand, and the point far down the corridor where the sheet flares open. Which of the two moves more? Choose.",
+   "view": 0
+  },
+  {
+   "t": 1531378,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_raising_order_on_your_d749ed",
+   "text": "[reflective] Raising the order on your mark. Sheet is thinning — a metre through down to about a finger's width right where we are sitting, and the place where it flares out has slid a long way further down the corridor.",
+   "view": 1
+  },
+  {
+   "t": 1544348,
+   "role": "SCIENCE",
+   "clip": "m4_sci_every_order_add_costs_816954",
+   "text": "[gentle] Every order you add costs the sheet another factor of your distance from the anchor. Near the anchor that is brutal. Far out it barely helps at all, which is why the flare retreats so grudgingly and why nobody sensible promises you the far end.",
+   "view": 3
+  },
+  {
+   "t": 1561544,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_so_if_want_six_8829ec",
+   "text": "[reflective] So if I want six good figures I do not need infinity. I need enough orders, and I need to stand near enough to the anchor, and I can trade one against the other depending on which is cheaper on the day.",
+   "view": 0
+  },
+  {
+   "t": 1573120,
+   "role": "SCIENCE",
+   "clip": "m4_sci_name_for_sheet_remainder_b699b2",
+   "text": "[warm] The name for that sheet is the remainder, and here is the sentence. The honest question was never whether the answer is exact, because it never is — it is how thick the sheet is where you happen to be standing. If you can say that back, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1591394,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_sheet_behind_us_roof_b1623f",
+   "text": "[warm] Sheet is behind us and the roof is bare again. Doc has asked for a long slow approach into the next one and has gone quiet on the deck, which in my experience means he is standing there deciding how to break something to us.",
+   "view": 1
+  },
+  {
+   "t": 1615394,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_before_whatever_up_ahead_c7dd25",
+   "text": "[dry] Before whatever that is up ahead — the coloured sheet. It got thinner when Doc raised the order, but not by the same amount everywhere. Where did the extra orders buy you the most, and where did they barely buy you anything at all? Say it to yourself now.",
+   "view": 3
+  },
+  {
+   "t": 1632764,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_wall_light_across_corridor_2ebd30",
+   "text": "[warm] Wall of light across the corridor ahead and I am not flying into it. The roof trace is climbing toward it and it is not levelling off — it goes up faster the closer we get to the thing. Holding station a little short of it.",
+   "view": 1,
+   "sfx": "klaxon"
+  },
+  {
+   "t": 1647545,
+   "role": "SCIENCE",
+   "clip": "m4_sci_blows_up_there_curve_924d57",
+   "text": "[gentle] It blows up there. The curve has no value at all at that wall, and there is nothing on the far side of it for anybody to approximate. Watch the ribbons: they hug the roof beautifully all the way up to it, and past it they shred into rubbish.",
+   "view": 0
+  },
+  {
+   "t": 1664090,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_one_fair_enough_have_7b4c6c",
+   "text": "[dry] That one is fair enough and I have no complaint about it. The road ends because there is a wall in the road. If somebody had put that picture in front of me at school I would have had no trouble with any of this.",
+   "view": 3
+  },
+  {
+   "t": 1676224,
+   "role": "SCIENCE",
+   "clip": "m4_sci_everybody_satisfied_by_one_eb2fc7",
+   "text": "[warm] Everybody is satisfied by that one and they should be. Now let me spoil your afternoon. Helm, swap the roof for the second curve — same anchor, same ribbons, and this roof is smooth and finite from one end of the corridor to the other. Watch only the ribbons. Do they hold this time, or tear?",
+   "view": 0
+  },
+  {
+   "t": 1704292,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_ribbons_are_out_they_45eeb2",
+   "text": "[reflective] Ribbons are out. And they are shredding, Doc. Same distance as before, one unit out from the anchor, and it is happening in both directions at once. I am looking straight at that stretch of corridor and there is nothing there. Level roof, clear air.",
+   "view": 1
+  },
+  {
+   "t": 1721441,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_what_tore_them_1e57d6",
+   "text": "[dry] Then what tore them? I want to be plain. There is no wall, no hole, nothing on the instruments, and you have been strict with us all series that we do not get told things we cannot see. So what is on that piece of road?",
+   "view": 0
+  },
+  {
+   "t": 1735246,
+   "role": "SCIENCE",
+   "clip": "m4_sci_nothing_am_saying_before_9fdd0b",
+   "text": "[grave] Nothing is. And I am saying that before we go anywhere, because it would be easy to dress this corridor up and pretend otherwise. There is no explanation on this road. Nothing you can see from this rail accounts for it, and if I stopped talking now you would be right to feel cheated.",
+   "view": 3
+  },
+  {
+   "t": 1754113,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_coming_off_rail_lifting_5463a4",
+   "text": "[hushed] Coming off the rail — lifting sideways, out of the corridor entirely, into the direction that arrow turned into when the Chief tapped it back in the first tour. And there is something out here. Two of them. Bright, one either side.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 1769265,
+   "role": "SCIENCE",
+   "clip": "m4_sci_two_poles_curve_does_1693f4",
+   "text": "[warm] Two poles, and the curve does blow up at them; they were simply never on the road. Now watch the sphere of light around the anchor. Its skin touches them exactly, and its radius is the distance at which the ribbons tore. The edge of the world was in a direction nobody was looking.",
+   "view": 0
+  },
+  {
+   "t": 1787900,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_hardest_run_58fb1d",
+   "text": "[grave] One sentence, and it is the hardest of the run. Every one of these ribbons has a distance beyond which it means nothing at all, and what fixes that distance can sit somewhere you were never looking. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 1830314,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_look_up_came_84cb42",
+   "text": "[gentle] Before you look up — we came off the rail and found two bright poles in a direction nobody had been looking. What did the sphere around the anchor have to do with the place the ribbons tore? Take a moment and put that together for yourself.",
+   "view": 0
+  },
+  {
+   "t": 1849031,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_back_down_on_rail_e8d4fa",
+   "text": "[warm] Back down on the rail and the roof has changed on us again. It is a wave now, running the whole length of this leg — up over, down under, up over again, steady as a pulse. I recognise this one from a long way back.",
+   "view": 1
+  },
+  {
+   "t": 1864323,
+   "role": "SCIENCE",
+   "clip": "m4_sci_should_wheel_from_first_003c6a",
+   "text": "[gentle] You should. That is the wheel from the first tour, unrolled: the height of a bead going round a circle, laid out along an axis of angle. Today we build it out of powers alone and see how far we get before it throws us off.",
+   "view": 0
+  },
+  {
+   "t": 1880543,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_now_do_not_believe_89452c",
+   "text": "[dry] Now that I do not believe. A wave comes back. It goes up, it comes down, and it does it again for ever. Powers go one way and keep going — that is the whole character of a power. You cannot build a thing that returns out of things that never do.",
+   "view": 3
+  },
+  {
+   "t": 1896020,
+   "role": "SCIENCE",
+   "clip": "m4_sci_are_right_with_any_2c4df3",
+   "text": "[warm] You are right, and with any finite number of them you never will. What you get is agreement for a while and then a parting of the ways. Order one is out: a straight line climbing out of the anchor, holding for about a quarter of the first hump and then simply climbing.",
+   "view": 0
+  },
+  {
+   "t": 1914934,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_order_three_has_whole_3327ee",
+   "text": "[reflective] Order three. It has the whole first hump, top and all, and then it dives away through the floor. Order five now, and that one is holding right through the trough as well. Every order you are calling for is an odd one, Doc.",
+   "view": 1
+  },
+  {
+   "t": 1930318,
+   "role": "SCIENCE",
+   "clip": "m4_sci_deliberately_turn_wave_upside_572ef5",
+   "text": "[gentle] Deliberately. Turn this wave upside down and reflect it about the anchor and it lies exactly on itself. Only odd powers do that. An even one would break the symmetry the moment it opened its mouth, and you would see it fail in the first hump.",
+   "view": 3
+  },
+  {
+   "t": 1947746,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_then_let_me_get_5a4174",
+   "text": "[dry] Then let me get in front of it. Order three held the first hump and nothing more. Order nine is next up, and I want a number out of you before it is drawn — one hump, two humps or three, before it flings itself off through the roof. Say it, then watch.",
+   "view": 0
+  },
+  {
+   "t": 1969823,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_order_nine_holding_first_ea4c63",
+   "text": "[reflective] Order nine. Holding — first hump, trough, second hump, all of it — and then it has gone. Straight up through the roof and out of the corridor, and it went in about half a ring. That is a violent way to leave a party.",
+   "view": 1,
+   "sfx": "klaxon"
+  },
+  {
+   "t": 1985440,
+   "role": "SCIENCE",
+   "clip": "m4_sci_leaving_as_honest_as_b40e91",
+   "text": "[warm] The leaving is as honest as the fit. But here there is no wall of light and no poles off to the side, at any distance, in any direction. Take enough orders and the agreement reaches as far down this corridor as you care to fly. Some series own the whole road.",
+   "view": 0
+  },
+  {
+   "t": 2004818,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_for_wave_5ed4a1",
+   "text": "[grave] One sentence for the wave. A shape that comes back for ever can be built out of powers that never come back, if you take enough of them, and this one has no edge anywhere on the road. If you can say that back in your own words, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 2046628,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_before_whatever_coming_down_b162bc",
+   "text": "[dry] Before whatever is coming down this leg — the wave we just built out of powers. Doc kept calling for odd orders and never once for an even one. What was it about that roof that ruled the even ones out? Answer that before he opens his mouth.",
+   "view": 3
+  },
+  {
+   "t": 2063905,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_long_object_ahead_running_9452b3",
+   "text": "[warm] Long object ahead, running the entire length of the leg. It is a thread and it is turning as it goes — a spiral, wound evenly all the way down the corridor. And there are two light planes up, one on the deck and one on the port wall.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 2079893,
+   "role": "SCIENCE",
+   "clip": "m4_sci_take_arrow_from_first_4108ef",
+   "text": "[gentle] Take the arrow from the first tour, the one that snapped round a quarter turn every time the Chief tapped it. Stop tapping it. Turn it steadily instead, and carry it forward one ring for every beat of the turn. The path its tip draws is that thread.",
+   "view": 0
+  },
+  {
+   "t": 2097971,
+   "role": "SCIENCE",
+   "clip": "m4_sci_two_shadows_on_those_24394c",
+   "text": "[warm] Two shadows on those planes now, both of them waves, the wall one running a quarter turn behind the deck one. The deck shadow is the cosine. The wall shadow is the sine. Not similar to them — those are the two shadows of this one thread, and you have watched them cast.",
+   "view": 3
+  },
+  {
+   "t": 2117489,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_now_have_ask_because_c7cd0f",
+   "text": "[dry] Now I have to ask, because you have been strict with us about this since we boarded. Is that thread the thing itself, or a picture you have built to help me along? You told us to make you say which, so I am making you say which.",
+   "view": 0
+  },
+  {
+   "t": 2131434,
+   "role": "SCIENCE",
+   "clip": "m4_sci_fair_properly_asked_not_35a1b0",
+   "text": "[grave] Fair, and properly asked. This is not a metaphor and it is not a model. It is a projection. The thread is what the object is, and the two waves are literally its shadows on two flat surfaces. If I were dressing something up I would say so — I have said so twice today.",
+   "view": 0
+  },
+  {
+   "t": 2150998,
+   "role": "SCIENCE",
+   "clip": "m4_sci_helm_about_swing_forward_eae194",
+   "text": "[gentle] Helm is about to swing you to the forward view — looking straight down the axis of that thread instead of across it. Before he does, settle one thing. What shape is a steadily wound spiral when you see it exactly end-on? Picture it, commit to it, then let your eyes adjust.",
+   "view": 0
+  },
+  {
+   "t": 2176883,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_forward_view_looking_straight_0af8a3",
+   "text": "[hushed] Forward view. Looking straight down the corridor axis, along the line of the thread rather than across it. Give your eyes a second to take it. The spiral has closed. From this end it is not a spiral at all. It is a circle, and it is not moving.",
+   "view": 0
+  },
+  {
+   "t": 2193800,
+   "role": "SCIENCE",
+   "clip": "m4_sci_wheel_same_wheel_stood_c80c3f",
+   "text": "[warm] It is the wheel — the same wheel we stood in front of in the first tour, unrolled along the corridor instead of along the wall. Growing steadily and turning steadily are one act seen from two sides, and the famous line of notation people write for this is only a label for the thread.",
+   "view": 0
+  },
+  {
+   "t": 2213457,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_wheel_shadow_quarter_turn_dc9c06",
+   "text": "[reflective] The wheel, the shadow, the quarter turn, the towers, and now a thread that is all of them at once. Nobody ever told me these were the same subject. They were separate chapters with separate exams and I sat every one of them on my own.",
+   "view": 3
+  },
+  {
+   "t": 2228795,
+   "role": "SCIENCE",
+   "clip": "m4_sci_one_sentence_for_thread_b0b6b0",
+   "text": "[gentle] One sentence for the thread, and it is the one this whole run has been walking toward. Growing steadily and turning steadily are the same act seen from two sides, and the two waves are only its shadows. If you can say that back, this stop is finished.",
+   "view": 0
+  },
+  {
+   "t": 2272044,
+   "role": "SCIENCE",
+   "clip": "m4_sci_before_walls_come_down_0f0733",
+   "text": "[gentle] Before the walls come down — the thread and its two shadows. Which shadow lay on the deck and which one on the port wall, and what single object were both of them cast by? Have that in your head, because you are about to see everything at once.",
+   "view": 3
+  },
+  {
+   "t": 2292061,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_all_stations_end_run_9f5f34",
+   "text": "[hushed] All stations, that is the end of the run. I am bringing the walls down on Doc's mark — hold on to something if you are the sort who likes to, though there is nothing out there to hit. Standing by on three seconds of fade.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 2306610,
+   "role": "SCIENCE",
+   "clip": "m4_sci_then_one_last_guess_6574f8",
+   "text": "[hushed] Then one last guess before he takes them off. Out there in the black you will see both towers at once, side by side, twenty-four rings of building on each. How far apart are their tops? A hand's breadth, a ship's length, or further than you can see? Fix a picture, and then look.",
+   "view": 3
+  },
+  {
+   "t": 2333331,
+   "role": "SCIENCE",
+   "clip": "m4_sci_there_they_are_both_3ed8d7",
+   "text": "[hushed] There they are, both of them in one view at last. The port one topped out under its ceiling a long way back and has not moved since. The starboard one is still going up, and from out here you can see that it simply goes up, past anything I can point at.",
+   "view": 3
+  },
+  {
+   "t": 2350573,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_backed_wrong_one_those_e8a6e3",
+   "text": "[reflective] I backed the wrong one of those and I would back it again tomorrow if you had not put the brackets on it. That is the honest position. It looked like a tower that stops. Every single thing about it looked like a tower that stops.",
+   "view": 1
+  },
+  {
+   "t": 2363635,
+   "role": "SCIENCE",
+   "clip": "m4_sci_looks_like_one_everybody_30b0df",
+   "text": "[gentle] It looks like one to everybody, which is why the bracket is the thing worth carrying home. And there is the anchor with its six ribbons radiating out of one point, and there, hanging on its own in the dark, the sphere with two bright poles resting on its skin.",
+   "view": 3
+  },
+  {
+   "t": 2381109,
+   "role": "ENGINEERING",
+   "clip": "m4_eng_edge_can_sit_somewhere_1ddb87",
+   "text": "[dry] And the edge can sit somewhere you cannot see from the road you happen to be driving on. That is the part I did not have before today, and it is the part I would have argued with, loudly and at length, about four hours ago.",
+   "view": 1
+  },
+  {
+   "t": 2393707,
+   "role": "SCIENCE",
+   "clip": "m4_sci_nothing_handled_today_was_551325",
+   "text": "[grave] Nothing we handled today was an infinite object. Every one of them was a finite thing done again, with an honest rule for what it settles to and an honest measure of how far off we still are. Infinity stopped being a size and became a piece of bookkeeping.",
+   "view": 3
+  },
+  {
+   "t": 2412203,
+   "role": "NAVIGATION",
+   "clip": "m4_nav_twelve_beads_on_thread_8a77c9",
+   "text": "[hushed] Twelve beads on the thread. Wake is cold, drive is quiet, and Helm is logging the run complete. I have flown this corridor eleven times now, and the room with the lit floor still gets me every single time.",
+   "view": 3
+  },
+  {
+   "t": 2426426,
+   "role": "SCIENCE",
+   "clip": "m4_sci_so_sentence_for_whole_8a76a0",
+   "text": "[gentle] So the sentence for the whole run, and both halves carry weight. Infinitely many pieces can add to a definite answer, provided you stay inside the edge — and the edge can sit where the road does not show it. If you can say that back in your own words, this tour is finished. Thank you for flying.",
+   "view": 3
+  }
+ ],
+ "fillers": [
+  {
+   "role": "ENGINEERING",
+   "clip": "m4_eng_quiet_stretch_doc_will_19aa0d",
+   "text": "[dry] Quiet stretch. Doc, I will admit something in the gap. For most of my life the word infinite meant a shrug — a number too big to be worth writing down. It is turning out to be a much fussier and much more careful word than that."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m4_nav_rings_going_by_steady_eafccc",
+   "text": "[warm] Rings going by steady, though they are not evenly spaced today so do not trust your ear for our speed. If you want to look around, go ahead — turn your head as far as you like and the corridor will hold its shape whichever way you face."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m4_sci_something_hold_on_between_afec35",
+   "text": "[gentle] Something to hold on to between stops. Every one of these towers is finite at any moment you actually look at it. We never build an infinite thing. We build a finite thing again, and then we ask what it is heading towards."
+  },
+  {
+   "role": "ENGINEERING",
+   "clip": "m4_eng_have_worked_out_what_69b4a8",
+   "text": "[dry] I have worked out what unsettles me about this run. In every other trade, if a job never finishes, you have failed. Out here you can have a job that never finishes and a perfectly good answer at the end of it, and both are true at once."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m4_nav_long_transit_doc_does_9243e7",
+   "text": "[reflective] Long transit. Doc, does it ever bother you that half of what you show people out here is a thing they were told at school and did not believe? I have watched a lot of faces go through that, and it is not always a comfortable ride."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m4_sci_less_than_used_they_a47693",
+   "text": "[warm] Less than it used to. They believed it well enough — they simply could not see it, and a thing you cannot see is a thing you are holding on trust. What we do out here is hand it back where they can put a hand through it."
+  }
+ ],
+ "segments": [
+  {
+   "label": "1.  THE STAIRCASE",
+   "startMs": 0,
+   "node": 0
+  },
+  {
+   "label": "2.  THE TOWER",
+   "startMs": 193241,
+   "node": 1
+  },
+  {
+   "label": "3.  THE HALVING ROOM",
+   "startMs": 397513,
+   "node": 2
+  },
+  {
+   "label": "4.  THE SLOW CLIMB",
+   "startMs": 612549,
+   "node": 3
+  },
+  {
+   "label": "5.  THE TEST",
+   "startMs": 794007,
+   "node": 4
+  },
+  {
+   "label": "6.  THE ALTERNATING WALK",
+   "startMs": 1003748,
+   "node": 5
+  },
+  {
+   "label": "7.  THE MATCHING CURVES",
+   "startMs": 1219504,
+   "node": 6
+  },
+  {
+   "label": "8.  THE PRICE OF AGREEMENT",
+   "startMs": 1423858,
+   "node": 7
+  },
+  {
+   "label": "9.  THE EDGE OF THE WORLD",
+   "startMs": 1613894,
+   "node": 8
+  },
+  {
+   "label": "10.  THE WAVE FROM POWERS",
+   "startMs": 1828814,
+   "node": 9
+  },
+  {
+   "label": "11.  THE MEETING",
+   "startMs": 2045128,
+   "node": 10
+  },
+  {
+   "label": "12.  THE VIEW FROM OUTSIDE",
+   "startMs": 2270544,
+   "node": 11
+  }
+ ]
+}

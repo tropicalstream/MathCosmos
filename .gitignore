@@ -1,0 +1,30 @@
+# --- build output ---------------------------------------------------------
+.gradle/
+build/
+app/build/
+.kotlin/
+captures/
+.idea/
+*.iml
+local.properties
+
+# --- credentials ----------------------------------------------------------
+# app/tools/fish_audio.config holds a live Fish Audio API key and three reference voice ids.
+# It is never committed. Copy it in by hand (see app/tools/README.txt) — the render also takes a
+# key at run time with --key-from, which is the safer path and the one the docs use.
+fish_audio.config
+fish.config
+*.jks
+*.keystore
+*.pem
+*.p12
+*.env
+
+# --- build artefacts too large for git ------------------------------------
+# The debug APK bundles 879 voice clips and comes out around 115 MB, which is past GitHub's 100 MB
+# hard limit for a single file. Build it with ./gradlew :app:assembleDebug.
+*.apk
+*.apk.idsig
+
+# --- OS -------------------------------------------------------------------
+.DS_Store

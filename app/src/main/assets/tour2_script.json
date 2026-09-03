@@ -1,0 +1,1296 @@
+{
+ "title": "MathCosmos II: The Approach",
+ "durationMs": 2553867,
+ "keyframes": [
+  [
+   0,
+   0
+  ],
+  [
+   167328,
+   0
+  ],
+  [
+   191328,
+   1
+  ],
+  [
+   191328,
+   1
+  ],
+  [
+   374563,
+   1
+  ],
+  [
+   398563,
+   2
+  ],
+  [
+   398563,
+   2
+  ],
+  [
+   565228,
+   2
+  ],
+  [
+   589228,
+   3
+  ],
+  [
+   589228,
+   3
+  ],
+  [
+   751877,
+   3
+  ],
+  [
+   775877,
+   4
+  ],
+  [
+   775877,
+   4
+  ],
+  [
+   965868,
+   4
+  ],
+  [
+   989868,
+   5
+  ],
+  [
+   989868,
+   5
+  ],
+  [
+   1168039,
+   5
+  ],
+  [
+   1192039,
+   6
+  ],
+  [
+   1192039,
+   6
+  ],
+  [
+   1354919,
+   6
+  ],
+  [
+   1378919,
+   7
+  ],
+  [
+   1378919,
+   7
+  ],
+  [
+   1545167,
+   7
+  ],
+  [
+   1569167,
+   8
+  ],
+  [
+   1569167,
+   8
+  ],
+  [
+   1739968,
+   8
+  ],
+  [
+   1763968,
+   9
+  ],
+  [
+   1763968,
+   9
+  ],
+  [
+   1949874,
+   9
+  ],
+  [
+   1973874,
+   10
+  ],
+  [
+   1973874,
+   10
+  ],
+  [
+   2158385,
+   10
+  ],
+  [
+   2182385,
+   11
+  ],
+  [
+   2182385,
+   11
+  ],
+  [
+   2376209,
+   11
+  ],
+  [
+   2400209,
+   12
+  ],
+  [
+   2400209,
+   12
+  ],
+  [
+   2547867,
+   12
+  ]
+ ],
+ "cues": [
+  {
+   "t": 0,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_helm_all_stations_are_00c3f4",
+   "text": "[warm] Helm to all stations, we are under way and the corridor has changed on us. Indigo walls, rings tight and even, and a ribbon of light running along the roof as far as the lamp reaches. Doc, I take it that ribbon is the whole run.",
+   "view": 1,
+   "sfx": "drive_engage"
+  },
+  {
+   "t": 16731,
+   "role": "SCIENCE",
+   "clip": "m2_sci_being_written_just_ahead_d3a2e6",
+   "text": "[gentle] It is, and it is being written just ahead of us as we go. Keep your eye on the floor rail rather than the roof for a moment. Beads arrive along it at even spacing, each one climbs to its own height, and stops. The ribbon is the record.",
+   "view": 0
+  },
+  {
+   "t": 34484,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_so_machine_feed_number_d0a560",
+   "text": "[dry] So it is a machine. Feed a number in at the bottom, get a height out at the top. I have run pumps that do that and never called it mathematics. What I want to know is what stops it handing me two different answers on a bad day.",
+   "view": 3
+  },
+  {
+   "t": 48197,
+   "role": "SCIENCE",
+   "clip": "m2_sci_then_watch_rather_than_c2b690",
+   "text": "[warm] Then watch, rather than take my word for it. Helm is putting an arm out to catch one of those beads halfway up, hold it, and let it go. Before he does, settle it in your own head: where does that bead end up when he lets go, and why.",
+   "view": 0
+  },
+  {
+   "t": 72061,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_caught_one_at_ring_3bd70d",
+   "text": "[reflective] Caught one at ring four, held it a metre short of where it wanted to be, and released. It has gone straight back to that same height. I could do that all afternoon and it would not budge off the ribbon by a hair.",
+   "view": 1
+  },
+  {
+   "t": 85263,
+   "role": "SCIENCE",
+   "clip": "m2_sci_half_now_one_goes_0ac51d",
+   "text": "[gentle] That is half of it. Now one goes in that wants two heights at once, and I am not going to tell you what the gate does with it. Watch the arch, not the bead. Helm, do not talk over it. You tell me afterwards what you saw happen.",
+   "view": 0
+  },
+  {
+   "t": 106105,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_split_on_way_up_4ae027",
+   "text": "[reflective] It split on the way up. Two of it, flickering red, one heading for each height, and the arch has thrown the whole thing back out onto the floor. Nothing joined the ribbon. The gate would not have it at any price.",
+   "view": 1
+  },
+  {
+   "t": 120096,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_circle_not_one_54df08",
+   "text": "[dry] Then a circle is not one of these. Stand under a circle and go straight up and you hit it twice, top and bottom, and it cannot tell you which one you meant. And I have drawn a great many circles without anyone throwing them out.",
+   "view": 3
+  },
+  {
+   "t": 133530,
+   "role": "SCIENCE",
+   "clip": "m2_sci_are_right_correct_objection_289be5",
+   "text": "[warm] You are right, and it is the correct objection. A whole circle is not a function. The top half of it is. That is why you were made to write plus or minus in front of a square root: the machine hands you one, so somebody had to say which.",
+   "view": 0
+  },
+  {
+   "t": 150447,
+   "role": "SCIENCE",
+   "clip": "m2_sci_one_number_in_exactly_abf972",
+   "text": "[gentle] One number in, exactly one number out, and the gate is what enforces it. That is the whole of this stop and there is nothing hiding behind it. If you can say that back in your own words we are finished here, and I will not say it again.",
+   "view": 0
+  },
+  {
+   "t": 167328,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_coming_up_on_next_f2f7f7",
+   "text": "[warm] Coming up on the next stop and the passage is narrowing ahead. Genuinely narrowing, not a trick of the lamp. Doc asked me not to slow down for it. I am going to slow down for it anyway, because I fly this ship and he does not.",
+   "view": 1
+  },
+  {
+   "t": 191328,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_throat_arch_back_519f25",
+   "text": "[gentle] Before the throat. The arch back there threw one bead out and let every other one through. Do not let me tell you why. Say it to yourself first: what was wrong with the one it refused, and what would have made it acceptable?",
+   "view": 0
+  },
+  {
+   "t": 209812,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_throat_ahead_walls_are_daa68a",
+   "text": "[warm] Throat ahead. The walls are drawing in hard and two flat planes of light are closing on us from above and below, level with the ribbon. Clearance falling. I can hold this line, Doc, but I would like to know what we are threading.",
+   "view": 1,
+   "sfx": "chime"
+  },
+  {
+   "t": 224639,
+   "role": "SCIENCE",
+   "clip": "m2_sci_promise_there_height_ribbon_a0faa8",
+   "text": "[gentle] A promise. There is a height the ribbon is heading for at the point ahead. Nobody at school asks properly what heading for actually means, and the answer is a game between two people. Chief, you go first. Name a tolerance.",
+   "view": 0
+  },
+  {
+   "t": 241695,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_tolerance_fine_want_roof_05cd8b",
+   "text": "[dry] A tolerance. Fine. I want the roof height right to within a tenth. Not a promise about a tenth, not a tendency toward one. Inside a tenth, and stay there. That is what I would write on a job sheet, and you get no easier deal.",
+   "view": 3
+  },
+  {
+   "t": 255733,
+   "role": "SCIENCE",
+   "clip": "m2_sci_mathematics_gets_no_easier_73ce12",
+   "text": "[warm] Mathematics gets no easier deal. The planes have gone to a tenth either side. Now the walls answer, and two rings will slide in ahead of the target and behind it. Watch the rings, and decide before they stop what must be true between them.",
+   "view": 0
+  },
+  {
+   "t": 279225,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_rings_have_stopped_every_ea57bc",
+   "text": "[reflective] Rings have stopped. Every scrap of ribbon between them is inside the planes, and the tube I have to fly is exactly the gap between those two rings. Comfortable width, as it happens. I have flown docking approaches tighter.",
+   "view": 1
+  },
+  {
+   "t": 293959,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_let_me_tighten_7bc8c4",
+   "text": "[dry] Then let me tighten it and watch him work. A thousandth, Doc, and I will say what I expect before the walls move rather than after. You can say yours as well, and neither of us gets to change it once the rings start coming in. Go on.",
+   "view": 0
+  },
+  {
+   "t": 312643,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_rings_have_come_in_dd0638",
+   "text": "[reflective] Rings have come in a very long way this time and stopped again, and the ribbon between them is still inside the planes. My tube is a fraction of what it was. Chief, you called that and I did not, and I am the one flying it.",
+   "view": 1
+  },
+  {
+   "t": 327935,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_if_name_one_cannot_9eaf42",
+   "text": "[dry] And if I name one you cannot answer? Suppose I ask for a millionth and there is no width you can hand back, however hard you squeeze those rings. What then, Doc? I have never been on a job where every tolerance could be met.",
+   "view": 0
+  },
+  {
+   "t": 340951,
+   "role": "SCIENCE",
+   "clip": "m2_sci_then_there_no_limit_c97817",
+   "text": "[grave] Then there is no limit there, we say so plainly, and we do not pretend otherwise. That is not a failure of the method, it is the method working. Naming the tolerance first is what makes the answer checkable by somebody who distrusts me.",
+   "view": 0
+  },
+  {
+   "t": 357775,
+   "role": "SCIENCE",
+   "clip": "m2_sci_name_how_close_answer_0b65c7",
+   "text": "[gentle] You name how close the answer has to be. The corridor names how close you have to stand. That exchange, and nothing more elaborate than that, is a limit. Say it back in your own words and the hardest stop on this run is behind you.",
+   "view": 3
+  },
+  {
+   "t": 374563,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_through_throat_tight_enough_2bf54a",
+   "text": "[hushed] Through the throat. Tight enough that I felt it in my shoulders, and I want the log to show that I did not touch the sides. Clearance opening out again, and the ribbon overhead carries on as though nothing had happened at all.",
+   "view": 1
+  },
+  {
+   "t": 398563,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_go_on_in_fa6630",
+   "text": "[gentle] Before we go on. In the throat you named a number and the corridor answered with another one. Take a moment on this rather than agreeing with me: which of those two was yours to pick, and which was the corridor's job to find?",
+   "view": 0
+  },
+  {
+   "t": 416862,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_something_missing_overhead_ribbon_1dcc43",
+   "text": "[warm] Something is missing overhead. The ribbon runs clean to about ring six and then there is a gap in it one bead wide, with a hollow ring drawn round the absence. A faint ghost bead sits in the gap and my arm goes straight through it.",
+   "view": 1
+  },
+  {
+   "t": 432432,
+   "role": "SCIENCE",
+   "clip": "m2_sci_put_your_arm_through_26a893",
+   "text": "[gentle] Put your arm through it again, because that is the lesson. The curve has no value there. Nothing is. And yet everything either side is heading for that height, from the left and from the right, and they agree. The ghost is the limit.",
+   "view": 0
+  },
+  {
+   "t": 448327,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_limit_talking_about_8a78d7",
+   "text": "[dry] Then the limit is talking about a place the curve does not go. That sounds like a serious problem, Doc, and I would rather it were treated as one than waved through. How do you have an answer at a point with nothing there to measure?",
+   "view": 3
+  },
+  {
+   "t": 460925,
+   "role": "SCIENCE",
+   "clip": "m2_sci_because_limit_never_asks_f9e13b",
+   "text": "[warm] Because the limit never asks what happens at the point. It only asks what the neighbours are doing. That is not a dodge, it is the design, and it is what lets us say something sensible about a place we cannot stand on at all.",
+   "view": 0
+  },
+  {
+   "t": 476727,
+   "role": "SCIENCE",
+   "clip": "m2_sci_helm_has_missing_bead_70fc5c",
+   "text": "[gentle] Helm has the missing bead in the jaws and is about to seat it in the gap. Keep your eye on the hollow ring rather than on the bead. Before it lands, decide what I will be able to do afterwards that I cannot do now, and say it to yourself.",
+   "view": 0
+  },
+  {
+   "t": 499430,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_bead_seated_hollow_ring_d68179",
+   "text": "[reflective] Bead seated and the hollow ring has gone out. The ribbon is continuous through ring six and I can run my arm the whole length without lifting off once. Which I take it is the actual definition, Doc, and not a figure of speech.",
+   "view": 1,
+   "sfx": "spark"
+  },
+  {
+   "t": 514118,
+   "role": "SCIENCE",
+   "clip": "m2_sci_there_second_break_further_360c25",
+   "text": "[gentle] It is. There is a second break further down the leg and I am going to say nothing at all about that one. Helm, both arms out on it, and take your time. You tell me what it does and whether it mends the way the first one did.",
+   "view": 3
+  },
+  {
+   "t": 533381,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_does_not_ribbon_stops_2087c9",
+   "text": "[grave] It does not. The ribbon stops at ring eleven and starts again a unit higher, sheer cliff across the wall. Both arms out, and they are not on the same road. They reach past each other in different planes. I cannot bridge it, Doc.",
+   "view": 1
+  },
+  {
+   "t": 549462,
+   "role": "SCIENCE",
+   "clip": "m2_sci_continuous_means_one_thing_990148",
+   "text": "[warm] Continuous means one thing, and it is the thing your hands just told you: I can fly the whole length without lifting off. If you can say that back in your own words this stop is finished, and the rest of the run is built on top of it.",
+   "view": 0
+  },
+  {
+   "t": 565228,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_missing_brick_broken_road_5846fe",
+   "text": "[dry] A missing brick and a broken road. That I can use. I have signed off on the first plenty of times and would never sign off on the second, so it seems I have been doing continuity by instinct on a scaffold for thirty years.",
+   "view": 1
+  },
+  {
+   "t": 589228,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_before_arms_go_out_9d21e1",
+   "text": "[dry] Before the arms go out. One of those two breaks mended and one of them did not, and I could feel the difference through the arm mounts. Do not wait for Doc on this one. What was the test, exactly, and what did the second one fail?",
+   "view": 3
+  },
+  {
+   "t": 605716,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_arms_out_clamping_left_6c0d0c",
+   "text": "[warm] Arms out and clamping. Left jaw on the ribbon here, right jaw on the ribbon one full ring further along, and a bright strut drawn between the two contact points. Below it a shadow triangle, one leg on the rail, one straight up.",
+   "view": 1
+  },
+  {
+   "t": 621843,
+   "role": "SCIENCE",
+   "clip": "m2_sci_strut_only_honest_thing_6fdabe",
+   "text": "[gentle] That strut is the only honest thing two touches can give you. The upright leg is how much the roof climbed. The flat leg is how far along we came to get it. Divide the climb by the run and the display has your number.",
+   "view": 0
+  },
+  {
+   "t": 637506,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_rise_over_run_much_48bba2",
+   "text": "[dry] Rise over run. That much I do remember, and I have used it on every staircase and every drainage fall I ever set out. So the mathematics of the roof is a builder's slope. I am waiting for the part where it turns out harder.",
+   "view": 3
+  },
+  {
+   "t": 651451,
+   "role": "SCIENCE",
+   "clip": "m2_sci_not_harder_not_quite_a56395",
+   "text": "[warm] It is not harder. It is not quite enough, which is a different complaint. That number is an average across the whole gap between your jaws, and it says nothing at all about any single point inside that gap. Not one.",
+   "view": 0
+  },
+  {
+   "t": 666650,
+   "role": "SCIENCE",
+   "clip": "m2_sci_fly_on_now_with_4835c1",
+   "text": "[gentle] We fly on now with both jaws still clamped a ring apart. Watch the number on the display rather than the strut. Before it moves, commit to one of two things: it holds steady the whole way along, or it does not. Pick one, then watch.",
+   "view": 3
+  },
+  {
+   "t": 690932,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_does_not_hold_anything_cf08be",
+   "text": "[reflective] It does not hold anything. The strut is tilting as we go, steep here, flatter along this stretch, steep again on the rise, and the number is moving the whole time. It has not sat still for two rings together since we started.",
+   "view": 1
+  },
+  {
+   "t": 706549,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_which_those_was_7d9648",
+   "text": "[dry] Then which of those was I actually doing? Drive a stretch of road in an hour at forty miles an hour average and I still want to know what the needle read at the top of the hill. The average did not get me a ticket. The needle did.",
+   "view": 0
+  },
+  {
+   "t": 720029,
+   "role": "SCIENCE",
+   "clip": "m2_sci_right_question_rest_run_bbb4d7",
+   "text": "[gentle] That is the right question, and the rest of this run is built to answer it. You want the reading at a point and all I have handed you is a reading taken across a gap. There is one thing left to try, and you know what it is.",
+   "view": 3
+  },
+  {
+   "t": 734810,
+   "role": "SCIENCE",
+   "clip": "m2_sci_two_touches_give_average_bea43d",
+   "text": "[warm] Two touches give you the average climb across the gap between them, and nothing whatever about any single point inside it. That is the one sentence from this stop. Say it in your own words and we can go and do something about it.",
+   "view": 0
+  },
+  {
+   "t": 751877,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_close_jaws_bring_two_a8e01f",
+   "text": "[dry] Close the jaws. Bring the two touches together until the average and the needle cannot be told apart. And I will say now, before anybody does it, that I do not like where that ends, because eventually the gap is nothing at all.",
+   "view": 1
+  },
+  {
+   "t": 775877,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_jaws_move_chief_92288c",
+   "text": "[gentle] Before the jaws move. The Chief asked for the reading at a point and I handed him a reading across a gap. He named the only move left himself, on the way here. Say it back before he does, and then say why it makes him uneasy.",
+   "view": 0
+  },
+  {
+   "t": 795104,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_jaws_at_half_span_01ea70",
+   "text": "[warm] Jaws at half the span they were. The ship is half the length she was, the world has grown to match, and the picture out of the window looks identical. I want that said aloud, because nothing you can see tells you that we just halved.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 810535,
+   "role": "SCIENCE",
+   "clip": "m2_sci_nothing_will_tell_at_d3f19d",
+   "text": "[gentle] Nothing will tell you at any stage, and that is deliberate. Keep your eye on the strut and nothing else. It has turned a little. Halve again and it turns less. Every chord we leave behind stays as a ghost, so the fan is visible.",
+   "view": 0
+  },
+  {
+   "t": 827823,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_doc_rung_on_display_056344",
+   "text": "[grave] Doc, the rung on the display is moving. The cut ladder. It read one whole unit for the entire last run, thirty-three minutes of it, and it has not left one since I came aboard. It is falling with the jaw and it is not coming back.",
+   "view": 1
+  },
+  {
+   "t": 843207,
+   "role": "SCIENCE",
+   "clip": "m2_sci_let_fall_helm_keep_f8f255",
+   "text": "[warm] Let it fall, Helm, and keep half an eye on it all afternoon, because that number is the shape of this tour. It reads how big a bite we are willing to take. Algebra never cut anything, so it sat at one. Now it goes down.",
+   "view": 3
+  },
+  {
+   "t": 859660,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_make_my_objection_ae9fa5",
+   "text": "[dry] Then I make my objection now, before it gets away. You are shrinking the run toward nothing, and the run is the thing you divide by. Divide by nothing and you have not got a small answer, you have no answer at all. Not a quibble.",
+   "view": 0
+  },
+  {
+   "t": 876648,
+   "role": "SCIENCE",
+   "clip": "m2_sci_not_quibble_objection_held_973a69",
+   "text": "[grave] It is not a quibble, it is the objection, and it held the subject up for two hundred years. You are right, and I concede it. We never divide by nothing. Look at the jaws rather than at me. Nobody has closed them. The gap is never zero.",
+   "view": 0
+  },
+  {
+   "t": 894819,
+   "role": "SCIENCE",
+   "clip": "m2_sci_what_ask_game_from_84d20e",
+   "text": "[gentle] What we ask is the game from the throat back there, played on the tilt instead of the height. Two more halvings and the fan settles. Before it does, say what the last strut will be touching, and at how many places. Nobody talk over it.",
+   "view": 3
+  },
+  {
+   "t": 916593,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_fan_has_stopped_moving_24d38b",
+   "text": "[reflective] Fan has stopped moving. All the ghosts are lying on top of one another and there is one strut left, touching the ribbon at a single point, drawn in the same colour as it. It is not cutting across the roof. It lies along it.",
+   "view": 1
+  },
+  {
+   "t": 931606,
+   "role": "SCIENCE",
+   "clip": "m2_sci_tangent_number_reads_derivative_a54951",
+   "text": "[warm] That is the tangent, and the number it reads is the derivative: the curve's own steepness at one point, rather than an average across a gap. You watched it be cornered instead of being handed it, and his objection is why it had to be.",
+   "view": 0
+  },
+  {
+   "t": 948151,
+   "role": "SCIENCE",
+   "clip": "m2_sci_shrink_run_until_chord_557187",
+   "text": "[gentle] Shrink the run until the chord stops turning, and where it stops is the curve's own direction at that point. That is the sentence. If you can say it back in your own words, the flagship of this run is behind you and the rest follows.",
+   "view": 0
+  },
+  {
+   "t": 965868,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_nobody_ever_mentioned_awkward_6349e2",
+   "text": "[reflective] Nobody ever mentioned that the awkward question was the historically correct one. Two hundred years, you said. I would have felt considerably better about myself at sixteen knowing the people who invented it were uneasy too.",
+   "view": 1
+  },
+  {
+   "t": 989868,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_inflate_fan_chords_24a89f",
+   "text": "[gentle] Before we inflate. The fan of chords settled onto one strut and I gave that strut two names. Do not reach for the names. Reach for the picture instead: what was that last strut doing that none of the ghosts behind it were doing?",
+   "view": 0
+  },
+  {
+   "t": 1009467,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_standing_by_inflate_on_d691b8",
+   "text": "[warm] Standing by to inflate on your mark, Doc. Eight times, and then eight times again about the ship. The dust will thin, the rings will spread, and I will have almost nothing left in view except the ribbon overhead. Ready when you are.",
+   "view": 1
+  },
+  {
+   "t": 1024712,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_hold_him_there_second_ba6d29",
+   "text": "[dry] Hold him there a second. I want a commitment out of everybody first, mine included. When we come in that close, does the bend in that roof actually go away, or do we simply see less of it? Those are not the same claim. Pick one.",
+   "view": 3
+  },
+  {
+   "t": 1044350,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_inflated_twice_dust_has_ca8bad",
+   "text": "[warm] Inflated twice. The dust has thinned to nothing, the rings have spread until I have only two of them in view, and the ribbon overhead has gone flat. That was a bend a moment ago and now I would call it a roof and think no more of it.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 1059270,
+   "role": "SCIENCE",
+   "clip": "m2_sci_where_people_go_wrong_b3144a",
+   "text": "[gentle] And this is where people go wrong, so I will be blunt about it. The curve has not become straight. Nothing was done to it at all. We came closer, so the piece of it we can see is shorter, and a short piece of a smooth bend looks straight.",
+   "view": 0
+  },
+  {
+   "t": 1075769,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_line_or_not_3c8100",
+   "text": "[dry] Then is it a line or is it not? You have spent twenty minutes telling me to accept nothing I cannot see measured, and what I can see is a flat roof with a strut lying on it, and the two of them agree to my eye all the way across.",
+   "view": 3
+  },
+  {
+   "t": 1089621,
+   "role": "SCIENCE",
+   "clip": "m2_sci_not_line_at_range_432574",
+   "text": "[warm] It is not a line, and at this range it does not matter to your eye. That is not a fudge, it is the most useful fact in the subject. Over a short enough stretch you may treat a smooth curve as its tangent, and the error shrinks faster still.",
+   "view": 0
+  },
+  {
+   "t": 1106677,
+   "role": "SCIENCE",
+   "clip": "m2_sci_every_machine_ever_computed_17c955",
+   "text": "[gentle] Every machine that ever computed anything is standing on this stop. It cannot handle your curve. It handles a straight line perfectly, so it takes a step short enough that the difference does not show, then another, on flat feet.",
+   "view": 3
+  },
+  {
+   "t": 1122804,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_if_roof_had_kink_861a67",
+   "text": "[dry] And if the roof had a kink in it? Not a bend, a proper sharp corner, the sort you get where two plates meet badly. Do I get a flat roof out of that as well if I come close enough, or does the arrangement quietly stop working?",
+   "view": 0
+  },
+  {
+   "t": 1135959,
+   "role": "SCIENCE",
+   "clip": "m2_sci_stops_working_have_walked_337cfb",
+   "text": "[grave] It stops working, and you have walked into the boundary of the word smooth. A corner stays a corner however far in you go. It never flattens, there is no single direction there, and there is nothing for a tangent to lie along.",
+   "view": 0
+  },
+  {
+   "t": 1151251,
+   "role": "SCIENCE",
+   "clip": "m2_sci_over_short_enough_stretch_19f0eb",
+   "text": "[warm] Over a short enough stretch a smooth curve and its tangent are the same thing to anybody measuring. That is all this stop is. Say it back in your own words, and notice that nobody told you the curve changed, because it did not.",
+   "view": 0
+  },
+  {
+   "t": 1168039,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_quiet_up_here_nothing_57affb",
+   "text": "[reflective] It is quiet up here. Nothing to steer round, nothing changing, and the ribbon and the strut have been one object for eight rings. If I did not have the ladder reading in front of me I would swear we had stopped and shut down.",
+   "view": 1
+  },
+  {
+   "t": 1192039,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_floor_opens_were_fdd7c6",
+   "text": "[gentle] Before the floor opens. You were told a corner never flattens however close you get to it. Turn that round before I go on, and answer it for yourself: what is it that a smooth stretch of roof lets us lay along it that a corner will not?",
+   "view": 0
+  },
+  {
+   "t": 1211824,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_second_ribbon_coming_up_8a847e",
+   "text": "[warm] A second ribbon is coming up out of the floor. It is being drawn as we fly, right under the first one, and there is a needle on the roof at every ring with a bead dropping off it down to the deck. We are between two curves now.",
+   "view": 1
+  },
+  {
+   "t": 1226001,
+   "role": "SCIENCE",
+   "clip": "m2_sci_needle_on_roof_tangent_10c323",
+   "text": "[gentle] The needle on the roof is the tangent we cornered, set to the steepness at that ring. The bead carries that steepness down and lays it on the floor as a height. Do that at every ring and the steepness becomes a curve of its own.",
+   "view": 0
+  },
+  {
+   "t": 1241989,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_two_curves_one_them_0c32ed",
+   "text": "[dry] Two curves, and one of them is about the other. I can feel that getting away from me, so let me say plainly which is which while I still can. Roof is how high. Floor is how steep. If I hold on to nothing else today I will hold that.",
+   "view": 3
+  },
+  {
+   "t": 1256027,
+   "role": "SCIENCE",
+   "clip": "m2_sci_hold_on_exactly_have_6fbd65",
+   "text": "[warm] Hold on to exactly that and you have the stop. The floor is not a second function lying about nearby, minding its own business. It is a reading taken off the roof, ring by ring, and it exists only because the roof does.",
+   "view": 0
+  },
+  {
+   "t": 1272340,
+   "role": "SCIENCE",
+   "clip": "m2_sci_roof_comes_over_top_6330f0",
+   "text": "[gentle] The roof comes over the top of a rise just ahead. Keep your eye on the floor ribbon and the rail, and let the roof look after itself. Before we get there, decide what that ribbon does at the exact moment the roof stops climbing.",
+   "view": 3
+  },
+  {
+   "t": 1293603,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_ribbon_ran_straight_into_81a9df",
+   "text": "[reflective] Ribbon ran straight into the rail and crossed it, right as we came over the top. Roof is going downhill now and the ribbon has stayed below the rail the whole way down. It comes back up and crosses again at the bottom of the dip.",
+   "view": 1
+  },
+  {
+   "t": 1308755,
+   "role": "SCIENCE",
+   "clip": "m2_sci_three_crossings_on_leg_5e8c64",
+   "text": "[gentle] Three crossings on this leg, and each one sits under a place where the roof stopped climbing or stopped falling. Below the rail means downhill. Above means uphill. That ribbon is a running report on the roof and it never lies.",
+   "view": 3
+  },
+  {
+   "t": 1325115,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_so_could_fly_corridor_1fbc26",
+   "text": "[dry] So I could fly this corridor with the roof lights off, read nothing but the deck, and still tell you where the hills were. That is a genuinely useful instrument, Doc, and I am surprised nobody fitted one to anything I ever served on.",
+   "view": 0
+  },
+  {
+   "t": 1338177,
+   "role": "SCIENCE",
+   "clip": "m2_sci_steepness_curve_itself_curve_7410ae",
+   "text": "[warm] The steepness of a curve is itself a curve, and you can read the one off the other without ever looking up. That is the stop and there is no more to it. Say it back in your own words, then watch the deck rather than the roof a while.",
+   "view": 0
+  },
+  {
+   "t": 1354919,
+   "role": "SCIENCE",
+   "clip": "m2_sci_fitted_everything_ever_served_2ef0af",
+   "text": "[warm] It is fitted to everything you ever served on. Every rate you have read off a dial, speed, flow, current, how fast a tank is filling, is one of these floor ribbons taken off some roof somewhere. You have read them for thirty years.",
+   "view": 1
+  },
+  {
+   "t": 1378919,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_gate_said_could_811536",
+   "text": "[gentle] Before the gate. You said you could fly this corridor with the roof lights off. Prove that to yourself now rather than to me: when the floor ribbon is sitting exactly on the rail, what is the roof over your head doing at that ring?",
+   "view": 0
+  },
+  {
+   "t": 1397078,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_through_gate_roof_does_c7dbac",
+   "text": "[reflective] Through the gate, and the roof does not feel unchanged. It is coming at me twice as fast and rising twice as hard, and my hands say the hill got steeper. Two speedometer bars have lit on the bow and they do not agree.",
+   "view": 1
+  },
+  {
+   "t": 1411255,
+   "role": "SCIENCE",
+   "clip": "m2_sci_one_thing_has_changed_d0a2b8",
+   "text": "[gentle] One thing has changed and one only, and it is not the roof. The wall has been re-ruled. On this side we cover two rings of the inner ruling for every ring of the one we were counting. The curve above us has not been touched.",
+   "view": 0
+  },
+  {
+   "t": 1428172,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_then_hold_on_changed_273253",
+   "text": "[dry] Then hold on. You changed the road, not the hill. The hill is exactly where it was, you have altered how fast we are being run along it, and now you want me to call the result a steeper hill. That does not sound honest to me, Doc.",
+   "view": 3
+  },
+  {
+   "t": 1445531,
+   "role": "SCIENCE",
+   "clip": "m2_sci_are_right_will_concede_ba01c8",
+   "text": "[warm] You are right, and I will concede the wording rather than argue it. The hill is untouched. What changed is the rate at which you meet it, and that rate is a real thing with real consequences. But the roof owes you nothing.",
+   "view": 0
+  },
+  {
+   "t": 1461612,
+   "role": "SCIENCE",
+   "clip": "m2_sci_now_read_your_two_9a5130",
+   "text": "[gentle] Now read your two bars. The first says how many rings of the inner ruling you cover for one ring of the outer. The second says how much the roof rises for one ring of the inner. Neither of them alone is the climb you feel.",
+   "view": 3
+  },
+  {
+   "t": 1478343,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_third_bar_coming_up_33e69b",
+   "text": "[dry] A third bar is coming up between those two, and Doc says it will land exactly on the floor ribbon. So say which it is before it arrives: the two of them added together, or the two of them multiplied. I have picked and I am not saying.",
+   "view": 0
+  },
+  {
+   "t": 1498120,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_third_bar_up_two_3762b1",
+   "text": "[reflective] Third bar is up and it is the two of them multiplied. It is sitting at exactly the height of the floor ribbon. It did that before the gate and it does it after, and the floor ribbon itself doubled at the gate and stayed doubled.",
+   "view": 1
+  },
+  {
+   "t": 1512483,
+   "role": "SCIENCE",
+   "clip": "m2_sci_chain_rule_there_nothing_39c17b",
+   "text": "[warm] That is the chain rule and there is nothing else in it. Rates hand off. Move twice as fast through the input and everything downstream happens twice as fast, and the total is the two rates multiplied, not added, each scaling the other.",
+   "view": 0
+  },
+  {
+   "t": 1529075,
+   "role": "SCIENCE",
+   "clip": "m2_sci_two_rates_in_row_98c3db",
+   "text": "[gentle] Two rates in a row multiply, because the second one is working on whatever the first one hands it. That is the sentence, and it is shorter than the objection was. Say it back in your own words and the gate has done its whole job.",
+   "view": 0
+  },
+  {
+   "t": 1545167,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_wall_did_us_once_4c8c16",
+   "text": "[dry] The wall did this to us once before, on the last run, when it re-ruled itself so that multiplying turned into sliding. I did not care for it then either. But I grant you that both times the wall told the truth about a different quantity.",
+   "view": 1
+  },
+  {
+   "t": 1569167,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_park_at_gate_b07aa7",
+   "text": "[gentle] Before we park. At the gate you had two rates and one answer. Do not go looking for the rule, go looking for the reason: why did those two have to be multiplied together rather than added? Answer that, and then we will cut a plate.",
+   "view": 0
+  },
+  {
+   "t": 1589602,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_parked_at_corner_rectangle_5ade3d",
+   "text": "[warm] Parked at the corner of a rectangle plate, close in, near enough that the corner is a metre off the bow and you could reach for it. Both sides are growing slowly and two strips of colour are coming up along the top edge and the side.",
+   "view": 1
+  },
+  {
+   "t": 1604429,
+   "role": "SCIENCE",
+   "clip": "m2_sci_cut_one_these_on_ee2c02",
+   "text": "[gentle] We cut one of these on the last run to show what multiplying is. Same object, both sides moving now. Cyan along the top is what the plate gains because the upright side got longer. Amber down the side is what the flat side gives.",
+   "view": 0
+  },
+  {
+   "t": 1622182,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_there_red_thing_flickering_b53479",
+   "text": "[dry] And there is a red thing flickering at the far corner that nobody has mentioned. Small. That is where the two strips overlap, is it not, the corner where growth one way meets growth the other, and I would count it twice if careless.",
+   "view": 3
+  },
+  {
+   "t": 1635802,
+   "role": "SCIENCE",
+   "clip": "m2_sci_would_genuine_piece_plate_8c7077",
+   "text": "[warm] You would, and it is a genuine piece of the plate. Helm is going to halve the step, and then halve it again. Keep your eye on the red corner and not on the strips. Say now what it does relative to them: same share, bigger, or smaller.",
+   "view": 0
+  },
+  {
+   "t": 1659434,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_step_halved_two_strips_2318f0",
+   "text": "[reflective] Step halved. The two strips look much as they did, thinner, but the same share of what came in. The crumb is smaller. Halved again. Strips are holding their share exactly. The crumb has gone. I am looking straight at where it was.",
+   "view": 1,
+   "sfx": "grow"
+  },
+  {
+   "t": 1675887,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_now_do_not_like_2f8e53",
+   "text": "[dry] Now that I do not like. You have made a piece of the plate disappear by making the step small, and the last few stops were about how nothing round here disappears. Where did it go? Something has to account for it, Doc.",
+   "view": 0
+  },
+  {
+   "t": 1692039,
+   "role": "SCIENCE",
+   "clip": "m2_sci_did_not_disappear_lost_a22255",
+   "text": "[grave] It did not disappear. It lost a race. Halve the step and each strip halves with it, but the crumb has two small sides, so it goes down by a quarter. Then a sixteenth. It falls away faster than the thing we divide by, and it counts for nothing.",
+   "view": 3
+  },
+  {
+   "t": 1710071,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_got_wrong_in_examination_93a03e",
+   "text": "[reflective] I got that wrong in an examination. I multiplied the two of them together because it looked like the obvious thing to do, and nobody ever told me that the obvious thing is the corner, and the corner is the part that does not matter.",
+   "view": 1
+  },
+  {
+   "t": 1722483,
+   "role": "SCIENCE",
+   "clip": "m2_sci_product_two_changing_quantities_69a837",
+   "text": "[gentle] A product of two changing quantities grows by two strips, one for each side moving while the other holds still. That is the sentence for this stop. Say it back in your own words, and the crumb can stay where it is, which is nowhere.",
+   "view": 0
+  },
+  {
+   "t": 1739968,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_pulling_off_corner_red_048b88",
+   "text": "[reflective] Pulling off the corner. That red flicker is still on my display as a number and it is now too small to draw. I have watched a lot of things get smaller on this run, but that is the first one I have watched stop mattering.",
+   "view": 1
+  },
+  {
+   "t": 1763968,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_before_new_roof_goes_356962",
+   "text": "[dry] Before the new roof goes up. That red crumb at the corner of the plate. I got it wrong in an examination and I would rather you did not. So say it to yourself now, without Doc: what was it racing, and what did it lose the race to?",
+   "view": 3
+  },
+  {
+   "t": 1781570,
+   "role": "SCIENCE",
+   "clip": "m2_sci_new_roof_climbs_way_60d464",
+   "text": "[gentle] New roof, and it climbs the way the amber racer climbed on the last run, in proportion to how high it already is. At every ring I drop a rod from the roof down to the rail, and lay a needle along the tangent for the steepness.",
+   "view": 0
+  },
+  {
+   "t": 1796722,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_ring_one_rod_needle_ef585a",
+   "text": "[reflective] Ring one. Rod and needle the same length. Ring two, both longer, still the same as each other. Ring three. Four. Five. They have matched at every ring, and I have been measuring them rather than taking your word for it.",
+   "view": 1
+  },
+  {
+   "t": 1813453,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_height_steepness_are_two_630bb0",
+   "text": "[dry] Height and steepness are two different measurements. One is how far up the roof is, the other is how hard it tilts, and they are not even in the same units. I would like to watch that fail somewhere before I believe it holds everywhere.",
+   "view": 3
+  },
+  {
+   "t": 1827212,
+   "role": "SCIENCE",
+   "clip": "m2_sci_then_let_us_make_b816ba",
+   "text": "[warm] Then let us make it fail. Helm is swapping the roof for a curve that doubles every ring. Same drill exactly, rod and needle, every ring down the leg. Before he reads one of them out, commit: is the needle short of the rod, past it, or matched?",
+   "view": 0
+  },
+  {
+   "t": 1850844,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_needle_short_every_ring_c80b7e",
+   "text": "[reflective] Needle is short. Every ring, plainly shorter than the rod, and short by about the same proportion each time. That one climbs more slowly than its own height, and it does it consistently enough that I would put my name to it.",
+   "view": 1
+  },
+  {
+   "t": 1865810,
+   "role": "SCIENCE",
+   "clip": "m2_sci_now_one_trebles_every_00e251",
+   "text": "[gentle] Now the one that trebles every ring instead, and I am going to say nothing about this one at all. Same rod, same needle, the same eleven rings. You tell me what happens, and Helm can confirm it afterwards. Take the moment first.",
+   "view": 3
+  },
+  {
+   "t": 1885677,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_other_way_entirely_needle_f05f99",
+   "text": "[reflective] Other way entirely. Needle longer than the rod at every ring, and again by about the same proportion each time. That one climbs harder than its own height. Doubling undershoots, trebling overshoots, and neither of them wavers.",
+   "view": 1
+  },
+  {
+   "t": 1901201,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_so_one_undershoots_other_c3ef53",
+   "text": "[dry] So one undershoots and the other overshoots, at every ring, consistently. Which means somewhere between doubling and trebling there is a curve that gets it exactly right, and I imagine that is the one we came in with.",
+   "view": 0
+  },
+  {
+   "t": 1914589,
+   "role": "SCIENCE",
+   "clip": "m2_sci_notice_what_just_happened_a413b1",
+   "text": "[grave] It is, and notice what just happened, because it is how the good numbers get made. We did not choose that curve because it was elegant. We cornered it between one that grows too slowly and one too fast, and demanded equality.",
+   "view": 3
+  },
+  {
+   "t": 1931042,
+   "role": "SCIENCE",
+   "clip": "m2_sci_there_exactly_one_growth_2dd047",
+   "text": "[gentle] There is exactly one growth curve whose steepness equals its height at every point, and the base it is built on is the number we call e, a shade over two point seven. Say that back in your own words and the stop is done. Roof back, Helm.",
+   "view": 0
+  },
+  {
+   "t": 1949874,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_roof_restored_they_are_222b32",
+   "text": "[warm] Roof restored and they are matched again. Eleven rings, rod and needle, dead level every time. I will say that after the last few stops I trust an instrument I have read eleven times a good deal more than a well-turned sentence.",
+   "view": 1
+  },
+  {
+   "t": 1973874,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_summit_number_got_95f60d",
+   "text": "[gentle] Before the summit. A number got cornered back there and nobody chose it, which is the part worth keeping. Say it to yourself rather than to me: what were the two curves it was trapped between, and what squeezed it down to one?",
+   "view": 0
+  },
+  {
+   "t": 1992823,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_roof_rising_summit_ahead_735af8",
+   "text": "[warm] Roof is rising to a summit ahead and Doc has released a heavy bead on it. It is rolling uphill, slowing, still slowing. There is a needle standing on the roof up there and the floor ribbon is running along under us as it has all leg.",
+   "view": 1
+  },
+  {
+   "t": 2009879,
+   "role": "SCIENCE",
+   "clip": "m2_sci_watch_three_things_not_330a0a",
+   "text": "[gentle] Watch three things and not one of them is the bead. The needle on the roof, the floor ribbon, and the rail it runs beside. Before the bead comes to rest, decide what all three of those will be doing at the instant it stops. Nobody speak.",
+   "view": 3
+  },
+  {
+   "t": 2033603,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_bead_has_come_rest_e7fd11",
+   "text": "[reflective] Bead has come to rest right on the top and it is not moving at all. The needle up there has gone flat, dead horizontal. And the floor ribbon has crossed the rail underneath it, at that same ring. Three instruments, one place.",
+   "view": 1
+  },
+  {
+   "t": 2049498,
+   "role": "SCIENCE",
+   "clip": "m2_sci_three_instruments_one_event_7f4250",
+   "text": "[gentle] Three instruments, one event, and that is a flat spot. It is how every optimisation problem you have ever met is actually solved. Not by cleverness. By asking where the ground stops tilting and going to look at that place.",
+   "view": 0
+  },
+  {
+   "t": 2065811,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_will_take_without_argument_44d8ee",
+   "text": "[dry] That I will take without an argument. If you want the highest point, look for where it stops going up, because if it were still going up you would not be there yet. That is not mathematics, that is noticing you have run out of hill.",
+   "view": 3
+  },
+  {
+   "t": 2078502,
+   "role": "SCIENCE",
+   "clip": "m2_sci_there_second_summit_further_2e6b3e",
+   "text": "[warm] There is a second summit further down the leg. The bead comes to rest on that one too and you get the same three readings, so I am not going to talk you through it. You tell me whether the test has done its job this time or not.",
+   "view": 3
+  },
+  {
+   "t": 2097068,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_has_not_your_test_7cea0a",
+   "text": "[dry] It has not. Your test has told me a lie, because that second hill is plainly lower than the first and I can see both of them from here. Had I started my bead on that side I would have stopped there, called it best, and gone home pleased.",
+   "view": 0
+  },
+  {
+   "t": 2111106,
+   "role": "SCIENCE",
+   "clip": "m2_sci_would_are_right_most_9e4bd1",
+   "text": "[grave] You would, you are right, and it is the most expensive mistake in the subject. Flat means nothing is improving in your immediate neighbourhood. It does not mean there is nothing better anywhere. It knows nothing of the next ridge.",
+   "view": 3
+  },
+  {
+   "t": 2126212,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_third_one_coming_up_ebb3b0",
+   "text": "[reflective] Third one coming up and this is different again. The roof has gone flat but it has not come over the top. It is a shelf. Needle horizontal, ribbon down to nothing and straight back up without crossing, and the bead rolled on.",
+   "view": 1
+  },
+  {
+   "t": 2141504,
+   "role": "SCIENCE",
+   "clip": "m2_sci_flat_tells_ground_has_28f614",
+   "text": "[warm] Flat tells you the ground has stopped tilting at that spot, and it tells you nothing else at all. Three flat spots on this leg, three different meanings, one identical reading. Say that back in your own words and we can go hunting.",
+   "view": 0
+  },
+  {
+   "t": 2158385,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_three_them_instrument_read_a64015",
+   "text": "[reflective] Three of them and the instrument read the same at all three. I have condemned equipment for less than that. But I notice Doc did not condemn it. He looked at what the ribbon did either side, which is what I should have done.",
+   "view": 1
+  },
+  {
+   "t": 2182385,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_start_guessing_three_4e8371",
+   "text": "[gentle] Before we start guessing. Three flat spots, one reading. Pick the one you would refuse to stop at, and then say how you would have told it apart from the other two with nobody standing there helping you. Take the time on it.",
+   "view": 0
+  },
+  {
+   "t": 2201473,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_crossing_ahead_ribbon_comes_0ed72b",
+   "text": "[warm] Crossing ahead. The ribbon comes down through the rail somewhere out at the far end of the leg, and Doc wants to know exactly where, to more places than I care to count. We have a start bead well short of it, and we are going to guess.",
+   "view": 1
+  },
+  {
+   "t": 2216625,
+   "role": "SCIENCE",
+   "clip": "m2_sci_guessing_not_shameful_part_7eb64b",
+   "text": "[gentle] Guessing is not the shameful part. Guessing badly and staying there is. From the start bead draw the tangent, the strut that lies along the roof at that point, and run it down until it strikes the rail. That is where we guess next.",
+   "view": 0
+  },
+  {
+   "t": 2233263,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_because_tangent_best_straight_357272",
+   "text": "[dry] Because the tangent is the best straight line you have, and if the roof were straight it would land dead on the answer. It is not straight, so it lands somewhere near. What I want to know is whether near gets better or stays near.",
+   "view": 3
+  },
+  {
+   "t": 2246976,
+   "role": "SCIENCE",
+   "clip": "m2_sci_four_struts_four_jumps_601e06",
+   "text": "[warm] Four struts, four jumps, and the ladder in the corner of your eye reads the error. It starts at about a tenth. Name where you think it stands after the fourth jump, before any of them happen, out loud if you like. Then watch the staircase.",
+   "view": 3
+  },
+  {
+   "t": 2271793,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_first_jump_landed_error_70eff9",
+   "text": "[reflective] First jump landed and the error reads a tenth. Second strut down, one in a hundred. Third, one in ten thousand. Fourth strut, and the ladder has gone to one in a billion. Four jumps, Doc. I have never seen an instrument do that.",
+   "view": 1,
+   "sfx": "spark"
+  },
+  {
+   "t": 2288431,
+   "role": "SCIENCE",
+   "clip": "m2_sci_read_back_because_point_bdff36",
+   "text": "[warm] Read it back, because it is the point of the stop. The number of correct digits doubled at every single step. That is not a steady grind toward an answer, it is a collapse onto it, and it runs inside almost every machine that solves anything.",
+   "view": 0
+  },
+  {
+   "t": 2305998,
+   "role": "SCIENCE",
+   "clip": "m2_sci_now_honest_half_because_f65519",
+   "text": "[grave] Now the honest half, because a method with no failure case is being sold to you rather than explained. Helm, fresh bead up near that shelf we passed, and let it take its tangent. Do not aim it. You tell me where that strut ends up.",
+   "view": 3
+  },
+  {
+   "t": 2326608,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_nowhere_near_us_tangent_325443",
+   "text": "[grave] Nowhere near us. The tangent up there is nearly level, so it has gone off down the corridor almost flat and struck the rail somewhere past the end of the leg. I have lost it entirely. That guess is worse than the one we started with.",
+   "view": 1
+  },
+  {
+   "t": 2342225,
+   "role": "SCIENCE",
+   "clip": "m2_sci_near_flat_spot_tangent_796d92",
+   "text": "[gentle] Near a flat spot the tangent has nowhere to go but sideways, so it throws you into the next county. The method is superb and it is not safe, and knowing where it breaks is not a footnote to knowing how it works. It is the other half.",
+   "view": 0
+  },
+  {
+   "t": 2359467,
+   "role": "SCIENCE",
+   "clip": "m2_sci_slide_down_tangent_guess_5d99db",
+   "text": "[warm] Slide down the tangent and guess again, and the guesses collapse onto the answer, unless you start somewhere the ground is flat. Say that back in your own words, both halves of it, and the last working stop of this run is behind you.",
+   "view": 0
+  },
+  {
+   "t": 2376209,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_four_jumps_billionth_one_daeeee",
+   "text": "[dry] Four jumps to a billionth, and one bead lost over the horizon, out of the same rule with nothing changed but where you started it. I have decommissioned tools that behaved better than that, and I would still fit this one tomorrow.",
+   "view": 1
+  },
+  {
+   "t": 2400209,
+   "role": "SCIENCE",
+   "clip": "m2_sci_before_walls_come_down_812654",
+   "text": "[gentle] Before the walls come down. Four jumps took you to a billionth and the fifth bead went over the horizon. Say to yourself what made the first four collapse like that, and what the fifth one was standing on when it flung itself away.",
+   "view": 3
+  },
+  {
+   "t": 2418693,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_all_stations_end_run_75437b",
+   "text": "[hushed] All stations, that is the end of the run. Taking the walls down on my mark. Look low rather than high when they go, because there are two of these things out there and only one of them has ever been over your head. Stand by.",
+   "view": 3,
+   "sfx": "chime"
+  },
+  {
+   "t": 2440306,
+   "role": "SCIENCE",
+   "clip": "m2_sci_there_whole_corridor_from_574f17",
+   "text": "[hushed] There it is. The whole corridor from outside, and the roof we have flown under all this time is one curve hanging in the dark. Underneath it the floor ribbon, the steepness, running the entire length. One was read off the other.",
+   "view": 3
+  },
+  {
+   "t": 2457409,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_can_see_throat_from_24cde9",
+   "text": "[reflective] I can see the throat from here. That pinch a fifth of the way along, where the walls came in on us and I could not have told you at the time whether it was scenery. It was not. That was somebody naming a tolerance and being answered.",
+   "view": 1
+  },
+  {
+   "t": 2470750,
+   "role": "SCIENCE",
+   "clip": "m2_sci_nothing_on_run_was_ef0719",
+   "text": "[gentle] Nothing on this run was scenery. The width of the passage was how much room the mathematics was leaving you, the whole way through. And the little map in the corner of your eye is this same drawing, with a tick showing the tilt.",
+   "view": 3
+  },
+  {
+   "t": 2486134,
+   "role": "ENGINEERING",
+   "clip": "m2_eng_all_was_measured_in_181bed",
+   "text": "[reflective] And all of it was measured in front of me rather than asserted at me. I came aboard able to do a certain amount of this by rote and unable to say what any of it meant. I would not claim to be quick. I would claim to know what it is.",
+   "view": 1
+  },
+  {
+   "t": 2499196,
+   "role": "NAVIGATION",
+   "clip": "m2_nav_thirteen_beads_on_thread_0e53b5",
+   "text": "[hushed] Thirteen beads on the thread, and the staircase still glinting away at the far end where the guesses collapsed onto the answer. Ladder holding at a billionth. Helm logging the run complete, and the deck has gone very quiet back here.",
+   "view": 3
+  },
+  {
+   "t": 2513419,
+   "role": "SCIENCE",
+   "clip": "m2_sci_next_run_stop_flying_11bf41",
+   "text": "[gentle] Next run we stop flying over the space under this curve and start filling it. The ship grows a wake, the corridor behind us fills with light, and two instruments with no business agreeing read the same number for a whole corridor.",
+   "view": 3
+  },
+  {
+   "t": 2528896,
+   "role": "SCIENCE",
+   "clip": "m2_sci_say_run_back_comes_7c885d",
+   "text": "[warm] Say the run back and it comes out short. Slope is two touches. Close the two touches until the chord stops turning, and where it stops is the curve's own direction, ring by ring, drawn under your feet. Say that. Thank you for flying.",
+   "view": 0
+  }
+ ],
+ "fillers": [
+  {
+   "role": "ENGINEERING",
+   "clip": "m2_eng_quiet_stretch_doc_have_dff504",
+   "text": "[dry] Quiet stretch. Doc, I have noticed that every time I object to something on this run, the answer turns out to be that my objection is the reason the thing was built the way it was. I am not certain whether that is flattering."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m2_nav_rings_going_by_steady_c9d156",
+   "text": "[warm] Rings going by steady and the ribbon is holding overhead. Look around if you like. The roof is above you the whole length of this corridor, and it is worth turning your head to see how far ahead of us it has already been written."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m2_sci_one_thing_worth_carrying_2e9caa",
+   "text": "[gentle] One thing worth carrying between stops. Everything on this run is the same move made at different sizes: take two measurements a small distance apart, and ask what happens to the answer as you bring the two of them together."
+  },
+  {
+   "role": "NAVIGATION",
+   "clip": "m2_nav_rung_in_corner_your_48be5d",
+   "text": "[reflective] The rung in the corner of your eye is the size of the bite we are taking. Doc has asked me to keep half an eye on it the whole run and not to expect it back where it started. I have never flown an instrument quite like that."
+  },
+  {
+   "role": "ENGINEERING",
+   "clip": "m2_eng_have_been_on_wrong_7c0774",
+   "text": "[reflective] I have been on the wrong side of that argument for thirty years. Every time somebody said a quantity approaches a value I heard a shrug and stopped listening. It is not a shrug. It is a contract with a tolerance written into it."
+  },
+  {
+   "role": "SCIENCE",
+   "clip": "m2_sci_if_stretch_feels_as_5d97c9",
+   "text": "[warm] If a stretch of this feels as though it is going past too quickly, let it go past. Nothing later depends on your having caught every number. It depends on your having seen the chord stop turning, and that is a picture, not arithmetic."
+  }
+ ],
+ "segments": [
+  {
+   "label": "1.  THE MACHINE",
+   "startMs": 0,
+   "node": 0
+  },
+  {
+   "label": "2.  THE NARROWING",
+   "startMs": 189828,
+   "node": 1
+  },
+  {
+   "label": "3.  THE HOLE",
+   "startMs": 397063,
+   "node": 2
+  },
+  {
+   "label": "4.  THE CHORD",
+   "startMs": 587728,
+   "node": 3
+  },
+  {
+   "label": "5.  THE CLOSING JAW",
+   "startMs": 774377,
+   "node": 4
+  },
+  {
+   "label": "6.  THE STRAIGHT WORLD",
+   "startMs": 988368,
+   "node": 5
+  },
+  {
+   "label": "7.  THE FIELD OF SLOPES",
+   "startMs": 1190539,
+   "node": 6
+  },
+  {
+   "label": "8.  THE HANDOFF",
+   "startMs": 1377419,
+   "node": 7
+  },
+  {
+   "label": "9.  THE GROWING RECTANGLE",
+   "startMs": 1567667,
+   "node": 8
+  },
+  {
+   "label": "10.  THE SELF-SLOPE",
+   "startMs": 1762468,
+   "node": 9
+  },
+  {
+   "label": "11.  THE FLAT SPOT",
+   "startMs": 1972374,
+   "node": 10
+  },
+  {
+   "label": "12.  THE HUNT",
+   "startMs": 2180885,
+   "node": 11
+  },
+  {
+   "label": "13.  THE VIEW FROM OUTSIDE",
+   "startMs": 2398709,
+   "node": 12
+  }
+ ]
+}

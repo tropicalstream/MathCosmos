@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  MathCosmos launcher icon: THE COMPLETED SQUARE, caught one second before it is finished.
+
+  The x-by-x square is there, ruled into its unit tiles so it can be counted rather than believed.
+  The two half-strips that were cut from bx have already swung into place along its right edge and
+  its top. That leaves one corner missing — and the corner is arriving, up and to the right, in its
+  own colour, still glowing, because it was borrowed and the debt has to stay visible.
+
+  It is the app's whole argument in one shape: every quadratic is a square with a corner missing.
+  It also survives being shrunk to a launcher tile, which the other candidates did not — a parabola
+  reads as a smile at 48dp and a pair of caliper jaws reads as a bracket.
+
+  Everything sits inside the 66dp safe zone (x 26..85, y 22..82 of a 108 viewport), so no launcher
+  mask can crop the corner off, which would be an unfortunate thing to do to this particular icon.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- x squared: the piece you start with, filled and ruled three by three. -->
+    <path android:pathData="M26,38h44v44h-44z" android:fillColor="#FFC76B" android:fillAlpha="0.20" />
+    <path android:pathData="M26,38h44v44h-44z" android:strokeColor="#FFC76B" android:strokeWidth="2.6" />
+    <path android:pathData="M40.7,38v44" android:strokeColor="#FFC76B" android:strokeWidth="0.9" android:strokeAlpha="0.5" />
+    <path android:pathData="M55.3,38v44" android:strokeColor="#FFC76B" android:strokeWidth="0.9" android:strokeAlpha="0.5" />
+    <path android:pathData="M26,52.7h44" android:strokeColor="#FFC76B" android:strokeWidth="0.9" android:strokeAlpha="0.5" />
+    <path android:pathData="M26,67.3h44" android:strokeColor="#FFC76B" android:strokeWidth="0.9" android:strokeAlpha="0.5" />
+
+    <!-- The half-strip that never moved, down the right edge. -->
+    <path android:pathData="M70,38h12v44h-12z" android:fillColor="#B08240" android:fillAlpha="0.22" />
+    <path android:pathData="M70,38h12v44h-12z" android:strokeColor="#B08240" android:strokeWidth="2.2" />
+
+    <!-- The half that swung a quarter circle and came to rest along the top. -->
+    <path android:pathData="M26,26h44v12h-44z" android:fillColor="#B08240" android:fillAlpha="0.22" />
+    <path android:pathData="M26,26h44v12h-44z" android:strokeColor="#B08240" android:strokeWidth="2.2" />
+
+    <!-- The empty corner, outlined where it will seat. -->
+    <path android:pathData="M70,26h12v12h-12z" android:strokeColor="#FF7A72" android:strokeWidth="1.5" android:strokeAlpha="0.75" />
+
+    <!-- ...and the corner itself, still on its way down, keeping its own colour for good. -->
+    <path android:pathData="M74.5,20.5h12v12h-12z" android:fillColor="#8CF2D9" android:fillAlpha="0.34" />
+    <path android:pathData="M74.5,20.5h12v12h-12z" android:strokeColor="#8CF2D9" android:strokeWidth="2.6" />
+    <path android:pathData="M80.5,33.6v4.6" android:strokeColor="#8CF2D9" android:strokeWidth="1.3" android:strokeAlpha="0.55" />
+</vector>
