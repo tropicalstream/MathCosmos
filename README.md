@@ -12,6 +12,13 @@ No vendor SDK is required or included. The stereo is the app's own: the renderer
 viewports into one wide buffer and every 2D overlay is mirrored into both halves. The only thing
 the platform is told is a `com.rayneo.mercury.app` flag in the manifest.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="MathCosmos title screen, the M.S.V. Caliper measuring a rectangle">
+  <img src="images/flight.png" width="45%" alt="Caliper flying past the unit ruler and its powers-of-ten rings">
+</p>
+
 > ⚠️ **ALPHA.** All six tours are complete: 76 stops, 76 landmark scenes, 843 spoken lines, flown
 > and verified on the glasses at 30 fps and 28 °C.
 
